@@ -1,0 +1,1067 @@
+Order ID,Order Date,Region,Sales Rep,Product,Category,Units,Unit Price,Discount,Amount
+SO-202511-0001,"Nov 01, 2025",EAST,Mateo Ruiz,USB-C Hub,Peripherals,3,64.84,0,194.52
+SO-202511-0002,"Nov 20, 2025",WEST,Jonas Weber,Cable Tray,Accessories,8,19.23,0.15,130.76
+SO-202511-0400,"Nov 15, 2025",NORTH,Tariq Aziz,Monitor Arm,Accessories,1,91.84,0.1,82.66
+SO-202511-0003,"Nov 18, 2025",NORTH,Priya Raman,Webcam HD,Peripherals,4,75.62,0.05,287.36
+SO-202511-0004,"Nov 08, 2025",NORTH,Avery Lindqvist,Webcam HD,Peripherals,1,76.99,0,76.99
+SO-202511-0005,"Nov 21, 2025",WEST,Tariq Aziz,Laptop Stand,Accessories,4,46.13,0.05,175.29
+SO-202511-0006,"Nov 19, 2025",NORTH,Elena Petrova,Wireless Keyboard,Peripherals,12,57.47,0,689.64
+SO-202511-0007,"Nov 17, 2025",NORTH,Kenji Mori,Monitor Arm,Accessories,9,90.15,0.05,770.78
+SO-202511-0008,"Nov 17, 2025",CENTRAL,Mateo Ruiz,Standing Desk, Furniture  ,6,336.62,0,2019.72
+SO-202511-0009,"Nov 26, 2025",CENTRAL,Kenji Mori,Laptop Stand,Accessories,5,44.87,0,224.35
+SO-202511-0010,"Nov 13, 2025",WEST,Avery Lindqvist,Monitor Arm,Accessories,8,88.59,0.15,602.41
+SO-202511-0011,"Nov 30, 2025",CENTRAL,Avery Lindqvist,Standing Desk,Furniture,10,330.34,0.15,2807.89
+SO-202511-0012,"Nov 15, 2025",SOUTH,Noor Haddad,Webcam HD,Peripherals,10,76.92,0.1,692.28
+SO-202511-0013,"Nov 27, 2025",EAST,Noor Haddad,Task Light,Lighting,4,53.39,0,213.56
+SO-202511-0014,"Nov 16, 2025",NORTH,Priya Raman,Filing Cabinet,Furniture,8,141.14,0,1129.12
+SO-202511-0015,"Nov 30, 2025",SOUTH,Priya Raman,Laptop Stand,Accessories,12,44.42,0.15,453.08
+SO-202511-0016,"Nov 08, 2025",SOUTH,Mateo Ruiz,Laptop Stand,Accessories,12,45.66,0.1,493.13
+SO-202511-0017,"Nov 15, 2025",SOUTH,Jonas Weber,Cable Tray,Accessories,1,19.34,0,19.34
+SO-202511-0918,"Nov 30, 2025",EAST,Avery Lindqvist,Webcam HD,Peripherals,2,73.65,0,147.3
+SO-202511-0018,"Nov 08, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,5,138.34,0.1,622.53
+SO-202511-0019,"Nov 19, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,5,44.93,0,224.65
+SO-202511-0020,"Nov 19, 2025",WEST,Avery Lindqvist,Desk Lamp,Lighting,7,39.04,0.1,245.95
+SO-202511-0021,"Nov 10, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,5,19.53,0.15,83.0
+SO-202511-0022,"Nov 29, 2025",SOUTH,Elena Petrova,Ergonomic Chair,Furniture,1,250.32,0,250.32
+SO-202511-0023,"Nov 04, 2025",NORTH,Noor Haddad,Webcam HD,Peripherals,11,75.87,0,834.57
+SO-202511-0024,"Nov 28, 2025",NORTH,Mateo Ruiz,Standing Desk,Furniture,4,334.48,0,1337.92
+SO-202511-0025,"Nov 04, 2025",EAST,Jonas Weber,Standing Desk,Furniture,6,333.26,0,1999.56
+SO-202511-0026,"Nov 26, 2025",NORTH,Noor Haddad,Filing Cabinet,Furniture,11,138.87,0,1527.57
+SO-202511-0027,"Nov 12, 2025",WEST,Priya Raman,Monitor Arm,Accessories,9,90.82,0,817.38
+SO-202511-0028,"Nov 29, 2025",NORTH,Elena Petrova,Desk Lamp,Lighting,12,41.32,0.1,446.26
+SO-202511-0029,"Nov 08, 2025",SOUTH,Imani Okafor,Webcam HD,Peripherals,8,77.27,0.1,556.34
+SO-202511-0030,"Nov 20, 2025",SOUTH,Priya Raman,Desk Lamp,Lighting,9,40.97,0,368.73
+SO-202511-0031,"Nov 10, 2025",SOUTH,Noor Haddad,USB-C Hub,Peripherals,6,63.38,0.15,323.24
+SO-202511-0032,"Nov 02, 2025",NORTH,Sofia Duarte,Task Light,Lighting,8,53.7,0.15,365.16
+SO-202511-0033,"Nov 18, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,1,91.04,0.1,81.94
+SO-202511-0034,"Nov 17, 2025",CENTRAL,Mateo Ruiz,Ergonomic Chair,Furniture,3,248.65,0.05,708.65
+SO-202511-0035,"Nov 08, 2025",SOUTH,Sofia Duarte,Cable Tray,Accessories,5,18.89,0,94.45
+SO-202511-0036,"Nov 10, 2025",NORTH,Priya Raman,Laptop Stand,Accessories,10,46.52,0,465.2
+SO-202511-0037,"Nov 18, 2025",WEST,Elena Petrova,Cable Tray,Accessories,3,20.07,0,60.21
+SO-202511-0038,"Nov 18, 2025",NORTH,Sofia Duarte,Task Light,Lighting,11,52.44,0.05,548.0
+SO-202511-0039,"Nov 28, 2025",WEST,Imani Okafor,Desk Lamp,Lighting,7,38.97,0,272.79
+SO-202511-0040,"Nov 07, 2025",EAST,Kenji Mori,USB-C Hub,Peripherals,6,63.1,0,378.6
+SO-202511-0041,"Nov 18, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,7,43.73,0.05,290.8
+SO-202511-0042,"Nov 27, 2025",NORTH,Tariq Aziz,Ergonomic Chair,Furniture,11,254.05,0.1,2515.1
+SO-202511-0043,"Nov 09, 2025",EAST,Priya Raman,USB-C Hub,Peripherals,8,62.68,0.15,426.22
+SO-202511-0044,"Nov 23, 2025",WEST,Priya Raman,Laptop Stand,Accessories,12,43.83,0.15,447.07
+SO-202511-0045,"Nov 11, 2025",SOUTH,Sofia Duarte,Wireless Keyboard,Peripherals,9,57.5,0,
+SO-202511-0046,"Nov 13, 2025",WEST,Imani Okafor,Standing Desk,Furniture,7,318.97,0.05,2121.15
+SO-202511-0047,"Nov 06, 2025",NORTH,Tariq Aziz,Desk Lamp,Lighting,6,38.67,0.1,208.82
+SO-202511-0048,"Nov 21, 2025",SOUTH,Avery Lindqvist,Standing Desk,Furniture,1,328.91,0,328.91
+SO-202511-0049,"Nov 17, 2025",WEST,Jonas Weber,Laptop Stand,Accessories,4,46.2,0,184.8
+SO-202511-0050,"Nov 08, 2025",WEST,Elena Petrova,Cable Tray,Accessories,12,19.61,0,235.32
+SO-202511-0051,"Nov 14, 2025",SOUTH,Sofia Duarte,Laptop Stand,Accessories,7,43.96,0.15,261.56
+SO-202511-0052,"Nov 12, 2025",WEST,Tariq Aziz,Wireless Keyboard,Peripherals,4,58.42,0,233.68
+SO-202511-0053,"Nov 12, 2025",EAST,Tariq Aziz,Wireless Keyboard,Peripherals,7,59.36,0,415.52
+SO-202511-0054,"Nov 23, 2025",EAST,Mateo Ruiz,Ergonomic Chair,Furniture,8,243.87,0,1950.96
+SO-202511-0055,"Nov 06, 2025",NORTH,Mateo Ruiz,Bookshelf,Furniture,11,121.52,0.1,1203.05
+,,,,,,,,,
+SO-202511-0056,"Nov 06, 2025",WEST,Noor Haddad,Webcam HD,Peripherals,9,77.18,0,694.62
+SO-202511-0057,"Nov 20, 2025",SOUTH,Sofia Duarte,Cable Tray,Accessories,5,18.95,0.05,90.01
+SO-202511-0058,"Nov 02, 2025",EAST,Noor Haddad,Ergonomic Chair,Furniture,10,249.29,0,2492.9
+SO-202511-0059,"Nov 10, 2025",SOUTH,Sofia Duarte,Desk Lamp,Lighting,10,39.32,0.15,334.22
+SO-202511-0060,"Nov 27, 2025",EAST,Sofia Duarte,Monitor Arm,Accessories,2,89.39,0,178.78
+SO-202511-0061,"Nov 14, 2025",SOUTH,Sofia Duarte,Task Light,Lighting,6,54.05,0.05,308.09
+SO-202511-0062,"Nov 10, 2025",SOUTH,Tariq Aziz,Bookshelf,Furniture,2,116.02,0.1,208.84
+SO-202511-0063,"Nov 22, 2025",CENTRAL,Kenji Mori,Webcam HD,Peripherals,5,77.07,0,385.35
+SO-202511-0064,"Nov 10, 2025",EAST,Mateo Ruiz,Ergonomic Chair,Furniture,11,248.54,0,2733.94
+SO-202511-0065,"Nov 03, 2025",WEST,Imani Okafor,Bookshelf,Furniture,6,116.42,0,698.52
+SO-202511-0066,"Nov 27, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,3,59.19,0.05,168.69
+SO-202511-0067,"Nov 14, 2025",NORTH,Sofia Duarte,USB-C Hub,Peripherals,10,63.61,0,636.1
+SO-202511-0068,"Nov 18, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,10,56.98,0.1,512.82
+SO-202511-0069,"Nov 26, 2025",EAST,Avery Lindqvist,Cable Tray,Accessories,7,20.01,0,140.07
+SO-202511-0070,"Nov 13, 2025",SOUTH,Kenji Mori,Desk Lamp,Lighting,6,39.81,0,238.86
+SO-202511-0071,"Nov 18, 2025",EAST,Sofia Duarte,Monitor Arm,Accessories,11,87.44,0.05,913.75
+SO-202511-0072,"Nov 13, 2025",SOUTH,Priya Raman,Task Light,Lighting,4,56.0,0.05,212.8
+SO-202511-0073,"Nov 12, 2025",NORTH,Jonas Weber,Laptop Stand,Accessories,4,43.29,0.15,147.19
+SO-202511-0074,"Nov 02, 2025",NORTH,Jonas Weber,Wireless Keyboard,Peripherals,2,60.34,0,120.68
+SO-202511-0075,"Nov 07, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,1,20.07,0.1,18.06
+SO-202511-0076,"Nov 14, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,9,19.12,0,172.08
+SO-202511-0077,"Nov 14, 2025",NORTH,Sofia Duarte,Desk Lamp,Lighting,8,40.34,0.15,274.31
+SO-202511-0078,"Nov 14, 2025",NORTH,Noor Haddad,Wireless Keyboard,Peripherals,3,57.9,0,173.7
+SO-202511-0079,"Nov 13, 2025",EAST,Noor Haddad,USB-C Hub,Peripherals,12,63.58,0.05,724.81
+SO-202511-0080,"Nov 03, 2025",NORTH,Avery Lindqvist,Monitor Arm,Accessories,5,88.19,0,440.95
+SO-202511-0081,"Nov 27, 2025",NORTH,Noor Haddad,Webcam HD,Peripherals,5,77.4,0.1,348.3
+SO-202511-0082,"Nov 13, 2025",WEST,Imani Okafor,Standing Desk,Furniture,7,321.39,0.05,2137.24
+SO-202511-0083,"Nov 19, 2025",EAST,Avery Lindqvist,Filing Cabinet,Furniture,3,142.78,0.1,385.51
+SO-202511-0084,"Nov 12, 2025",WEST,Elena Petrova,Monitor Arm,Accessories,1,90.84,0,90.84
+SO-202511-0085,"Nov 19, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,10,45.69,0,456.9
+SO-202511-0086,"Nov 09, 2025",WEST,Jonas Weber,USB-C Hub, Peripherals  ,12,66.2,0,794.4
+SO-202511-0087,"Nov 09, 2025",EAST,Priya Raman,Ergonomic Chair,Furniture,9,252.09,0,2268.81
+SO-202511-0088,"Nov 02, 2025",SOUTH,Kenji Mori,Task Light,Lighting,8,54.2,0.05,411.92
+SO-202511-0089,"Nov 23, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,11,323.66,0,3560.26
+SO-202511-0090,"Nov 30, 2025",NORTH,Kenji Mori,Standing Desk,Furniture,5,317.99,0.05,1510.45
+SO-202511-0091,"Nov 14, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,4,19.93,0.15,67.76
+SO-202511-0092,"Nov 21, 2025",EAST,Tariq Aziz,Desk Lamp,Lighting,2,40.8,0.1,73.44
+SO-202511-0093,"Nov 12, 2025",SOUTH,Priya Raman,Filing Cabinet,Furniture,9,137.36,0.15,1050.8
+SO-202511-0094,"Nov 11, 2025",CENTRAL,Tariq Aziz,Webcam HD,Peripherals,9,74.74,0,672.66
+SO-202511-0095,"Nov 05, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,8,64.65,0.1,465.48
+SO-202511-0096,"Nov 24, 2025",WEST,Avery Lindqvist,Cable Tray,Accessories,6,19.67,0.1,106.22
+SO-202511-0097,"Nov 11, 2025",SOUTH,Sofia Duarte,Wireless Keyboard,Peripherals,10,58.47,0,584.7
+SO-202511-0098,"Nov 04, 2025",EAST,Sofia Duarte,Filing Cabinet,Furniture,4,143.63,0,574.52
+SO-202511-0099,"Nov 11, 2025",WEST,Sofia Duarte,Wireless Keyboard,Peripherals,7,59.84,0.1,376.99
+SO-202511-0100,"Nov 22, 2025",WEST,Jonas Weber,Ergonomic Chair,Furniture,4,255.68,0,1022.72
+SO-202511-0101,"Nov 30, 2025",NORTH,Kenji Mori,Webcam HD,Peripherals,6,74.41,0,446.46
+SO-202511-0102,"Nov 14, 2025",NORTH,Mateo Ruiz,Cable Tray,Accessories,5,19.91,0.1,89.6
+SO-202511-0103,"Nov 13, 2025",CENTRAL,Priya Raman,Laptop Stand,Accessories,3,46.18,0,138.54
+SO-202511-0104,"Nov 02, 2025",NORTH,Tariq Aziz,Standing Desk,Furniture,1,317.08,0,317.08
+SO-202511-0105,"Nov 18, 2025",CENTRAL,Avery Lindqvist,Desk Lamp,Lighting,3,40.16,0.1,108.43
+SO-202511-0106,"Nov 03, 2025",SOUTH,Kenji Mori,Webcam HD,Peripherals,8,75.33,0.15,512.24
+SO-202511-0107,"Nov 20, 2025",NORTH,Tariq Aziz,Desk Lamp,Lighting,12,38.38,0,460.56
+SO-202511-0108,"Nov 09, 2025",EAST, Imani Okafor  ,Bookshelf,Furniture,7,116.53,0.05,774.92
+SO-202511-0109,"Nov 15, 2025",EAST,Mateo Ruiz,Bookshelf,Furniture,5,120.47,0,602.35
+SO-202511-0110,"Nov 22, 2025",SOUTH,Tariq Aziz,Ergonomic Chair,Furniture,5,251.4,0.05,1194.15
+SO-202511-0111,"Nov 16, 2025",CENTRAL,Mateo Ruiz,Wireless Keyboard,Peripherals,12,59.6,0,715.2
+SO-202511-0112,"Nov 10, 2025",SOUTH,Mateo Ruiz,Laptop Stand,Accessories,3,44.0,0,132.0
+SO-202511-0113,"Nov 19, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,11,45.38,0,499.18
+SO-202511-0114,"Nov 16, 2025",NORTH,Noor Haddad,Cable Tray,Accessories,1,19.81,0,19.81
+SO-202511-0115,"Nov 04, 2025",EAST,Tariq Aziz,Webcam HD,Peripherals,5,74.6,0.15,317.05
+SO-202511-0116,"Nov 28, 2025",WEST,Noor Haddad,Wireless Keyboard,Peripherals,12,57.1,0.1,616.68
+SO-202511-0117,"Nov 12, 2025",WEST,Imani Okafor,Monitor Arm,Accessories,2,91.72,0,183.44
+SO-202511-0118,"Nov 28, 2025",CENTRAL,Kenji Mori,Wireless Keyboard,Peripherals,3,60.35,0,181.05
+SO-202511-0119,"Nov 08, 2025",WEST,Avery Lindqvist,Monitor Arm,Accessories,3,91.56,0.05,260.95
+SO-202511-0120,"Nov 03, 2025",SOUTH,Kenji Mori,Webcam HD,Peripherals,4,72.1,0.05,273.98
+SO-202511-0121,"Nov 12, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,11,88.91,0.15,831.31
+SO-202511-0122,"Nov 04, 2025",SOUTH,Elena Petrova,Cable Tray,Accessories,7,20.1,0.15,119.6
+SO-202511-0123,"Nov 17, 2025",SOUTH,Elena Petrova,Cable Tray,Accessories,3,19.59,0,58.77
+SO-202511-0124,"Nov 17, 2025",CENTRAL,Kenji Mori,Monitor Arm,Accessories,6,88.08,0.15,449.21
+SO-202511-0125,"Nov 15, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,1,20.13,0,20.13
+SO-202511-0126,"Nov 17, 2025",WEST,Elena Petrova,Wireless Keyboard,Peripherals,2,60.87,0,121.74
+SO-202511-0127,"Nov 08, 2025",EAST,Kenji Mori,Task Light,Lighting,2,51.85,0,103.7
+SO-202511-0128,"Nov 17, 2025",NORTH,Sofia Duarte,Webcam HD,Peripherals,6,77.38,0.05,441.07
+SO-202511-0129,"Nov 17, 2025",SOUTH,Kenji Mori,Standing Desk,Furniture,3,331.62,0.15,845.63
+SO-202511-0130,"Nov 10, 2025",WEST,Elena Petrova,Wireless Keyboard,Peripherals,4,60.84,0.15,206.86
+SO-202511-0131,"Nov 07, 2025",WEST,Jonas Weber,Laptop Stand,Accessories,6,45.66,0,273.96
+SO-202511-0132,"Nov 25, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,10,44.1,0,441.0
+SO-202511-0133,"Nov 30, 2025",WEST,Elena Petrova,Monitor Arm,Accessories,4,85.9,0,343.6
+SO-202511-0134,"Nov 30, 2025",EAST,Priya Raman,Desk Lamp,Lighting,9,39.56,0.1,320.44
+SO-202511-0135,"Nov 08, 2025",WEST,Jonas Weber,Filing Cabinet,Furniture,3,135.34,0,406.02
+SO-202511-0136,"Nov 09, 2025",WEST,Sofia Duarte,Laptop Stand,Accessories,11,44.58,0,490.38
+SO-202511-0137,"Nov 07, 2025",CENTRAL,Sofia Duarte,Cable Tray,Accessories,9,19.99,0.15,152.92
+SO-202511-0138,"Nov 25, 2025",NORTH,Priya Raman,Cable Tray,Accessories,4,19.83,0,79.32
+SO-202511-0139,"Nov 24, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,3,46.23,0,138.69
+SO-202511-0140,"Nov 06, 2025",WEST,Kenji Mori,USB-C Hub,Peripherals,4,64.13,0,256.52
+SO-202511-0141,"Nov 04, 2025",NORTH,Elena Petrova,Standing Desk,Furniture,9,341.0,0.1,2762.1
+SO-202511-0142,"Nov 26, 2025",EAST,Elena Petrova,Monitor Arm,Accessories,2,88.86,0.15,151.06
+SO-202511-0143,"Nov 15, 2025",SOUTH,Mateo Ruiz,Desk Lamp,Lighting,11,38.58,0,424.38
+SO-202511-0707,"Nov 16, 2025",SOUTH,Kenji Mori,USB-C Hub,Peripherals,9,63.03,0.1,510.54
+SO-202511-0144,"Nov 24, 2025",WEST,Priya Raman,Cable Tray,Accessories,2,18.75,0.15,31.88
+SO-202511-0145,"Nov 14, 2025",NORTH,Tariq Aziz,Task Light,Lighting,4,52.3,0.15,177.82
+SO-202511-0146,"Nov 27, 2025",WEST,Imani Okafor,Laptop Stand,Accessories,4,46.51,0.1,167.44
+SO-202511-0147,"Nov 15, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,2,19.32,0,38.64
+SO-202511-0148,"Nov 07, 2025",NORTH,Avery Lindqvist,Filing Cabinet,Furniture,12,143.57,0.1,1550.56
+SO-202511-0149,"Nov 23, 2025",CENTRAL,Mateo Ruiz,Monitor Arm,Accessories,2,86.65,0,173.3
+SO-202511-0150,"Nov 03, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,10,61.46,0.15,522.41
+SO-202511-0151,"Nov 08, 2025",NORTH,Sofia Duarte,Ergonomic Chair,Furniture,5,246.19,0,1230.95
+SO-202511-0152,"Nov 16, 2025",WEST,Noor Haddad,Cable Tray,Accessories,12,20.23,0.1,218.48
+SO-202511-0153,"Nov 30, 2025",CENTRAL,Jonas Weber,USB-C Hub,Peripherals,2,65.65,0,131.3
+SO-202511-0154,"Nov 24, 2025",NORTH,Tariq Aziz,Webcam HD,Peripherals,10,72.95,0.1,656.55
+SO-202511-0155,"Nov 12, 2025",EAST,Tariq Aziz,Webcam HD,Peripherals,4,76.69,0.05,291.42
+SO-202511-0156,"Nov 24, 2025",EAST,Noor Haddad,Bookshelf,Furniture,3,122.57,0,367.71
+SO-202511-0157,"Nov 13, 2025",WEST,Jonas Weber,Ergonomic Chair, Furniture  ,5,243.74,0,1218.7
+SO-202511-0158,"Nov 01, 2025",NORTH,Tariq Aziz,Webcam HD,Peripherals,8,74.65,0,597.2
+SO-202511-0159,"Nov 07, 2025",WEST,Avery Lindqvist,Cable Tray,Accessories,2,18.82,0,37.64
+SO-202511-0160,"Nov 19, 2025",NORTH,Jonas Weber,Wireless Keyboard,Peripherals,11,57.09,0.15,533.79
+SO-202511-0161,"Nov 11, 2025",NORTH,Elena Petrova,Wireless Keyboard,Peripherals,10,59.17,0,591.7
+,"Nov 07, 2025",SOUTH,Jonas Weber,Ergonomic Chair,Furniture,12,257.99,0.05,2941.09
+SO-202511-0163,"Nov 01, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,7,20.13,0.1,126.82
+SO-202511-0164,"Nov 29, 2025",EAST,Kenji Mori,Standing Desk,Furniture,9,322.67,0,2904.03
+SO-202511-0165,"Nov 05, 2025",NORTH,Jonas Weber,Bookshelf,Furniture,9,122.6,0.15,937.89
+SO-202511-0166,"Nov 01, 2025",CENTRAL,Imani Okafor,Webcam HD,Peripherals,8,73.74,0.15,501.43
+SO-202511-0167,"Nov 30, 2025",NORTH,Elena Petrova,USB-C Hub,Peripherals,10,62.45,0.1,562.05
+SO-202511-0168,"Nov 18, 2025",SOUTH,Kenji Mori,Standing Desk,Furniture,3,340.42,0,1021.26
+SO-202511-0169,"Nov 11, 2025",WEST,Jonas Weber,Task Light,Lighting,4,54.57,0.1,196.45
+SO-202511-0170,"Nov 14, 2025",EAST,Avery Lindqvist,Wireless Keyboard,Peripherals,3,59.39,0,178.17
+SO-202511-0171,"Nov 14, 2025",WEST,Noor Haddad,Webcam HD,Peripherals,10,76.3,0.1,686.7
+SO-202511-0172,"Nov 26, 2025",CENTRAL,Jonas Weber,USB-C Hub,Peripherals,1,62.44,0.1,56.2
+SO-202511-0173,"Nov 12, 2025",SOUTH,Noor Haddad,Webcam HD,Peripherals,7,75.6,0.15,449.82
+SO-202511-0174,"Nov 12, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,2,19.9,0.1,35.82
+SO-202511-0175,"Nov 04, 2025",WEST,Priya Raman,Wireless Keyboard,Peripherals,8,59.61,0,476.88
+SO-202511-0176,"Nov 30, 2025",WEST,Priya Raman,USB-C Hub,Peripherals,4,66.2,0,264.8
+SO-202511-0177,"Nov 07, 2025",NORTH,Avery Lindqvist,Cable Tray,Accessories,2,19.42,0,38.84
+SO-202511-0178,"Nov 11, 2025",WEST,Kenji Mori,Desk Lamp,Lighting,5,38.96,0.15,165.58
+SO-202511-0179,"Nov 10, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,6,40.79,0.15,208.03
+SO-202511-0180,"Nov 11, 2025",EAST,Mateo Ruiz,Laptop Stand,Accessories,10,45.17,0,451.7
+SO-202511-0181,"Nov 05, 2025",WEST,Jonas Weber,Ergonomic Chair,Furniture,7,251.57,0,1760.99
+SO-202511-0182,"Nov 21, 2025",EAST,Sofia Duarte,Bookshelf,Furniture,1,122.93,0,122.93
+SO-202511-0183,"Nov 24, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,8,118.71,0,949.68
+SO-202511-0184,"Nov 23, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,6,58.98,0.05,336.19
+SO-202511-0185,"Nov 19, 2025",EAST,Elena Petrova,Task Light,Lighting,1,53.53,0,53.53
+SO-202511-1001,"Nov 15, 2025",NORTH,Avery Lindqvist,Cable Tray,Accessories,6,19.37,0.15,98.79
+SO-202511-0186,"Nov 03, 2025",WEST,Kenji Mori,Cable Tray,Accessories,5,19.05,0,95.25
+SO-202511-0187,"Nov 28, 2025",EAST,Imani Okafor,Ergonomic Chair,Furniture,3,246.72,0,740.16
+SO-202511-0188,"Nov 20, 2025",WEST,Noor Haddad,Cable Tray,Accessories,5,19.88,0.15,84.49
+SO-202511-0189,"Nov 08, 2025",EAST,Priya Raman,USB-C Hub,Peripherals,8,65.45,0,523.6
+SO-202511-0190,"Nov 20, 2025",WEST,Kenji Mori,Ergonomic Chair,Furniture,7,242.59,0.1,1528.32
+SO-202511-0191,"Nov 17, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,7,39.14,0.1,246.58
+SO-202511-0192,"Nov 06, 2025",NORTH,Imani Okafor,Task Light,Lighting,12,53.13,0.1,573.8
+SO-202511-0193,"Nov 09, 2025",NORTH,Jonas Weber,Standing Desk,Furniture,6,328.06,0.15,1673.11
+SO-202511-0194,"Nov 01, 2025",NORTH,Imani Okafor,Desk Lamp,Lighting,8,39.99,0,319.92
+SO-202511-0195,"Nov 20, 2025",CENTRAL,Kenji Mori,Standing Desk,Furniture,4,340.12,0,1360.48
+SO-202511-0196,"Nov 01, 2025",NORTH,Priya Raman,Bookshelf,Furniture,10,118.65,0.15,1008.53
+SO-202511-0197,"Nov 25, 2025",WEST,Elena Petrova,Monitor Arm,Accessories,11,85.7,0.05,895.57
+SO-202511-0198,"Nov 27, 2025",SOUTH,Mateo Ruiz,Desk Lamp,Lighting,5,39.62,0.1,178.29
+SO-202511-0199,"Nov 05, 2025",SOUTH,Mateo Ruiz,Cable Tray,Accessories,2,19.1,0.1,34.38
+SO-202511-0200,"Nov 17, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,2,86.52,0.05,164.39
+SO-202511-0201,"Nov 08, 2025",NORTH,Kenji Mori,Filing Cabinet,Furniture,9,135.62,0,1220.58
+SO-202511-0202,"Nov 17, 2025",SOUTH,Jonas Weber,Desk Lamp,Lighting,11,39.86,0.15,372.69
+SO-202511-0203,"Nov 11, 2025",NORTH,Tariq Aziz,Standing Desk,Furniture,1,325.77,0.15,276.9
+SO-202511-0204,"Nov 22, 2025",NORTH,Kenji Mori,Wireless Keyboard,Peripherals,7,61.02,0.05,405.78
+SO-202511-0205,"Nov 06, 2025",NORTH,Kenji Mori,Desk Lamp,Lighting,10,39.9,0.1,359.1
+SO-202511-0206,"Nov 30, 2025",CENTRAL,Sofia Duarte,Cable Tray,Accessories,5,19.98,0.1,89.91
+SO-202511-0207,"Nov 30, 2025",WEST,Priya Raman,USB-C Hub,Peripherals,3,64.44,0.15,164.32
+SO-202511-0208,"Nov 24, 2025",EAST,Elena Petrova,Desk Lamp,Lighting,10,38.39,0,383.9
+SO-202511-0209,"Nov 06, 2025",SOUTH,Sofia Duarte,Ergonomic Chair,Furniture,11,251.74,0.05,2630.68
+SO-202511-0210,"Nov 24, 2025",EAST,Priya Raman,Webcam HD,Peripherals,8,73.14,0.1,526.61
+SO-202511-0211,"Nov 30, 2025",SOUTH,Sofia Duarte,Cable Tray,Accessories,8,19.58,0.05,148.81
+SO-202511-0212,"Nov 11, 2025",EAST,Elena Petrova,USB-C Hub,Peripherals,10,64.01,0,640.1
+SO-202511-0213,"Nov 13, 2025",NORTH,Sofia Duarte,Desk Lamp,Lighting,1,40.19,0.05,38.18
+SO-202511-0214,"Nov 16, 2025",SOUTH,Tariq Aziz,Ergonomic Chair,Furniture,2,240.62,0.1,433.12
+SO-202511-0215,"Nov 14, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,6,19.22,0.1,103.79
+SO-202511-0216,"Nov 26, 2025",CENTRAL,Tariq Aziz,Desk Lamp,Lighting,2,40.9,0.05,77.71
+SO-202511-0217,"Nov 16, 2025",CENTRAL,Jonas Weber,Desk Lamp,Lighting,4,39.11,0,156.44
+SO-202511-0218,"Nov 01, 2025",EAST,Avery Lindqvist,Standing Desk, Furniture  ,8,325.68,0,2605.44
+SO-202511-0219,"Nov 18, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,8,54.12,0.05,411.31
+SO-202511-0220,"Nov 13, 2025",NORTH,Tariq Aziz,Webcam HD,Peripherals,8,76.16,0.15,517.89
+SO-202511-0221,"Nov 25, 2025",NORTH,Jonas Weber,Cable Tray,Accessories,10,19.65,0,196.5
+SO-202511-0222,"Nov 22, 2025",WEST,Tariq Aziz,Filing Cabinet,Furniture,8,138.42,0.05,1051.99
+SO-202511-0223,"Nov 17, 2025",SOUTH,Tariq Aziz,Bookshelf,Furniture,5,118.97,0,594.85
+SO-202511-0224,"Nov 24, 2025",WEST,Sofia Duarte,Filing Cabinet,Furniture,7,136.32,0,954.24
+SO-202511-0225,"Nov 04, 2025",WEST,Mateo Ruiz,Ergonomic Chair,Furniture,6,249.89,0.05,1424.37
+SO-202511-0226,"Nov 10, 2025",NORTH,Kenji Mori,Laptop Stand,Accessories,8,43.63,0,349.04
+SO-202511-0227,"Nov 14, 2025",EAST,Avery Lindqvist,Monitor Arm,Accessories,7,91.17,0,638.19
+SO-202511-0228,"Nov 30, 2025",CENTRAL,Imani Okafor,Cable Tray,Accessories,12,19.19,0,230.28
+SO-202511-0229,"Nov 01, 2025",SOUTH,Avery Lindqvist,Webcam HD,Peripherals,2,71.82,0.05,136.46
+SO-202511-0230,"Nov 16, 2025",SOUTH,Noor Haddad,Task Light,Lighting,1,55.19,0.1,49.67
+,,,,,,,,,
+SO-202511-0231,"Nov 06, 2025",WEST,Mateo Ruiz,Monitor Arm,Accessories,8,91.64,0,733.12
+SO-202511-0232,"Nov 04, 2025",WEST,Sofia Duarte,Bookshelf,Furniture,7,122.93,0.05,817.48
+SO-202511-0233,"Nov 14, 2025",NORTH,Noor Haddad,Monitor Arm,Accessories,1,86.66,0,86.66
+SO-202511-0234,"Nov 12, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,12,45.88,0.1,495.5
+SO-202511-0235,"Nov 26, 2025",NORTH,Kenji Mori,Wireless Keyboard,Peripherals,2,56.81,0.1,102.26
+SO-202511-0236,"Nov 22, 2025",SOUTH,Noor Haddad,Laptop Stand, Accessories  ,9,45.7,0.15,349.61
+SO-202511-0237,"Nov 14, 2025",WEST,Imani Okafor,Desk Lamp,Lighting,8,39.11,0.1,281.59
+SO-202511-0238,"Nov 09, 2025",SOUTH,Avery Lindqvist,Ergonomic Chair,Furniture,12,249.71,0,2996.52
+SO-202511-0239,"Nov 13, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,11,253.78,0.1,2512.42
+SO-202511-0240,"Nov 04, 2025",WEST,Kenji Mori,Wireless Keyboard,Peripherals,2,61.18,0,122.36
+SO-202511-0241,"Nov 30, 2025",CENTRAL,Tariq Aziz,Laptop Stand,Accessories,11,46.06,0,506.66
+SO-202511-0242,"Nov 23, 2025",CENTRAL,Imani Okafor,Desk Lamp,Lighting,4,39.2,0.15,133.28
+SO-202511-0243,"Nov 10, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,9,136.18,0.1,1103.06
+SO-202511-0244,"Nov 12, 2025",SOUTH,Kenji Mori,Monitor Arm,Accessories,9,88.85,0.05,759.67
+SO-202511-0245,"Nov 21, 2025",SOUTH,Imani Okafor,Ergonomic Chair,Furniture,11,251.75,0,2769.25
+SO-202511-0246,"Nov 01, 2025",EAST,Elena Petrova,Cable Tray,Accessories,1,19.15,0,19.15
+SO-202511-0247,"Nov 18, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,11,329.5,0,3624.5
+SO-202511-0174,"Nov 12, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,2,19.9,0.1,35.82
+SO-202511-0248,"Nov 21, 2025",NORTH,Noor Haddad,Cable Tray,Accessories,4,19.3,0.15,65.62
+SO-202511-0249,"Nov 21, 2025",EAST,Imani Okafor,Ergonomic Chair,Furniture,10,253.65,0.15,2156.03
+SO-202511-0250,"Nov 08, 2025",NORTH,Elena Petrova,Webcam HD,Peripherals,5,75.73,0,378.65
+SO-202511-0251,"Nov 15, 2025",WEST,Imani Okafor,Cable Tray,Accessories,3,19.89,0,59.67
+SO-202511-0252,"Nov 20, 2025",CENTRAL,Jonas Weber,Laptop Stand,Accessories,9,46.41,0.05,396.81
+SO-202511-0253,"Nov 29, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,8,139.91,0,1119.28
+SO-202511-0254,"Nov 10, 2025",NORTH,Sofia Duarte,Ergonomic Chair,Furniture,6,253.87,0.05,1447.06
+SO-202511-0967,"Nov 05, 2025",NORTH,Mateo Ruiz,Bookshelf,Furniture,8,118.84,0.05,903.18
+SO-202511-0255,"Nov 28, 2025",NORTH,Priya Raman,Filing Cabinet,Furniture,10,140.14,0.1,1261.26
+SO-202511-0256,"Nov 19, 2025",EAST,Sofia Duarte,Monitor Arm,Accessories,6,86.81,0,520.86
+SO-202511-0257,"Nov 03, 2025",CENTRAL,Jonas Weber,Desk Lamp,Lighting,9,40.59,0,365.31
+SO-202511-0258,"Nov 08, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,8,135.9,0.15,924.12
+SO-202511-0259,"Nov 02, 2025",SOUTH,Jonas Weber,Bookshelf,Furniture,9,116.65,0.15,892.37
+SO-202511-0260,"Nov 30, 2025",SOUTH,Avery Lindqvist,Bookshelf,Furniture,2,120.07,0.05,228.13
+SO-202511-0261,"Nov 13, 2025",CENTRAL,Elena Petrova,Laptop Stand,Accessories,8,45.22,0.1,325.58
+SO-202511-0262,"Nov 22, 2025",CENTRAL,Kenji Mori, Cable Tray  ,Accessories,4,18.91,0.1,68.08
+SO-202511-0263,"Nov 18, 2025",WEST,Imani Okafor,Wireless Keyboard,Peripherals,11,59.83,0,658.13
+SO-202511-0264,"Nov 08, 2025",CENTRAL,Noor Haddad,Wireless Keyboard,Peripherals,11,57.62,0.1,570.44
+SO-202511-0265,"Nov 29, 2025",NORTH,Mateo Ruiz,Laptop Stand,Accessories,4,44.48,0.15,151.23
+SO-202511-0266,"Nov 13, 2025",NORTH,Priya Raman,Laptop Stand,Accessories,5,46.17,0.05,219.31
+SO-202511-0267,"Nov 14, 2025",EAST,Noor Haddad,USB-C Hub,Peripherals,12,65.26,0.05,743.96
+SO-202511-0268,"Nov 25, 2025",NORTH,Elena Petrova,Laptop Stand,Accessories,9,43.74,0.15,334.61
+SO-202511-0269,"Nov 17, 2025",SOUTH,Imani Okafor,Desk Lamp,Lighting,5,40.62,0.1,182.79
+SO-202511-0270,"Nov 10, 2025",SOUTH,Priya Raman,Standing Desk,Furniture,7,321.04,0.05,2134.92
+SO-202511-0271,"Nov 25, 2025",EAST,Imani Okafor,Laptop Stand,Accessories,8,46.28,0.05,351.73
+SO-202511-0272,"Nov 15, 2025",CENTRAL,Priya Raman,USB-C Hub,Peripherals,8,63.87,0,510.96
+SO-202511-0273,"Nov 25, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,4,20.15,0.15,68.51
+SO-202511-0274,"Nov 23, 2025",EAST,Kenji Mori,Bookshelf,Furniture,8,117.22,0.15,797.1
+SO-202511-0275,"Nov 29, 2025",SOUTH,Tariq Aziz,Wireless Keyboard,Peripherals,10,56.8,0,568.0
+SO-202511-0276,"Nov 18, 2025",NORTH,Priya Raman,Standing Desk,Furniture,4,321.29,0.05,1220.9
+SO-202511-0277,"Nov 27, 2025",NORTH,Tariq Aziz,Laptop Stand,Accessories,3,43.48,0,130.44
+SO-202511-0278,"Nov 24, 2025",SOUTH,Kenji Mori,Wireless Keyboard,Peripherals,2,58.81,0.15,99.98
+SO-202511-0279,"Nov 14, 2025",EAST,Imani Okafor,Ergonomic Chair,Furniture,5,250.52,0.15,1064.71
+SO-202511-0280,"Nov 21, 2025",EAST,Sofia Duarte,Cable Tray,Accessories,4,19.19,0.1,69.08
+SO-202511-0281,"Nov 14, 2025",SOUTH,Mateo Ruiz,Monitor Arm,Accessories,3,90.55,0,271.65
+SO-202511-0282,"Nov 21, 2025",WEST,Imani Okafor,Task Light,Lighting,6,54.36,0.1,293.54
+SO-202511-0283,"Nov 14, 2025",EAST,Kenji Mori,Webcam HD,Peripherals,12,72.14,0.1,779.11
+SO-202511-0284,"Nov 28, 2025",NORTH,Imani Okafor,Standing Desk,Furniture,9,315.9,0.15,2416.64
+SO-202511-0285,"Nov 20, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,9,72.31,0,650.79
+SO-202511-0286,"Nov 01, 2025",EAST,Priya Raman,Cable Tray,Accessories,4,19.83,0.1,71.39
+SO-202511-0287,"Nov 08, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,9,43.79,0.05,374.4
+SO-202511-0288,"Nov 17, 2025",WEST,Sofia Duarte,Standing Desk,Furniture,8,315.97,0.05,2401.37
+SO-202511-0289,"Nov 10, 2025",CENTRAL,Elena Petrova,Standing Desk,Furniture,12,338.86,0.15,3456.37
+SO-202511-0290,"Nov 06, 2025",CENTRAL,Imani Okafor,Wireless Keyboard,Peripherals,6,57.32,0.1,309.53
+SO-202511-0291,"Nov 06, 2025",EAST,Kenji Mori,Desk Lamp,Lighting,3,40.16,0,120.48
+SO-202511-0292,"Nov 22, 2025",NORTH,Noor Haddad,Filing Cabinet,Furniture,11,134.99,0.05,1410.65
+SO-202511-0293,"Nov 05, 2025",WEST,Noor Haddad,Desk Lamp,Lighting,9,38.85,0,349.65
+SO-202511-0294,"Nov 05, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,11,52.2,0.15,488.07
+SO-202511-0295,"Nov 12, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,10,75.6,0,756.0
+SO-202511-0296,"Nov 15, 2025",EAST,Noor Haddad, USB-C Hub  ,Peripherals,5,65.7,0.05,312.08
+SO-202511-0297,"Nov 08, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,12,142.02,0,1704.24
+SO-202511-0298,"Nov 29, 2025",EAST,Tariq Aziz,Monitor Arm,Accessories,4,85.91,0.1,309.28
+SO-202511-0299,"Nov 22, 2025",NORTH,Avery Lindqvist,Ergonomic Chair,Furniture,2,257.53,0,515.06
+SO-202511-0300,"Nov 30, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,11,246.51,0.15,2304.87
+SO-202511-0301,"Nov 11, 2025",SOUTH,Avery Lindqvist,Webcam HD,Peripherals,9,75.21,0.1,609.2
+SO-202511-0302,"Nov 27, 2025",CENTRAL,Kenji Mori,Webcam HD,Peripherals,5,74.89,0,374.45
+SO-202511-0303,"Nov 24, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,4,19.71,0,78.84
+SO-202511-0304,"Nov 26, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,9,88.67,0.05,758.13
+SO-202511-0305,"Nov 14, 2025",EAST,Noor Haddad,Wireless Keyboard,Peripherals,12,57.33,0,687.96
+SO-202511-0306,"Nov 25, 2025",WEST,Noor Haddad,Wireless Keyboard,Peripherals,9,61.18,0,550.62
+SO-202511-0307,"Nov 25, 2025",SOUTH,Priya Raman,Task Light,Lighting,8,55.62,0,444.96
+SO-202511-0308,"Nov 25, 2025",CENTRAL,Elena Petrova,Standing Desk,Furniture,9,316.17,0.15,2418.7
+SO-202511-0309,"Nov 17, 2025",SOUTH,Imani Okafor,Cable Tray,Accessories,10,19.84,0,198.4
+SO-202511-0310,"Nov 08, 2025",SOUTH,Sofia Duarte,Wireless Keyboard,Peripherals,9,56.68,0,510.12
+SO-202511-0311,"Nov 04, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,12,18.96,0.1,204.77
+SO-202511-0312,"Nov 04, 2025",NORTH,Noor Haddad,Filing Cabinet, Furniture  ,12,143.99,0.15,1468.7
+SO-202511-0313,"Nov 18, 2025",WEST,Tariq Aziz,Bookshelf,Furniture,5,115.62,0,578.1
+SO-202511-0314,"Nov 06, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,1,65.32,0.05,62.05
+SO-202511-0315,"Nov 25, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,9,57.23,0.1,463.56
+SO-202511-0316,"Nov 08, 2025",SOUTH,Elena Petrova,Cable Tray,Accessories,1,19.11,0,19.11
+SO-202511-0317,"Nov 16, 2025",CENTRAL,Sofia Duarte,Laptop Stand,Accessories,10,44.24,0.1,398.16
+SO-202511-0318,"Nov 29, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,6,19.95,0,119.7
+SO-202511-0319,"Nov 24, 2025",SOUTH,Jonas Weber,Ergonomic Chair,Furniture,3,255.06,0,765.18
+SO-202511-0320,"Nov 29, 2025",WEST,Avery Lindqvist,Filing Cabinet,Furniture,4,141.78,0,567.12
+SO-202511-0321,"Nov 25, 2025",CENTRAL,Jonas Weber,Bookshelf,Furniture,9,116.6,0.1,944.46
+SO-202511-0322,"Nov 09, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,2,38.33,0,76.66
+SO-202511-0323,"Nov 01, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,7,89.45,0.15,532.23
+SO-202511-0324,"Nov 08, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,1,115.38,0.15,98.07
+SO-202511-0325,"Nov 29, 2025",WEST,Mateo Ruiz,Ergonomic Chair,Furniture,3,251.42,0.1,678.83
+SO-202511-0326,"Nov 20, 2025",EAST,Noor Haddad,Laptop Stand,Accessories,10,45.0,0,450.0
+SO-202511-0327,"Nov 13, 2025",SOUTH,Sofia Duarte,Laptop Stand,Accessories,11,43.95,0.05,459.28
+SO-202511-0328,"Nov 04, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,6,249.3,0.15,1271.43
+SO-202511-0329,"Nov 14, 2025",NORTH,Sofia Duarte,Cable Tray,Accessories,3,19.74,0.05,56.26
+SO-202511-0330,"Nov 07, 2025",WEST,Jonas Weber,Ergonomic Chair,Furniture,9,258.06,0.1,2090.29
+SO-202511-0331,"Nov 15, 2025",NORTH,Sofia Duarte,Desk Lamp,Lighting,12,39.61,0,475.32
+,,,,,,,,,
+SO-202511-0332,"Nov 20, 2025",WEST,Tariq Aziz,USB-C Hub,Peripherals,11,62.63,0,688.93
+SO-202511-0333,"Nov 06, 2025",CENTRAL,Avery Lindqvist,Standing Desk,Furniture,8,330.65,0,2645.2
+SO-202511-0334,"Nov 18, 2025",NORTH,Avery Lindqvist,Filing Cabinet,Furniture,5,136.81,0.15,581.44
+SO-202511-0335,"Nov 20, 2025",NORTH,Priya Raman,Task Light,Lighting,8,54.09,0,432.72
+SO-202511-0336,"Nov 22, 2025",WEST,Tariq Aziz,Filing Cabinet,Furniture,3,143.69,0.15,366.41
+SO-202511-0337,"Nov 21, 2025",SOUTH,Imani Okafor,Bookshelf,Furniture,1,114.9,0.1,103.41
+SO-202511-0338,"Nov 07, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair,Furniture,10,247.87,0.15,2106.9
+SO-202511-0339,"Nov 21, 2025",NORTH,Kenji Mori,Monitor Arm,Accessories,7,88.7,0.05,589.86
+SO-202511-0340,"Nov 18, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,6,61.94,0.15,315.89
+SO-202511-0341,"Nov 18, 2025",NORTH,Jonas Weber,Task Light,Lighting,11,54.48,0.05,569.32
+SO-202511-0342,"Nov 09, 2025",CENTRAL,Kenji Mori,Ergonomic Chair,Furniture,2,244.48,0,488.96
+SO-202511-0343,"Nov 26, 2025",NORTH,Kenji Mori,Standing Desk,Furniture,1,337.94,0.1,304.15
+SO-202511-0344,"Nov 10, 2025",EAST,Imani Okafor,Laptop Stand,Accessories,9,44.27,0,398.43
+SO-202511-0345,"Nov 13, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,5,76.59,0.05,363.8
+SO-202511-0346,"Nov 03, 2025",CENTRAL,Sofia Duarte,USB-C Hub,Peripherals,8,63.04,0.15,428.67
+SO-202511-0347,"Nov 02, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,1,45.44,0.1,40.9
+SO-202511-0348,"Nov 08, 2025",WEST,Priya Raman,Monitor Arm,Accessories,2,91.02,0.05,172.94
+SO-202511-0349,"Nov 05, 2025",EAST,Elena Petrova,Desk Lamp,Lighting,8,38.88,0.15,264.38
+SO-202511-0350,"Nov 30, 2025",EAST,Priya Raman,USB-C Hub,Peripherals,2,66.22,0,132.44
+SO-202511-0351,"Nov 06, 2025",EAST,Jonas Weber,Bookshelf,Furniture,11,118.45,0.1,1172.66
+SO-202511-0352,"Nov 13, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,3,133.9,0.15,341.45
+SO-202511-0353,"Nov 11, 2025",SOUTH,Avery Lindqvist,Standing Desk,Furniture,1,321.57,0.1,289.41
+SO-202511-0354,"Nov 28, 2025",SOUTH,Jonas Weber,Ergonomic Chair,Furniture,12,239.46,0.1,2586.17
+SO-202511-0355,"Nov 15, 2025",NORTH,Jonas Weber,Wireless Keyboard,Peripherals,1,58.91,0.15,50.07
+SO-202511-0356,"Nov 06, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,8,46.42,0,371.36
+SO-202511-0357,"Nov 16, 2025",NORTH,Kenji Mori,Cable Tray,Accessories,11,18.95,0,208.45
+SO-202511-0358,"Nov 22, 2025",CENTRAL,Tariq Aziz,Standing Desk,Furniture,5,329.15,0.15,1398.89
+SO-202511-0359,"Nov 10, 2025",EAST,Imani Okafor,Cable Tray,Accessories,1,20.24,0.1,18.22
+SO-202511-0360,"Nov 23, 2025",CENTRAL,Mateo Ruiz,Ergonomic Chair,Furniture,9,245.36,0,2208.24
+SO-202511-0361,"Nov 12, 2025",WEST,Priya Raman,Wireless Keyboard,Peripherals,2,57.89,0.05,109.99
+SO-202511-0362,"Nov 09, 2025",WEST,Imani Okafor,Cable Tray,Accessories,9,20.26,0.15,154.99
+SO-202511-0363,"Nov 24, 2025",NORTH,Imani Okafor,Standing Desk,Furniture,7,328.67,0.1,2070.62
+SO-202511-0364,"Nov 11, 2025",SOUTH,Avery Lindqvist,Laptop Stand,Accessories,9,43.73,0,393.57
+SO-202511-0365,"Nov 09, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,12,86.87,0,1042.44
+SO-202511-0366,"Nov 05, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,3,257.64,0.1,695.63
+SO-202511-0367,"Nov 05, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,4,244.61,0.05,929.52
+SO-202511-0368,"Nov 22, 2025",EAST,Sofia Duarte,Wireless Keyboard,Peripherals,4,60.17,0,240.68
+SO-202511-0369,"Nov 08, 2025",CENTRAL,Priya Raman, Standing Desk  ,Furniture,1,327.23,0,327.23
+SO-202511-0370,"Nov 28, 2025",WEST,Jonas Weber,Bookshelf,Furniture,6,123.6,0.1,667.44
+SO-202511-0371,"Nov 21, 2025",WEST,Jonas Weber,Standing Desk,Furniture,11,342.04,0.15,3198.07
+SO-202511-0372,"Nov 07, 2025",SOUTH,Tariq Aziz,USB-C Hub,Peripherals,7,63.59,0.1,400.62
+SO-202511-0373,"Nov 25, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,5,89.38,0,446.9
+SO-202511-0374,"Nov 09, 2025",WEST,Kenji Mori,Cable Tray,Accessories,6,19.5,0.05,111.15
+SO-202511-0375,"Nov 18, 2025",SOUTH,Imani Okafor,Cable Tray,Accessories,4,19.33,0,77.32
+SO-202511-0376,"Nov 03, 2025",SOUTH,Kenji Mori,Ergonomic Chair,Furniture,6,241.58,0.05,1377.01
+SO-202511-0377,"Nov 08, 2025",CENTRAL,Tariq Aziz,Ergonomic Chair,Furniture,9,250.53,0.1,2029.29
+SO-202511-0378,"Nov 24, 2025",SOUTH,Kenji Mori,Task Light,Lighting,9,55.6,0.1,450.36
+SO-202511-0379,"Nov 20, 2025",EAST,Sofia Duarte,Laptop Stand,Accessories,4,43.72,0.1,157.39
+SO-202511-0380,"Nov 22, 2025",NORTH,Kenji Mori,Webcam HD,Peripherals,5,76.54,0,382.7
+SO-202511-0381,"Nov 19, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,9,45.13,0.1,365.55
+SO-202511-0382,"Nov 25, 2025",WEST,Kenji Mori,Cable Tray,Accessories,12,19.97,0.1,215.68
+SO-202511-0383,"Nov 23, 2025",EAST,Elena Petrova,Desk Lamp,Lighting,2,39.51,0.05,75.07
+SO-202511-0384,"Nov 03, 2025",NORTH,Mateo Ruiz,Filing Cabinet,Furniture,10,144.42,0.05,1371.99
+SO-202511-0385,"Nov 19, 2025",EAST,Elena Petrova,Bookshelf,Furniture,8,122.88,0.05,933.89
+SO-202511-0386,"Nov 17, 2025",NORTH,Avery Lindqvist,Ergonomic Chair,Furniture,1,250.1,0,250.1
+SO-202511-0387,"Nov 27, 2025",NORTH,Avery Lindqvist,Monitor Arm,Accessories,3,87.16,0.05,248.41
+SO-202511-0388,"Nov 15, 2025",NORTH,Imani Okafor,Bookshelf,Furniture,5,120.68,0.15,512.89
+SO-202511-0389,"Nov 09, 2025",NORTH,Kenji Mori,Task Light,Lighting,3,53.21,0,159.63
+SO-202511-0390,"Nov 25, 2025",EAST,Jonas Weber,Standing Desk,Furniture,9,341.25,0.1,2764.13
+SO-202511-0391,"Nov 07, 2025",SOUTH,Jonas Weber,Webcam HD,Peripherals,10,75.67,0.15,643.2
+SO-202511-0392,"Nov 13, 2025",EAST,Tariq Aziz,Monitor Arm,Accessories,4,89.59,0.05,340.44
+SO-202511-0393,"Nov 21, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,8,65.05,0,520.4
+SO-202511-0394,"Nov 27, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,11,46.48,0.15,434.59
+SO-202511-0395,"Nov 11, 2025",WEST,Mateo Ruiz,Cable Tray,Accessories,10,19.17,0,191.7
+SO-202511-0396,"Nov 07, 2025",SOUTH,Jonas Weber,Ergonomic Chair,Furniture,9,250.91,0.1,2032.37
+SO-202511-0397,"Nov 27, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,1,62.48,0.15,53.11
+SO-202511-0398,"Nov 11, 2025",EAST,Mateo Ruiz,Cable Tray,Accessories,4,20.05,0.05,76.19
+SO-202511-0399,"Nov 23, 2025",NORTH,Kenji Mori,Task Light,Lighting,11,54.57,0.15,510.23
+SO-202511-0400,"Nov 15, 2025",NORTH,Tariq Aziz,Monitor Arm,Accessories,1,91.84,0.1,82.66
+SO-202511-0401,"Nov 04, 2025",EAST,Tariq Aziz,Desk Lamp,Lighting,4,40.28,0.05,153.06
+SO-202511-0402,"Nov 26, 2025",EAST,Mateo Ruiz,USB-C Hub,Peripherals,6,64.4,0,386.4
+SO-202511-0403,"Nov 07, 2025",SOUTH,Noor Haddad, Standing Desk  ,Furniture,9,329.94,0,2969.46
+SO-202511-0404,"Nov 20, 2025",EAST,Sofia Duarte,Task Light,Lighting,3,52.95,0.15,135.02
+SO-202511-0405,"Nov 09, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,8,39.29,0,314.32
+SO-202511-0406,"Nov 21, 2025",EAST,Priya Raman,Standing Desk,Furniture,5,334.01,0.15,1419.54
+SO-202511-0407,"Nov 07, 2025",EAST,Imani Okafor,Monitor Arm,Accessories,5,91.32,0.15,388.11
+SO-202511-0665,"Nov 29, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,5,65.92,0.05,313.12
+SO-202511-0408,"Nov 16, 2025",EAST,Tariq Aziz,Standing Desk,Furniture,12,325.16,0.05,3706.82
+SO-202511-0409,"Nov 19, 2025",NORTH,Imani Okafor,Wireless Keyboard,Peripherals,10,58.31,0,583.1
+SO-202511-0410,"Nov 24, 2025",EAST,Mateo Ruiz,Webcam HD,Peripherals,9,74.17,0.15,567.4
+SO-202511-0411,"Nov 27, 2025",WEST,Noor Haddad,Desk Lamp,Lighting,6,39.4,0.1,212.76
+SO-202511-0412,"Nov 11, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,1,249.79,0,249.79
+SO-202511-0413,"Nov 10, 2025",SOUTH,Noor Haddad,Bookshelf,Furniture,10,118.41,0.15,1006.49
+SO-202511-0414,"Nov 10, 2025",EAST,Tariq Aziz,Monitor Arm,Accessories,11,90.84,0.1,899.32
+SO-202511-0415,"Nov 09, 2025",EAST,Imani Okafor,Cable Tray,Accessories,10,18.82,0.1,169.38
+SO-202511-0416,"Nov 13, 2025",NORTH,Elena Petrova,Webcam HD,Peripherals,1,75.55,0.1,68.0
+SO-202511-0417,"Nov 04, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,10,45.43,0.1,408.87
+SO-202511-0418,"Nov 30, 2025",WEST,Jonas Weber,Monitor Arm,Accessories,1,88.27,0,88.27
+SO-202511-0419,"Nov 28, 2025",WEST,Imani Okafor,Ergonomic Chair,Furniture,7,253.09,0,1771.63
+SO-202511-0420,"Nov 09, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,5,20.1,0,100.5
+SO-202511-0421,"Nov 18, 2025",SOUTH,Imani Okafor,Wireless Keyboard,Peripherals,10,59.52,0.05,565.44
+SO-202511-0422,"Nov 21, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,10,59.32,0.15,504.22
+SO-202511-0423,"Nov 27, 2025",NORTH,Elena Petrova,Bookshelf,Furniture,4,118.41,0.05,449.96
+SO-202511-0424,"Nov 27, 2025",CENTRAL,Mateo Ruiz,Wireless Keyboard,Peripherals,6,59.81,0.05,340.92
+SO-202511-0425,"Nov 15, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,4,55.58,0.05,211.2
+SO-202511-0426,"Nov 01, 2025",SOUTH,Imani Okafor,Webcam HD,Peripherals,3,74.03,0,222.09
+SO-202511-0427,"Nov 22, 2025",WEST,Kenji Mori,Cable Tray,Accessories,5,20.12,0.15,85.51
+SO-202511-0428,"Nov 02, 2025",SOUTH,Kenji Mori,Wireless Keyboard,Peripherals,7,58.45,0.15,347.78
+SO-202511-0429,"Nov 17, 2025",EAST,Imani Okafor,Bookshelf,Furniture,1,114.38,0,
+SO-202511-0430,"Nov 10, 2025",SOUTH,Priya Raman,Filing Cabinet,Furniture,6,141.82,0.15,723.28
+SO-202511-0431,"Nov 13, 2025",NORTH,Imani Okafor,Task Light,Lighting,3,54.76,0.05,156.07
+SO-202511-0432,"Nov 17, 2025",CENTRAL,Kenji Mori,Task Light,Lighting,2,52.59,0,105.18
+SO-202511-0433,"Nov 06, 2025",WEST,Jonas Weber,Wireless Keyboard,Peripherals,12,59.29,0,711.48
+SO-202511-0434,"Nov 13, 2025",CENTRAL,Tariq Aziz,Bookshelf,Furniture,12,114.4,0,1372.8
+SO-202511-0435,"Nov 09, 2025",SOUTH,Noor Haddad,Filing Cabinet,Furniture,8,139.83,0.1,1006.78
+SO-202511-0831,"Nov 09, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,8,56.97,0.15,387.4
+SO-202511-0436,"Nov 16, 2025",WEST,Kenji Mori, Standing Desk  ,Furniture,8,342.07,0.15,2326.08
+SO-202511-0437,"Nov 08, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair,Furniture,2,249.09,0.05,473.27
+SO-202511-0438,"Nov 17, 2025",EAST,Elena Petrova,Desk Lamp,Lighting,7,39.76,0,278.32
+SO-202511-0439,"Nov 12, 2025",SOUTH,Elena Petrova,Laptop Stand,Accessories,11,43.97,0,483.67
+SO-202511-0440,"Nov 18, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,9,38.33,0,344.97
+SO-202511-0441,"Nov 25, 2025",NORTH,Sofia Duarte,USB-C Hub,Peripherals,9,62.4,0.1,505.44
+SO-202511-0442,"Nov 25, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,4,60.42,0,241.68
+SO-202511-0443,"Nov 12, 2025",NORTH,Kenji Mori,Webcam HD,Peripherals,11,73.56,0.1,728.24
+SO-202511-0444,"Nov 03, 2025",NORTH,Avery Lindqvist,Standing Desk,Furniture,7,319.74,0.05,2126.27
+SO-202511-0445,"Nov 16, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,8,62.93,0.05,478.27
+SO-202511-0446,"Nov 12, 2025",EAST,Jonas Weber,Task Light,Lighting,9,53.16,0,478.44
+SO-202511-0447,"Nov 18, 2025",EAST,Tariq Aziz,USB-C Hub,Peripherals,7,61.77,0,432.39
+SO-202511-0448,"Nov 11, 2025",EAST,Tariq Aziz,Laptop Stand,Accessories,4,44.36,0.1,159.7
+SO-202511-0449,"Nov 09, 2025",SOUTH,Priya Raman,Laptop Stand,Accessories,8,44.05,0.05,334.78
+SO-202511-0450,"Nov 23, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,10,43.22,0,432.2
+SO-202511-0451,"Nov 22, 2025",SOUTH,Imani Okafor,Webcam HD,Peripherals,12,76.8,0,921.6
+SO-202511-0452,"Nov 13, 2025",SOUTH,Tariq Aziz,Standing Desk,Furniture,9,321.92,0,2897.28
+SO-202511-0453,"Nov 28, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair,Furniture,10,258.67,0,2586.7
+SO-202511-0454,"Nov 17, 2025",EAST,Noor Haddad,Ergonomic Chair,Furniture,10,248.32,0.1,2234.88
+SO-202511-0455,"Nov 06, 2025",EAST,Avery Lindqvist,USB-C Hub,Peripherals,8,64.41,0.1,463.75
+SO-202511-0456,"Nov 04, 2025",SOUTH,Tariq Aziz,USB-C Hub,Peripherals,3,65.47,0.15,166.95
+SO-202511-0457,"Nov 23, 2025",WEST,Kenji Mori,USB-C Hub,Peripherals,5,66.52,0,332.6
+SO-202511-0458,"Nov 01, 2025",WEST,Avery Lindqvist,USB-C Hub,Peripherals,8,65.66,0.05,499.02
+SO-202511-0459,"Nov 24, 2025",SOUTH,Sofia Duarte,Webcam HD,Peripherals,2,76.69,0.05,145.71
+SO-202511-0460,"Nov 25, 2025",NORTH,Elena Petrova,Bookshelf,Furniture,2,117.19,0.15,199.22
+SO-202511-0461,"Nov 21, 2025",NORTH,Mateo Ruiz,Wireless Keyboard,Peripherals,6,59.96,0,359.76
+SO-202511-0462,"Nov 12, 2025",NORTH,Sofia Duarte,Cable Tray,Accessories,7,19.8,0,138.6
+SO-202511-0463,"Nov 03, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,9,86.2,0.1,698.22
+SO-202511-0464,"Nov 18, 2025",NORTH,Sofia Duarte,Standing Desk,Furniture,7,339.09,0.05,2254.95
+SO-202511-0465,"Nov 01, 2025",EAST,Avery Lindqvist,Standing Desk,Furniture,5,341.48,0.15,1451.29
+SO-202511-0466,"Nov 07, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,5,63.01,0.05,299.3
+SO-202511-0467,"Nov 04, 2025",EAST,Kenji Mori,Desk Lamp,Lighting,9,39.29,0.1,318.25
+SO-202511-0468,"Nov 30, 2025",EAST,Kenji Mori,Cable Tray,Accessories,4,18.84,0,75.36
+SO-202511-0469,"Nov 01, 2025",NORTH,Priya Raman,Cable Tray,Accessories,2,19.58,0.15,33.29
+SO-202511-0470,"Nov 13, 2025",NORTH,Mateo Ruiz,Desk Lamp,Lighting,3,40.17,0.1,108.46
+SO-202511-0471,"Nov 07, 2025",CENTRAL,Avery Lindqvist,Filing Cabinet,Furniture,8,135.89,0.1,978.41
+SO-202511-0472,"Nov 30, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,3,243.87,0.1,658.45
+SO-202511-0473,"Nov 06, 2025",WEST,Sofia Duarte,Desk Lamp,Lighting,10,39.84,0.15,338.64
+SO-202511-0474,"Nov 02, 2025",SOUTH,Mateo Ruiz,Standing Desk,Furniture,11,325.45,0,3579.95
+SO-202511-0475,"Nov 10, 2025",NORTH,Sofia Duarte,Desk Lamp,Lighting,8,40.58,0,324.64
+SO-202511-0476,"Nov 24, 2025",NORTH,Sofia Duarte,Ergonomic Chair,Furniture,9,247.58,0.15,1893.99
+SO-202511-0477,"Nov 29, 2025",CENTRAL,Sofia Duarte,Bookshelf,Furniture,4,122.87,0.05,466.91
+SO-202511-0478,"Nov 10, 2025",SOUTH,Avery Lindqvist,USB-C Hub,Peripherals,3,63.56,0.15,162.08
+SO-202511-0479,"Nov 28, 2025",WEST,Kenji Mori,Desk Lamp,Lighting,8,38.72,0.05,294.27
+SO-202511-0480,"Nov 15, 2025",CENTRAL,Jonas Weber,Desk Lamp,Lighting,12,41.02,0.1,443.02
+SO-202511-0481,"Nov 09, 2025",WEST,Avery Lindqvist,Monitor Arm,Accessories,1,88.05,0.1,79.25
+SO-202511-0482,"Nov 13, 2025",NORTH,Tariq Aziz,USB-C Hub,Peripherals,4,63.94,0.15,217.4
+SO-202511-0483,"Nov 28, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,6,115.6,0.15,589.56
+SO-202511-0484,"Nov 08, 2025",WEST,Elena Petrova,Bookshelf,Furniture,11,116.92,0.15,1093.2
+SO-202511-0485,"Nov 27, 2025",SOUTH,Mateo Ruiz,Bookshelf,Furniture,6,115.33,0,691.98
+SO-202511-0486,"Nov 20, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,12,121.4,0.1,
+SO-202511-0487,"Nov 11, 2025",CENTRAL,Elena Petrova,Laptop Stand,Accessories,8,45.67,0.1,328.82
+SO-202511-0488,"Nov 20, 2025",SOUTH,Jonas Weber,Cable Tray,Accessories,8,19.21,0.1,138.31
+SO-202511-0489,"Nov 16, 2025",NORTH,Priya Raman,Desk Lamp,Lighting,9,38.94,0.1,315.41
+SO-202511-0490,"Nov 13, 2025",EAST,Noor Haddad,Task Light,Lighting,2,54.7,0.05,103.93
+SO-202511-0491,"Nov 25, 2025",EAST,Avery Lindqvist,USB-C Hub,Peripherals,3,62.63,0,187.89
+SO-202511-0492,"Nov 13, 2025",NORTH,Mateo Ruiz,Filing Cabinet,Furniture,1,144.26,0,144.26
+SO-202511-0493,"Nov 19, 2025",NORTH,Priya Raman,Webcam HD,Peripherals,1,74.61,0.15,63.42
+SO-202511-0494,"Nov 03, 2025",NORTH,Priya Raman,USB-C Hub,Peripherals,4,64.0,0.15,217.6
+SO-202511-0495,"Nov 03, 2025",NORTH,Noor Haddad,Bookshelf,Furniture,5,115.54,0,577.7
+SO-202511-0496,"Nov 22, 2025",CENTRAL,Kenji Mori,Cable Tray,Accessories,11,20.06,0.15,187.56
+SO-202511-0497,"Nov 27, 2025",EAST,Imani Okafor,Standing Desk,Furniture,3,329.88,0.05,940.16
+SO-202511-0498,"Nov 18, 2025",WEST,Kenji Mori,Laptop Stand,Accessories,3,45.88,0.15,116.99
+SO-202511-0499,"Nov 15, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,7,245.51,0,1718.57
+SO-202511-0500,"Nov 12, 2025",CENTRAL,Kenji Mori,Task Light,Lighting,2,52.46,0.05,99.67
+SO-202511-0501,"Nov 23, 2025",NORTH,Kenji Mori,Task Light,Lighting,11,56.12,0.1,555.59
+SO-202511-0502,"Nov 10, 2025",SOUTH,Mateo Ruiz,Cable Tray,Accessories,11,19.63,0.1,194.34
+SO-202511-0503,"Nov 09, 2025",SOUTH,Elena Petrova,Filing Cabinet,Furniture,1,133.68,0.05,127.0
+SO-202511-0504,"Nov 04, 2025",EAST,Noor Haddad,Filing Cabinet,Furniture,6,138.17,0,829.02
+SO-202511-0505,"Nov 11, 2025",EAST,Imani Okafor,Task Light,Lighting,6,53.51,0,321.06
+SO-202511-0506,"Nov 13, 2025",SOUTH,Mateo Ruiz,Cable Tray,Accessories,4,19.4,0.15,65.96
+SO-202511-0507,"Nov 23, 2025",SOUTH,Sofia Duarte,Ergonomic Chair,Furniture,5,251.46,0.1,1131.57
+SO-202511-0508,"Nov 30, 2025",WEST,Jonas Weber,Task Light,Lighting,6,55.92,0,335.52
+SO-202511-0509,"Nov 19, 2025",NORTH,Elena Petrova,Wireless Keyboard,Peripherals,10,60.73,0,607.3
+SO-202511-0510,"Nov 07, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,11,76.77,0.15,717.8
+SO-202511-0511,"Nov 03, 2025",CENTRAL,Priya Raman,Standing Desk,Furniture,1,323.72,0.05,307.53
+SO-202511-0512,"Nov 10, 2025",EAST,Avery Lindqvist,USB-C Hub,Peripherals,11,66.25,0.1,655.88
+SO-202511-0513,"Nov 14, 2025",NORTH,Imani Okafor,Wireless Keyboard,Peripherals,9,60.3,0,542.7
+SO-202511-0514,"Nov 07, 2025",WEST,Sofia Duarte,Laptop Stand,Accessories,3,44.61,0,133.83
+SO-202511-0515,"Nov 13, 2025",WEST,Mateo Ruiz,Webcam HD,Peripherals,3,77.07,0.05,219.65
+SO-202511-0516,"Nov 28, 2025",SOUTH,Noor Haddad,Wireless Keyboard,Peripherals,10,60.48,0,604.8
+SO-202511-0517,"Nov 17, 2025",WEST,Mateo Ruiz,Filing Cabinet,Furniture,8,136.53,0.15,928.4
+SO-202511-0518,"Nov 06, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,3,39.65,0,118.95
+SO-202511-0519,"Nov 24, 2025",WEST,Kenji Mori,Filing Cabinet,Furniture,2,138.98,0.05,264.06
+SO-202511-0520,"Nov 08, 2025",WEST,Imani Okafor,Bookshelf,Furniture,9,119.9,0,1079.1
+SO-202511-0521,"Nov 18, 2025",EAST,Mateo Ruiz,Monitor Arm,Accessories,1,91.69,0.05,87.11
+SO-202511-0522,"Nov 09, 2025",WEST,Avery Lindqvist,Wireless Keyboard,Peripherals,9,58.75,0.05,502.31
+SO-202511-0523,"Nov 02, 2025",CENTRAL,Elena Petrova,USB-C Hub,Peripherals,2,64.63,0,129.26
+SO-202511-0524,"Nov 06, 2025",EAST,Kenji Mori,Desk Lamp,Lighting,5,39.23,0.15,166.73
+SO-202511-0525,"Nov 02, 2025",NORTH,Tariq Aziz,Ergonomic Chair,Furniture,4,254.12,0,1016.48
+SO-202511-0526,"Nov 20, 2025",SOUTH,Mateo Ruiz,Webcam HD,Peripherals,5,75.68,0,378.4
+SO-202511-0527,"Nov 07, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,5,243.0,0.05,1154.25
+SO-202511-0528,"Nov 27, 2025",NORTH,Avery Lindqvist,Ergonomic Chair,Furniture,12,246.78,0.15,2517.16
+SO-202511-0529,"Nov 29, 2025",WEST,Jonas Weber,Bookshelf,Furniture,7,120.67,0,844.69
+SO-202511-0530,"Nov 03, 2025",WEST,Jonas Weber,USB-C Hub,Peripherals,6,62.71,0,376.26
+SO-202511-0531,"Nov 03, 2025",SOUTH,Elena Petrova,Monitor Arm,Accessories,12,89.55,0,1074.6
+SO-202511-0532,"Nov 06, 2025",SOUTH,Imani Okafor,Monitor Arm,Accessories,8,90.59,0.05,688.48
+SO-202511-0533,"Nov 25, 2025",NORTH,Imani Okafor,Ergonomic Chair,Furniture,9,254.76,0.15,1948.91
+SO-202511-0534,"Nov 17, 2025",SOUTH,Elena Petrova,Cable Tray,Accessories,1,19.33,0,19.33
+SO-202511-0535,"Nov 21, 2025",NORTH,Avery Lindqvist,Webcam HD,Peripherals,5,74.44,0.05,353.59
+SO-202511-0536,"Nov 23, 2025",WEST,Sofia Duarte,Monitor Arm,Accessories,5,91.68,0,458.4
+SO-202511-0537,"Nov 09, 2025",CENTRAL,Jonas Weber,Filing Cabinet,Furniture,10,144.35,0.15,1226.98
+SO-202511-0538,"Nov 11, 2025",CENTRAL,Imani Okafor,Filing Cabinet,Furniture,2,140.76,0,281.52
+SO-202511-0539,"Nov 24, 2025",SOUTH,Noor Haddad,Laptop Stand,Accessories,8,45.51,0,364.08
+SO-202511-0540,"Nov 23, 2025",NORTH,Imani Okafor,Cable Tray,Accessories,4,19.66,0,78.64
+SO-202511-0541,"Nov 14, 2025",WEST,Elena Petrova,Task Light,Lighting,11,54.57,0,600.27
+SO-202511-0542,"Nov 06, 2025",SOUTH,Priya Raman,Webcam HD,Peripherals,6,74.56,0.05,424.99
+SO-202511-0543,"Nov 26, 2025",NORTH,Sofia Duarte,Task Light,Lighting,10,52.94,0.15,449.99
+SO-202511-0544,"Nov 16, 2025",NORTH,Noor Haddad,Task Light,Lighting,12,56.13,0.1,606.2
+SO-202511-0545,"Nov 09, 2025",EAST,Elena Petrova,Ergonomic Chair,Furniture,10,250.02,0.1,2250.18
+SO-202511-0546,"Nov 01, 2025",NORTH,Sofia Duarte,Filing Cabinet,Furniture,7,143.27,0,1002.89
+SO-202511-0547,"Nov 03, 2025",SOUTH,Mateo Ruiz,Cable Tray,Accessories,12,19.56,0.15,199.51
+SO-202511-0548,"Nov 05, 2025",SOUTH,Avery Lindqvist,Task Light,Lighting,4,55.58,0,222.32
+SO-202511-0549,"Nov 24, 2025",WEST,Kenji Mori,Wireless Keyboard,Peripherals,9,58.29,0.1,472.15
+SO-202511-0550,"Nov 30, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,9,89.7,0.15,686.21
+SO-202511-0551,"Nov 14, 2025",WEST,Imani Okafor,Filing Cabinet,Furniture,9,143.99,0.05,1231.11
+SO-202511-0552,"Nov 15, 2025",NORTH,Mateo Ruiz,Standing Desk,Furniture,1,318.8,0,318.8
+SO-202511-0553,"Nov 19, 2025",NORTH,Elena Petrova,Desk Lamp,Lighting,2,39.78,0.15,67.63
+SO-202511-0554,"Nov 21, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,2,121.93,0.1,219.47
+SO-202511-0555,"Nov 07, 2025",SOUTH,Priya Raman,USB-C Hub,Peripherals,5,64.35,0.05,305.66
+SO-202511-0556,"Nov 28, 2025",CENTRAL,Priya Raman,Webcam HD,Peripherals,9,76.96,0.1,623.38
+SO-202511-0557,"Nov 09, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,6,55.11,0.15,281.06
+SO-202511-0558,"Nov 02, 2025",NORTH,Jonas Weber,Standing Desk,Furniture,6,325.83,0,1954.98
+SO-202511-0559,"Nov 09, 2025",EAST,Mateo Ruiz,Task Light,Lighting,8,55.75,0.15,379.1
+SO-202511-0560,"Nov 23, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,2,65.89,0.1,118.6
+SO-202511-0561,"Nov 25, 2025",NORTH,Priya Raman,Cable Tray,Accessories,6,19.48,0.1,105.19
+SO-202511-0562,"Nov 14, 2025",WEST,Mateo Ruiz,Standing Desk,Furniture,3,327.51,0.15,835.15
+SO-202511-0563,"Nov 08, 2025",NORTH,Imani Okafor,Bookshelf,Furniture,5,122.36,0.1,550.62
+SO-202511-0564,"Nov 16, 2025",CENTRAL,Imani Okafor,Bookshelf,Furniture,4,116.98,0,467.92
+SO-202511-0200,"Nov 17, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,2,86.52,0.05,164.39
+SO-202511-0565,"Nov 15, 2025",SOUTH,Avery Lindqvist,USB-C Hub,Peripherals,4,63.85,0.1,229.86
+SO-202511-0566,"Nov 27, 2025",NORTH,Tariq Aziz,Webcam HD,Peripherals,1,77.27,0.1,69.54
+SO-202511-0567,"Nov 28, 2025",SOUTH,Sofia Duarte,USB-C Hub,Peripherals,11,64.02,0.1,633.8
+SO-202511-0568,"Nov 10, 2025",WEST,Priya Raman,Standing Desk,Furniture,10,323.55,0.05,3073.73
+SO-202511-0569,"Nov 07, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,6,41.36,0.15,210.94
+SO-202511-0570,"Nov 14, 2025",WEST,Sofia Duarte,Bookshelf,Furniture,1,116.38,0,116.38
+SO-202511-0571,"Nov 19, 2025",SOUTH,Imani Okafor,Webcam HD,Peripherals,11,75.2,0,827.2
+SO-202511-0572,"Nov 16, 2025",NORTH,Elena Petrova,USB-C Hub,Peripherals,3,66.26,0.15,168.96
+SO-202511-0573,"Nov 27, 2025",WEST,Tariq Aziz,Wireless Keyboard,Peripherals,3,60.8,0.1,164.16
+SO-202511-0574,"Nov 03, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,3,139.84,0.05,398.54
+SO-202511-0575,"Nov 17, 2025",NORTH,Mateo Ruiz,Ergonomic Chair,Furniture,5,242.09,0,1210.45
+SO-202511-0576,"Nov 29, 2025",EAST,Mateo Ruiz,Cable Tray,Accessories,7,19.74,0.15,117.45
+SO-202511-0577,"Nov 24, 2025",WEST,Priya Raman,Standing Desk,Furniture,11,339.1,0,3730.1
+SO-202511-0578,"Nov 15, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,11,43.21,0.1,427.78
+SO-202511-0579,"Nov 20, 2025",CENTRAL,Avery Lindqvist,Webcam HD,Peripherals,11,76.56,0,842.16
+SO-202511-0580,"Nov 05, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,1,19.74,0,19.74
+SO-202511-0581,"Nov 15, 2025",CENTRAL,Tariq Aziz,Task Light,Lighting,10,55.79,0.15,474.22
+SO-202511-0582,"Nov 05, 2025",CENTRAL,Priya Raman,USB-C Hub,Peripherals,6,62.38,0.1,336.85
+SO-202511-0583,"Nov 07, 2025",WEST,Sofia Duarte,USB-C Hub,Peripherals,1,64.79,0,
+SO-202511-0584,"Nov 02, 2025",SOUTH,Avery Lindqvist,Standing Desk,Furniture,6,325.84,0.15,1661.78
+SO-202511-0585,"Nov 01, 2025",CENTRAL,Kenji Mori,Filing Cabinet,Furniture,7,142.38,0.15,847.16
+SO-202511-0586,"Nov 20, 2025",EAST,Imani Okafor,Bookshelf,Furniture,6,122.42,0.05,697.79
+SO-202511-0587,"Nov 01, 2025",CENTRAL,Priya Raman,Desk Lamp,Lighting,8,41.41,0.15,281.59
+SO-202511-0588,"Nov 30, 2025",NORTH,Sofia Duarte,Ergonomic Chair,Furniture,4,247.73,0.05,941.37
+SO-202511-0589,"Nov 05, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,11,56.83,0,625.13
+SO-202511-0590,"Nov 15, 2025",NORTH,Sofia Duarte,Cable Tray,Accessories,2,19.31,0,38.62
+SO-202511-0591,"Nov 20, 2025",WEST,Sofia Duarte,Desk Lamp,Lighting,10,39.5,0.05,
+SO-202511-0592,"Nov 02, 2025",WEST,Mateo Ruiz,Laptop Stand,Accessories,12,46.29,0.05,527.71
+SO-202511-0593,"Nov 06, 2025",NORTH,Elena Petrova,Bookshelf,Furniture,4,114.42,0,457.68
+SO-202511-0594,"Nov 15, 2025",EAST,Tariq Aziz,Webcam HD,Peripherals,6,71.97,0.15,367.05
+SO-202511-0595,"Nov 02, 2025",EAST,Sofia Duarte,Wireless Keyboard,Peripherals,6,61.2,0.15,312.12
+SO-202511-0596,"Nov 22, 2025",WEST,Tariq Aziz,Desk Lamp,Lighting,9,39.97,0,359.73
+SO-202511-0597,"Nov 23, 2025",SOUTH,Avery Lindqvist,Monitor Arm,Accessories,5,87.25,0.15,370.81
+SO-202511-0598,"Nov 09, 2025",EAST,Avery Lindqvist,Ergonomic Chair,Furniture,3,255.21,0.1,689.07
+SO-202511-0599,"Nov 23, 2025",EAST,Elena Petrova,Webcam HD,Peripherals,7,72.44,0.1,456.37
+SO-202511-0600,"Nov 21, 2025",SOUTH,Sofia Duarte,Wireless Keyboard,Peripherals,1,61.28,0.05,58.22
+SO-202511-0601,"Nov 08, 2025",CENTRAL,Noor Haddad,Cable Tray,Accessories,4,18.76,0.05,71.29
+SO-202511-0602,"Nov 06, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,11,59.35,0.15,554.92
+SO-202511-0603,"Nov 28, 2025",NORTH,Tariq Aziz,Standing Desk,Furniture,8,317.38,0.05,2412.09
+SO-202511-0604,"Nov 20, 2025",CENTRAL,Avery Lindqvist,Webcam HD,Peripherals,1,72.57,0,72.57
+SO-202511-0605,"Nov 09, 2025",WEST, Mateo Ruiz  ,Monitor Arm,Accessories,11,88.42,0.05,923.99
+SO-202511-0606,"Nov 12, 2025",WEST,Tariq Aziz,Monitor Arm,Accessories,1,88.26,0,88.26
+SO-202511-0607,"Nov 16, 2025",WEST,Tariq Aziz,Monitor Arm,Accessories,1,86.68,0.15,73.68
+SO-202511-0608,"Nov 23, 2025",WEST,Avery Lindqvist,USB-C Hub,Peripherals,1,62.63,0.15,53.24
+SO-202511-0609,"Nov 25, 2025",NORTH,Jonas Weber,Cable Tray,Accessories,7,19.75,0,138.25
+SO-202511-0610,"Nov 05, 2025",EAST,Avery Lindqvist,Standing Desk,Furniture,6,333.27,0,1999.62
+SO-202511-0611,"Nov 13, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,5,240.81,0.1,1083.65
+SO-202511-0612,"Nov 30, 2025",SOUTH,Mateo Ruiz,Standing Desk,Furniture,5,317.14,0.05,1506.42
+SO-202511-0613,"Nov 06, 2025",SOUTH,Imani Okafor,Laptop Stand,Accessories,4,46.09,0.15,156.71
+SO-202511-0614,"Nov 27, 2025",WEST,Noor Haddad,Cable Tray,Accessories,8,20.07,0.05,152.53
+SO-202511-0615,"Nov 26, 2025",EAST,Noor Haddad,Filing Cabinet,Furniture,10,135.52,0.15,1151.92
+SO-202511-0616,"Nov 03, 2025",CENTRAL,Mateo Ruiz,Task Light,Lighting,4,54.09,0,216.36
+SO-202511-0617,"Nov 15, 2025",NORTH,Mateo Ruiz,Wireless Keyboard,Peripherals,8,58.02,0.05,440.95
+SO-202511-0618,"Nov 01, 2025",EAST,Sofia Duarte,Monitor Arm,Accessories,2,87.0,0.15,147.9
+SO-202511-0619,"Nov 22, 2025",WEST,Noor Haddad,Filing Cabinet, Furniture  ,12,141.43,0.05,1612.3
+SO-202511-0620,"Nov 18, 2025",NORTH,Mateo Ruiz,Desk Lamp,Lighting,12,39.07,0.05,445.4
+SO-202511-0621,"Nov 11, 2025",WEST,Kenji Mori,Bookshelf,Furniture,5,116.99,0.1,526.46
+SO-202511-0622,"Nov 04, 2025",EAST,Jonas Weber,Ergonomic Chair,Furniture,6,240.09,0.05,1368.51
+SO-202511-0623,"Nov 18, 2025",SOUTH,Elena Petrova,Bookshelf,Furniture,4,122.62,0.1,441.43
+SO-202511-0624,"Nov 24, 2025",SOUTH,Noor Haddad,Filing Cabinet,Furniture,11,143.12,0.05,1495.6
+SO-202511-0625,"Nov 11, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,6,121.76,0,730.56
+SO-202511-0626,"Nov 26, 2025",EAST,Elena Petrova,Webcam HD,Peripherals,2,75.73,0,151.46
+SO-202511-0627,"Nov 12, 2025",NORTH,Sofia Duarte,Monitor Arm,Accessories,10,89.27,0.15,758.8
+SO-202511-0628,"Nov 01, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,10,258.63,0.1,2327.67
+SO-202511-0629,"Nov 15, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,5,87.99,0.05,417.95
+SO-202511-0630,"Nov 01, 2025",SOUTH,Kenji Mori,Monitor Arm,Accessories,4,86.26,0.05,327.79
+SO-202511-0631,"Nov 27, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,1,74.25,0,74.25
+SO-202511-0632,"Nov 16, 2025",CENTRAL,Priya Raman,Cable Tray,Accessories,2,18.91,0.1,34.04
+SO-202511-0633,"Nov 14, 2025",NORTH,Elena Petrova,Standing Desk,Furniture,7,320.51,0.15,1907.03
+SO-202511-0634,"Nov 27, 2025",EAST,Jonas Weber,USB-C Hub,Peripherals,12,63.88,0.15,651.58
+SO-202511-0635,"Nov 27, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,12,88.31,0,1059.72
+SO-202511-0636,"Nov 20, 2025",EAST,Jonas Weber,Standing Desk,Furniture,6,328.66,0.05,1873.36
+SO-202511-0637,"Nov 29, 2025",EAST,Mateo Ruiz,Task Light,Lighting,5,54.82,0,274.1
+SO-202511-0638,"Nov 06, 2025",EAST,Sofia Duarte,Filing Cabinet,Furniture,11,139.69,0.15,1306.1
+SO-202511-0639,"Nov 18, 2025",NORTH,Avery Lindqvist,Webcam HD,Peripherals,7,71.66,0.15,426.38
+SO-202511-0640,"Nov 05, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,1,19.88,0.15,16.9
+SO-202511-0641,"Nov 01, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,10,249.2,0.1,2242.8
+SO-202511-0642,"Nov 04, 2025",NORTH,Priya Raman,Task Light,Lighting,4,55.08,0.1,198.29
+SO-202511-0643,"Nov 25, 2025",NORTH,Sofia Duarte,Filing Cabinet,Furniture,7,134.18,0.1,845.33
+SO-202511-0644,"Nov 04, 2025",CENTRAL,Imani Okafor,Monitor Arm,Accessories,10,87.99,0.05,835.91
+SO-202511-0645,"Nov 15, 2025",NORTH,Sofia Duarte,Filing Cabinet,Furniture,6,144.24,0.1,778.9
+SO-202511-0646,"Nov 10, 2025",SOUTH,Elena Petrova,Bookshelf,Furniture,5,122.4,0,612.0
+SO-202511-0647,"Nov 15, 2025",NORTH,Avery Lindqvist,Cable Tray,Accessories,9,20.06,0.05,171.51
+SO-202511-0648,"Nov 06, 2025",WEST,Tariq Aziz,Task Light,Lighting,3,54.38,0.05,154.98
+SO-202511-0649,"Nov 19, 2025",NORTH,Sofia Duarte,Wireless Keyboard,Peripherals,11,58.08,0.15,543.05
+SO-202511-0650,"Nov 29, 2025",EAST,Elena Petrova,Wireless Keyboard,Peripherals,3,58.57,0.05,166.92
+SO-202511-0651,"Nov 15, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,4,251.17,0,1004.68
+SO-202511-0652,"Nov 29, 2025",SOUTH,Tariq Aziz,Filing Cabinet,Furniture,12,142.46,0.15,1453.09
+SO-202511-0653,"Nov 06, 2025",NORTH,Tariq Aziz,Standing Desk,Furniture,4,326.73,0,1306.92
+SO-202511-0654,"Nov 14, 2025",EAST,Avery Lindqvist,USB-C Hub,Peripherals,6,62.06,0.05,353.74
+SO-202511-0655,"Nov 27, 2025",SOUTH,Tariq Aziz,USB-C Hub,Peripherals,2,61.74,0.05,117.31
+SO-202511-0656,"Nov 28, 2025",NORTH,Imani Okafor,Wireless Keyboard,Peripherals,7,58.26,0,407.82
+SO-202511-0657,"Nov 20, 2025",NORTH,Noor Haddad,Task Light,Lighting,8,53.25,0,426.0
+SO-202511-0658,"Nov 16, 2025",SOUTH,Imani Okafor,Cable Tray,Accessories,8,19.43,0.05,147.67
+SO-202511-0659,"Nov 02, 2025",EAST,Priya Raman,Filing Cabinet,Furniture,11,141.98,0.15,1327.51
+SO-202511-0660,"Nov 02, 2025",NORTH,Sofia Duarte,USB-C Hub,Peripherals,2,61.75,0,123.5
+SO-202511-0661,"Nov 13, 2025",CENTRAL,Avery Lindqvist,Webcam HD,Peripherals,11,74.29,0.15,694.61
+SO-202511-0662,"Nov 23, 2025",EAST,Avery Lindqvist,Wireless Keyboard,Peripherals,2,60.91,0,121.82
+SO-202511-0663,"Nov 07, 2025",WEST,Elena Petrova,Filing Cabinet,Furniture,3,141.47,0.05,403.19
+SO-202511-0664,"Nov 26, 2025",NORTH,Tariq Aziz,Cable Tray,Accessories,12,18.98,0.15,193.6
+SO-202511-0665,"Nov 29, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,5,65.92,0.05,313.12
+SO-202511-0666,"Nov 19, 2025",NORTH,Imani Okafor,Standing Desk,Furniture,9,337.66,0,3038.94
+SO-202511-0667,"Nov 13, 2025",NORTH,Priya Raman,Monitor Arm,Accessories,7,88.01,0,616.07
+SO-202511-0668,"Nov 28, 2025",SOUTH,Mateo Ruiz,Webcam HD,Peripherals,6,76.32,0,457.92
+SO-202511-0669,"Nov 21, 2025",EAST,Sofia Duarte,Cable Tray,Accessories,6,19.06,0.1,102.92
+SO-202511-0670,"Nov 18, 2025",SOUTH,Mateo Ruiz,Desk Lamp,Lighting,4,38.43,0.15,130.66
+SO-202511-0671,"Nov 03, 2025",SOUTH,Tariq Aziz,Ergonomic Chair,Furniture,1,249.29,0,249.29
+SO-202511-0672,"Nov 21, 2025",WEST,Sofia Duarte,Bookshelf,Furniture,7,114.71,0,802.97
+SO-202511-0673,"Nov 22, 2025",WEST,Avery Lindqvist,Monitor Arm,Accessories,5,86.15,0,430.75
+SO-202511-0674,"Nov 17, 2025",NORTH,Kenji Mori,Laptop Stand,Accessories,9,44.61,0,401.49
+SO-202511-0675,"Nov 30, 2025",WEST,Noor Haddad,Monitor Arm,Accessories,7,88.46,0,619.22
+SO-202511-0676,"Nov 30, 2025",NORTH,Jonas Weber,Desk Lamp,Lighting,12,38.32,0.1,413.86
+SO-202511-0677,"Nov 25, 2025",WEST,Elena Petrova,Ergonomic Chair,Furniture,1,241.36,0.15,205.16
+SO-202511-0678,"Nov 28, 2025",SOUTH, Elena Petrova  ,Filing Cabinet,Furniture,1,140.71,0.15,119.6
+SO-202511-0679,"Nov 06, 2025",CENTRAL,Priya Raman,USB-C Hub,Peripherals,8,64.84,0.05,492.78
+SO-202511-0680,"Nov 09, 2025",NORTH,Kenji Mori,Standing Desk,Furniture,7,316.75,0.15,1884.66
+SO-202511-0681,"Nov 18, 2025",CENTRAL,Priya Raman,Standing Desk,Furniture,3,325.54,0,976.62
+SO-202511-0682,"Nov 27, 2025",WEST,Tariq Aziz,Webcam HD,Peripherals,1,74.4,0.15,63.24
+SO-202511-0683,"Nov 22, 2025",NORTH,Priya Raman,Bookshelf,Furniture,10,118.29,0.15,1005.47
+SO-202511-0684,"Nov 07, 2025",SOUTH,Noor Haddad,Cable Tray,Accessories,10,19.53,0.15,166.01
+SO-202511-0685,"Nov 26, 2025",WEST,Elena Petrova,Ergonomic Chair,Furniture,2,240.23,0.05,456.44
+SO-202511-0686,"Nov 24, 2025",SOUTH,Elena Petrova,Monitor Arm,Accessories,7,85.81,0.05,570.64
+SO-202511-0687,"Nov 29, 2025",SOUTH,Jonas Weber,Filing Cabinet,Furniture,12,139.78,0,1677.36
+SO-202511-0688,"Nov 11, 2025",CENTRAL,Mateo Ruiz,Cable Tray,Accessories,8,20.15,0,161.2
+SO-202511-0689,"Nov 04, 2025",EAST,Tariq Aziz,Cable Tray,Accessories,11,19.61,0.15,183.35
+SO-202511-0690,"Nov 30, 2025",SOUTH,Tariq Aziz,Laptop Stand,Accessories,10,45.06,0,450.6
+SO-202511-0691,"Nov 14, 2025",NORTH,Avery Lindqvist,Desk Lamp,Lighting,3,38.32,0.05,109.21
+SO-202511-0692,"Nov 22, 2025",SOUTH,Imani Okafor,Webcam HD,Peripherals,8,74.84,0,598.72
+SO-202511-0693,"Nov 15, 2025",SOUTH,Priya Raman,Laptop Stand,Accessories,1,46.74,0,46.74
+SO-202511-0694,"Nov 07, 2025",WEST,Avery Lindqvist,Webcam HD,Peripherals,5,77.13,0,385.65
+SO-202511-0695,"Nov 22, 2025",SOUTH,Priya Raman,USB-C Hub, Peripherals  ,10,61.76,0.05,586.72
+SO-202511-0696,"Nov 29, 2025",WEST,Priya Raman,Standing Desk,Furniture,4,321.98,0.05,1223.52
+SO-202511-0697,"Nov 20, 2025",SOUTH,Noor Haddad,Ergonomic Chair,Furniture,4,251.07,0.15,853.64
+SO-202511-0698,"Nov 08, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,8,18.91,0.1,136.15
+SO-202511-0699,"Nov 11, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,10,91.19,0.15,775.12
+SO-202511-0700,"Nov 14, 2025",WEST,Kenji Mori,USB-C Hub,Peripherals,6,65.77,0,394.62
+SO-202511-0701,"Nov 23, 2025",CENTRAL,Imani Okafor,Task Light,Lighting,2,54.55,0.05,103.65
+SO-202511-0702,"Nov 03, 2025",SOUTH,Imani Okafor,Standing Desk,Furniture,11,340.77,0,3748.47
+SO-202511-0703,"Nov 08, 2025",WEST,Sofia Duarte,Webcam HD,Peripherals,11,72.38,0,796.18
+SO-202511-0704,"Nov 02, 2025",WEST,Sofia Duarte,Ergonomic Chair,Furniture,4,253.57,0.05,963.57
+SO-202511-0705,"Nov 16, 2025",SOUTH,Avery Lindqvist,Ergonomic Chair,Furniture,1,252.35,0,252.35
+SO-202511-0706,"Nov 06, 2025",NORTH,Sofia Duarte,Webcam HD,Peripherals,4,76.52,0.15,260.17
+SO-202511-0707,"Nov 16, 2025",SOUTH,Kenji Mori,USB-C Hub,Peripherals,9,63.03,0.1,510.54
+SO-202511-0708,"Nov 17, 2025",SOUTH,Mateo Ruiz,Wireless Keyboard,Peripherals,10,60.64,0,606.4
+SO-202511-0709,"Nov 27, 2025",CENTRAL,Kenji Mori,Webcam HD,Peripherals,1,77.39,0,77.39
+SO-202511-0710,"Nov 02, 2025",WEST,Priya Raman,Desk Lamp, Lighting  ,12,40.21,0,482.52
+SO-202511-0711,"Nov 09, 2025",SOUTH,Avery Lindqvist, Task Light  ,Lighting,9,55.89,0.1,452.71
+SO-202511-0712,"Nov 01, 2025",SOUTH,Jonas Weber,Standing Desk,Furniture,10,329.62,0,3296.2
+SO-202511-0713,"Nov 05, 2025",CENTRAL,Jonas Weber,Desk Lamp,Lighting,3,39.62,0.1,106.97
+SO-202511-0714,"Nov 18, 2025",WEST,Avery Lindqvist,Bookshelf,Furniture,5,120.75,0.15,513.19
+SO-202511-0715,"Nov 25, 2025",EAST,Mateo Ruiz,Task Light,Lighting,1,55.83,0.15,47.46
+SO-202511-0716,"Nov 13, 2025",NORTH,Imani Okafor,Cable Tray,Accessories,12,19.91,0,238.92
+SO-202511-0717,"Nov 15, 2025",NORTH,Imani Okafor, Laptop Stand  ,Accessories,9,46.05,0,
+SO-202511-0718,"Nov 22, 2025",NORTH,Priya Raman,Filing Cabinet,Furniture,9,142.84,0.1,1157.0
+SO-202511-0719,"Nov 17, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,5,119.88,0,599.4
+SO-202511-0720,"Nov 17, 2025",SOUTH,Imani Okafor,Desk Lamp,Lighting,12,40.33,0,483.96
+SO-202511-0721,"Nov 01, 2025",WEST,Imani Okafor,Task Light,Lighting,10,52.15,0.15,443.28
+SO-202511-0722,"Nov 13, 2025",SOUTH,Imani Okafor,Standing Desk,Furniture,9,341.72,0,3075.48
+SO-202511-0723,"Nov 08, 2025",CENTRAL,Jonas Weber,Task Light,Lighting,2,54.64,0.05,103.82
+SO-202511-0724,"Nov 20, 2025",CENTRAL,Noor Haddad,Bookshelf,Furniture,7,118.8,0.15,706.86
+SO-202511-0725,"Nov 23, 2025",NORTH,Tariq Aziz,Task Light,Lighting,8,55.51,0.1,399.67
+SO-202511-0726,"Nov 03, 2025",EAST,Elena Petrova,Cable Tray,Accessories,9,19.66,0.05,168.09
+SO-202511-0727,"Nov 05, 2025",CENTRAL,Jonas Weber,Cable Tray,Accessories,2,19.62,0.05,37.28
+SO-202511-0728,"Nov 20, 2025",NORTH,Priya Raman,Laptop Stand,Accessories,11,45.16,0.1,447.08
+SO-202511-0729,"Nov 01, 2025",EAST,Noor Haddad,Task Light,Lighting,4,55.24,0,220.96
+SO-202511-0730,"Nov 04, 2025",WEST,Jonas Weber,Desk Lamp,Lighting,2,40.03,0.05,76.06
+SO-202511-0731,"Nov 22, 2025",CENTRAL,Mateo Ruiz,Ergonomic Chair,Furniture,5,252.21,0.1,1134.95
+SO-202511-0732,"Nov 29, 2025",CENTRAL,Elena Petrova,Standing Desk,Furniture,2,333.65,0,667.3
+SO-202511-0733,"Nov 26, 2025",WEST,Imani Okafor,Filing Cabinet,Furniture,7,137.26,0,960.82
+SO-202511-0734,"Nov 16, 2025",NORTH,Jonas Weber,Standing Desk,Furniture,4,325.17,0,1300.68
+SO-202511-0735,"Nov 25, 2025",CENTRAL,Jonas Weber,Webcam HD,Peripherals,11,71.52,0,786.72
+SO-202511-0736,"Nov 22, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,3,72.41,0,217.23
+SO-202511-0737,"Nov 30, 2025",SOUTH,Elena Petrova,Filing Cabinet,Furniture,8,137.94,0,1103.52
+SO-202511-0738,"Nov 20, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,1,53.02,0,53.02
+SO-202511-0739,"Nov 18, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,6,65.07,0.05,370.9
+SO-202511-0740,"Nov 20, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,6,243.59,0.1,1315.39
+SO-202511-0741,"Nov 22, 2025",NORTH,Sofia Duarte, Monitor Arm  ,Accessories,12,92.24,0,1106.88
+SO-202511-0742,"Nov 11, 2025",NORTH,Noor Haddad,USB-C Hub, Peripherals  ,2,65.25,0,130.5
+SO-202511-0743,"Nov 12, 2025",SOUTH,Sofia Duarte,Monitor Arm,Accessories,4,88.04,0.05,334.55
+SO-202511-0744,"Nov 04, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,6,91.15,0.15,464.87
+SO-202511-0745,"Nov 18, 2025",SOUTH,Priya Raman,Filing Cabinet,Furniture,5,135.31,0.15,575.07
+SO-202511-0746,"Nov 06, 2025",WEST,Mateo Ruiz,Webcam HD,Peripherals,7,75.17,0.05,499.88
+SO-202511-1032,"Nov 04, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,1,253.35,0.05,240.68
+SO-202511-0747,"Nov 01, 2025",SOUTH,Avery Lindqvist,Task Light,Lighting,10,54.87,0.05,521.27
+SO-202511-0748,"Nov 07, 2025",CENTRAL,Mateo Ruiz,Cable Tray,Accessories,9,19.05,0.1,154.31
+SO-202511-0749,"Nov 13, 2025",CENTRAL,Avery Lindqvist,Cable Tray,Accessories,2,19.18,0.1,34.52
+SO-202511-0750,"Nov 15, 2025",CENTRAL,Tariq Aziz,Desk Lamp,Lighting,6,39.52,0.15,201.55
+SO-202511-0751,"Nov 01, 2025",NORTH,Tariq Aziz,Bookshelf,Furniture,9,121.96,0,1097.64
+SO-202511-0752,"Nov 09, 2025",EAST,Priya Raman,Laptop Stand,Accessories,3,46.17,0.05,131.58
+SO-202511-0753,"Nov 04, 2025",NORTH,Tariq Aziz,Task Light,Lighting,2,54.48,0.1,98.06
+SO-202511-0754,"Nov 22, 2025",NORTH,Priya Raman,Task Light,Lighting,6,55.1,0.05,314.07
+SO-202511-0755,"Nov 20, 2025",SOUTH,Noor Haddad,Standing Desk,Furniture,6,328.15,0.05,1870.46
+SO-202511-0756,"Nov 18, 2025",SOUTH,Sofia Duarte,Desk Lamp,Lighting,6,39.47,0.05,224.98
+SO-202511-0757,"Nov 21, 2025",WEST,Noor Haddad,Task Light,Lighting,1,54.76,0,54.76
+SO-202511-0758,"Nov 12, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,10,91.93,0.15,781.41
+SO-202511-0759,"Nov 30, 2025",SOUTH,Mateo Ruiz,Webcam HD,Peripherals,9,72.88,0,655.92
+SO-202511-0760,"Nov 13, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,3,43.72,0.15,111.49
+SO-202511-0761,"Nov 14, 2025",WEST,Imani Okafor,Webcam HD,Peripherals,1,74.13,0.1,66.72
+SO-202511-0762,"Nov 25, 2025",SOUTH,Imani Okafor,Monitor Arm,Accessories,7,87.4,0.15,520.03
+SO-202511-0763,"Nov 02, 2025",SOUTH,Elena Petrova,Bookshelf,Furniture,11,121.39,0.05,1268.53
+SO-202511-0764,"Nov 16, 2025",EAST,Tariq Aziz,Laptop Stand,Accessories,1,43.3,0.1,38.97
+SO-202511-0765,"Nov 10, 2025",EAST,Sofia Duarte,USB-C Hub,Peripherals,7,66.11,0,462.77
+SO-202511-0766,"Nov 23, 2025",WEST,Avery Lindqvist,Task Light,Lighting,3,54.31,0,162.93
+SO-202511-0767,"Nov 08, 2025",EAST,Priya Raman,Wireless Keyboard,Peripherals,7,59.69,0,417.83
+SO-202511-0768,"Nov 09, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,9,325.62,0.05,2784.05
+SO-202511-0769,"Nov 19, 2025",WEST,Priya Raman,Bookshelf,Furniture,8,123.38,0.1,888.34
+SO-202511-0770,"Nov 10, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,8,245.1,0.1,1764.72
+SO-202511-0771,"Nov 29, 2025",SOUTH,Imani Okafor,Filing Cabinet,Furniture,4,138.38,0.05,525.84
+SO-202511-0772,"Nov 06, 2025",SOUTH, Jonas Weber  ,Wireless Keyboard,Peripherals,2,57.45,0.1,103.41
+SO-202511-0773,"Nov 18, 2025",NORTH,Noor Haddad,Standing Desk,Furniture,1,321.47,0.1,289.32
+SO-202511-0774,"Nov 30, 2025",SOUTH,Kenji Mori,Task Light,Lighting,6,55.26,0.05,314.98
+SO-202511-0775,"Nov 15, 2025",CENTRAL,Priya Raman,Cable Tray,Accessories,4,20.09,0.15,68.31
+,,,,,,,,,
+SO-202511-0776,"Nov 29, 2025",NORTH,Noor Haddad,Ergonomic Chair, Furniture  ,2,258.29,0.1,464.92
+SO-202511-0777,"Nov 03, 2025",NORTH,Elena Petrova,Task Light,Lighting,7,54.11,0.05,359.83
+SO-202511-0778,"Nov 18, 2025",SOUTH,Jonas Weber,Laptop Stand,Accessories,6,46.43,0,278.58
+SO-202511-0779,"Nov 24, 2025",CENTRAL,Sofia Duarte,Ergonomic Chair,Furniture,11,251.73,0.1,2492.13
+SO-202511-0780,"Nov 03, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,5,40.34,0,201.7
+SO-202511-0781,"Nov 03, 2025",NORTH,Kenji Mori,Webcam HD,Peripherals,8,72.92,0.15,495.86
+SO-202511-0751,"Nov 01, 2025",NORTH,Tariq Aziz,Bookshelf,Furniture,9,121.96,0,1097.64
+SO-202511-0782,"Nov 23, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,12,57.88,0.15,590.38
+SO-202511-0783,"Nov 22, 2025",NORTH,Mateo Ruiz,Filing Cabinet,Furniture,3,137.02,0,411.06
+SO-202511-0784,"Nov 21, 2025",WEST,Tariq Aziz,Monitor Arm,Accessories,3,87.08,0,261.24
+SO-202511-0785,"Nov 30, 2025",NORTH,Mateo Ruiz,Cable Tray,Accessories,3,20.03,0,60.09
+SO-202511-0786,"Nov 01, 2025",EAST,Priya Raman,Task Light,Lighting,1,52.06,0.1,46.85
+SO-202511-0787,"Nov 28, 2025",EAST,Elena Petrova,Filing Cabinet,Furniture,9,137.66,0,1238.94
+SO-202511-1023,"Nov 01, 2025",EAST,Sofia Duarte,Wireless Keyboard,Peripherals,7,57.4,0.1,361.62
+SO-202511-0788,"Nov 25, 2025",EAST,Noor Haddad,Desk Lamp,Lighting,7,39.84,0,278.88
+SO-202511-0789,"Nov 03, 2025",CENTRAL,Mateo Ruiz,Task Light,Lighting,12,54.58,0.05,622.21
+SO-202511-0790,"Nov 21, 2025",CENTRAL,Tariq Aziz,Filing Cabinet,Furniture,2,141.51,0,283.02
+SO-202511-0791,"Nov 22, 2025",SOUTH,Kenji Mori,Standing Desk,Furniture,7,318.09,0.15,1892.64
+SO-202511-0792,"Nov 03, 2025",SOUTH,Tariq Aziz,Bookshelf,Furniture,4,121.26,0.15,412.28
+SO-202511-0793,"Nov 16, 2025",NORTH,Kenji Mori,Cable Tray,Accessories,4,18.83,0,75.32
+SO-202511-0794,"Nov 23, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,7,38.82,0,271.74
+SO-202511-0795,"Nov 08, 2025",SOUTH,Elena Petrova,Ergonomic Chair,Furniture,10,251.07,0.05,2385.17
+,"Nov 01, 2025",NORTH,Tariq Aziz,Task Light,Lighting,8,53.9,0.1,388.08
+SO-202511-0797,"Nov 03, 2025",NORTH,Noor Haddad,Filing Cabinet,Furniture,11,133.96,0,1473.56
+SO-202511-0798,"Nov 25, 2025",WEST,Mateo Ruiz,Filing Cabinet,Furniture,11,143.36,0,1576.96
+SO-202511-0799,"Nov 28, 2025",NORTH,Sofia Duarte,Bookshelf,Furniture,10,118.44,0,1184.4
+SO-202511-0800,"Nov 23, 2025",EAST,Kenji Mori,Cable Tray,Accessories,1,19.74,0,19.74
+SO-202511-0801,"Nov 27, 2025",EAST,Mateo Ruiz,Laptop Stand,Accessories,7,46.36,0,324.52
+SO-202511-0802,"Nov 09, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,3,134.39,0.15,342.69
+SO-202511-0803,"Nov 16, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,5,90.1,0,450.5
+SO-202511-0804,"Nov 07, 2025",SOUTH,Kenji Mori,Monitor Arm,Accessories,1,91.74,0.1,82.57
+SO-202511-0805,"Nov 21, 2025",CENTRAL,Imani Okafor,Laptop Stand,Accessories,8,44.35,0,354.8
+SO-202511-0806,"Nov 26, 2025",NORTH,Elena Petrova,Desk Lamp,Lighting,7,40.87,0.1,
+SO-202511-0807,"Nov 25, 2025",NORTH,Priya Raman,Ergonomic Chair,Furniture,2,239.21,0,478.42
+SO-202511-0808,"Nov 04, 2025",WEST,Priya Raman,Cable Tray,Accessories,8,19.43,0.1,139.9
+SO-202511-0809,"Nov 29, 2025",EAST,Jonas Weber,Bookshelf,Furniture,4,121.41,0.15,412.79
+SO-202511-0810,"Nov 23, 2025",SOUTH,Elena Petrova,Desk Lamp,Lighting,4,41.39,0,165.56
+SO-202511-0811,"Nov 05, 2025",NORTH,Avery Lindqvist,Task Light,Lighting,1,52.88,0.05,50.24
+SO-202511-0812,"Nov 16, 2025",NORTH,Tariq Aziz,Laptop Stand,Accessories,12,46.49,0.1,502.09
+SO-202511-0813,"Nov 29, 2025",WEST,Sofia Duarte,Ergonomic Chair,Furniture,1,242.54,0.1,218.29
+SO-202511-0814,"Nov 25, 2025",NORTH,Kenji Mori,Webcam HD,Peripherals,4,75.75,0,303.0
+SO-202511-0147,"Nov 15, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,2,19.32,0,38.64
+SO-202511-0815,"Nov 09, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,9,119.94,0.1,971.51
+SO-202511-0816,"Nov 01, 2025",NORTH,Jonas Weber,Webcam HD,Peripherals,11,72.98,0,802.78
+SO-202511-0817,"Nov 30, 2025",SOUTH,Noor Haddad,Cable Tray,Accessories,6,19.28,0,115.68
+SO-202511-0818,"Nov 01, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,3,120.07,0.1,324.19
+SO-202511-0819,"Nov 23, 2025",WEST,Imani Okafor,Cable Tray,Accessories,6,19.23,0,115.38
+SO-202511-0820,"Nov 04, 2025",NORTH,Mateo Ruiz,Filing Cabinet,Furniture,12,143.36,0,1720.32
+SO-202511-0821,"Nov 04, 2025",SOUTH,Imani Okafor,Bookshelf,Furniture,2,123.66,0,247.32
+SO-202511-0822,"Nov 01, 2025",NORTH,Kenji Mori,Cable Tray,Accessories,5,19.8,0,99.0
+SO-202511-0823,"Nov 05, 2025",WEST,Elena Petrova,USB-C Hub,Peripherals,11,64.02,0,704.22
+SO-202511-0824,"Nov 04, 2025",NORTH,Sofia Duarte,Bookshelf,Furniture,5,121.38,0,606.9
+SO-202511-0825,"Nov 09, 2025",EAST,Elena Petrova,USB-C Hub,Peripherals,5,62.86,0.05,298.59
+SO-202511-0826,"Nov 25, 2025",EAST,Kenji Mori,Wireless Keyboard,Peripherals,2,59.44,0.1,106.99
+SO-202511-0827,"Nov 14, 2025",EAST,Mateo Ruiz,Bookshelf,Furniture,6,114.26,0.15,582.73
+SO-202511-0828,"Nov 17, 2025",WEST,Sofia Duarte,Bookshelf,Furniture,4,116.75,0.05,443.65
+SO-202511-0829,"Nov 24, 2025",WEST,Priya Raman,USB-C Hub,Peripherals,3,62.62,0.1,169.07
+SO-202511-0830,"Nov 03, 2025",WEST,Kenji Mori,Wireless Keyboard,Peripherals,8,58.11,0.1,418.39
+SO-202511-0831,"Nov 09, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,8,56.97,0.15,387.4
+SO-202511-0832,"Nov 03, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,11,86.78,0.15,811.39
+SO-202511-0833,"Nov 12, 2025",NORTH,Kenji Mori,Filing Cabinet,Furniture,9,136.06,0,1224.54
+SO-202511-0834,"Nov 06, 2025",WEST,Kenji Mori,Task Light,Lighting,12,55.24,0.1,596.59
+SO-202511-0835,"Nov 26, 2025",WEST,Tariq Aziz,Wireless Keyboard,Peripherals,11,59.78,0.15,558.94
+SO-202511-0836,"Nov 01, 2025",CENTRAL,Sofia Duarte,USB-C Hub,Peripherals,2,64.14,0,128.28
+SO-202511-0837,"Nov 15, 2025",SOUTH,Priya Raman,USB-C Hub,Peripherals,11,66.18,0.1,655.18
+SO-202511-0838,"Nov 25, 2025",EAST,Avery Lindqvist,Monitor Arm,Accessories,7,86.7,0.15,515.87
+SO-202511-0839,"Nov 12, 2025",WEST,Sofia Duarte,Monitor Arm,Accessories,4,91.35,0.05,347.13
+SO-202511-0840,"Nov 05, 2025",EAST,Mateo Ruiz,Standing Desk,Furniture,11,341.66,0,3758.26
+SO-202511-0841,"Nov 12, 2025",EAST,Jonas Weber,Wireless Keyboard,Peripherals,5,59.62,0,298.1
+SO-202511-0842,"Nov 15, 2025",EAST,Avery Lindqvist,Monitor Arm,Accessories,6,86.19,0.05,491.28
+SO-202511-0843,"Nov 11, 2025",NORTH,Noor Haddad,Standing Desk, Furniture  ,6,321.09,0.1,1733.89
+SO-202511-0844,"Nov 24, 2025",EAST,Tariq Aziz,Monitor Arm,Accessories,1,90.03,0,90.03
+SO-202511-0845,"Nov 20, 2025",CENTRAL,Tariq Aziz,Standing Desk,Furniture,7,325.23,0.1,2048.95
+SO-202511-0846,"Nov 03, 2025",EAST,Mateo Ruiz,Cable Tray,Accessories,3,20.08,0,60.24
+SO-202511-0847,"Nov 16, 2025",NORTH,Tariq Aziz,Task Light,Lighting,3,52.29,0,156.87
+SO-202511-0848,"Nov 21, 2025",NORTH,Elena Petrova,Bookshelf,Furniture,1,117.43,0.15,99.82
+SO-202511-0849,"Nov 28, 2025",EAST,Elena Petrova,Webcam HD,Peripherals,6,71.81,0,430.86
+SO-202511-0850,"Nov 08, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,9,139.01,0.1,1125.98
+SO-202511-0851,"Nov 09, 2025",WEST,Imani Okafor,Laptop Stand,Accessories,8,43.36,0,346.88
+SO-202511-0852,"Nov 24, 2025",EAST,Tariq Aziz,Filing Cabinet,Furniture,8,143.39,0.1,1032.41
+SO-202511-0853,"Nov 08, 2025",CENTRAL,Priya Raman,Cable Tray,Accessories,1,20.23,0.05,19.22
+SO-202511-0854,"Nov 08, 2025",EAST,Priya Raman,Monitor Arm,Accessories,4,86.42,0,345.68
+SO-202511-0855,"Nov 24, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,3,87.3,0,261.9
+SO-202511-0856,"Nov 19, 2025",CENTRAL,Priya Raman,Ergonomic Chair,Furniture,5,249.69,0,1248.45
+SO-202511-0857,"Nov 23, 2025",CENTRAL,Kenji Mori,Laptop Stand,Accessories,4,43.9,0.1,158.04
+SO-202511-0858,"Nov 24, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,6,45.64,0,273.84
+SO-202511-0859,"Nov 05, 2025",EAST,Noor Haddad,Webcam HD,Peripherals,5,76.33,0.05,362.57
+SO-202511-0860,"Nov 22, 2025",EAST,Jonas Weber,Standing Desk,Furniture,12,324.48,0,3893.76
+SO-202511-0861,"Nov 16, 2025",WEST,Sofia Duarte,Filing Cabinet,Furniture,4,139.54,0,558.16
+SO-202511-0862,"Nov 08, 2025",SOUTH,Kenji Mori,Standing Desk,Furniture,11,325.02,0.1,3217.7
+SO-202511-0863,"Nov 12, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,3,239.77,0.05,683.34
+SO-202511-0864,"Nov 19, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,10,63.4,0.05,602.3
+SO-202511-0865,"Nov 30, 2025",NORTH,Jonas Weber,Cable Tray,Accessories,11,20.15,0.1,199.49
+SO-202511-0618,"Nov 01, 2025",EAST,Sofia Duarte,Monitor Arm,Accessories,2,87.0,0.15,147.9
+SO-202511-0866,"Nov 28, 2025",EAST,Priya Raman,Laptop Stand,Accessories,11,45.04,0.15,421.12
+SO-202511-0867,"Nov 25, 2025",NORTH,Noor Haddad,Task Light,Lighting,1,56.14,0.1,50.53
+SO-202511-0868,"Nov 22, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,1,65.5,0.1,58.95
+SO-202511-0869,"Nov 08, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,12,40.44,0.1,436.75
+SO-202511-0870,"Nov 13, 2025",WEST,Tariq Aziz,Task Light,Lighting,8,52.39,0.1,377.21
+SO-202511-0871,"Nov 06, 2025",SOUTH,Sofia Duarte,Desk Lamp,Lighting,1,40.26,0,40.26
+SO-202511-0872,"Nov 17, 2025",EAST,Tariq Aziz,Ergonomic Chair,Furniture,9,245.41,0.15,1877.39
+SO-202511-0873,"Nov 11, 2025",EAST,Avery Lindqvist,Filing Cabinet,Furniture,7,142.66,0,998.62
+SO-202511-0874,"Nov 13, 2025",NORTH,Tariq Aziz,Laptop Stand,Accessories,4,44.17,0.15,150.18
+SO-202511-0875,"Nov 07, 2025",NORTH,Priya Raman,Task Light,Lighting,10,53.59,0,535.9
+SO-202511-0876,"Nov 10, 2025",WEST,Sofia Duarte,Bookshelf,Furniture,3,115.28,0.05,328.55
+SO-202511-0877,"Nov 26, 2025",WEST,Sofia Duarte,Standing Desk,Furniture,12,337.32,0,4047.84
+SO-202511-0878,"Nov 09, 2025",NORTH,Kenji Mori,Filing Cabinet,Furniture,10,138.65,0.1,1247.85
+SO-202511-0879,"Nov 10, 2025",CENTRAL,Sofia Duarte,Webcam HD,Peripherals,5,72.54,0.15,308.3
+SO-202511-0880,"Nov 26, 2025",SOUTH,Elena Petrova,Webcam HD,Peripherals,12,74.38,0.15,758.68
+SO-202511-0881,"Nov 01, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,12,141.34,0,1696.08
+SO-202511-0882,"Nov 02, 2025",WEST,Sofia Duarte,Laptop Stand,Accessories,7,46.49,0.15,276.62
+SO-202511-0883,"Nov 12, 2025",EAST,Mateo Ruiz,Wireless Keyboard,Peripherals,1,60.61,0.05,57.58
+SO-202511-0884,"Nov 28, 2025",SOUTH,Elena Petrova,Cable Tray,Accessories,7,19.57,0.15,116.44
+SO-202511-0885,"Nov 21, 2025",WEST,Priya Raman,USB-C Hub,Peripherals,9,63.93,0.1,517.83
+SO-202511-0886,"Nov 17, 2025",SOUTH,Kenji Mori,Wireless Keyboard,Peripherals,9,58.43,0,525.87
+SO-202511-0887,"Nov 10, 2025",WEST,Elena Petrova,USB-C Hub,Peripherals,2,64.59,0,129.18
+SO-202511-0888,"Nov 25, 2025",SOUTH,Tariq Aziz,Filing Cabinet,Furniture,7,143.92,0,1007.44
+SO-202511-0889,"Nov 16, 2025",NORTH,Imani Okafor,Ergonomic Chair,Furniture,1,245.67,0,245.67
+SO-202511-0890,"Nov 10, 2025",CENTRAL,Imani Okafor,Cable Tray,Accessories,7,20.0,0.15,119.0
+SO-202511-0891,"Nov 11, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,7,117.77,0.05,783.17
+SO-202511-0892,"Nov 29, 2025",SOUTH,Avery Lindqvist,USB-C Hub,Peripherals,12,64.88,0.15,661.78
+SO-202511-0893,"Nov 01, 2025",NORTH,Tariq Aziz,Filing Cabinet,Furniture,3,143.06,0.05,407.72
+SO-202511-0894,"Nov 16, 2025",SOUTH,Kenji Mori,Standing Desk,Furniture,12,323.19,0,3878.28
+SO-202511-0895,"Nov 25, 2025",CENTRAL,Imani Okafor,Desk Lamp,Lighting,5,39.29,0.15,166.98
+SO-202511-0896,"Nov 02, 2025",SOUTH,Kenji Mori,Task Light,Lighting,11,54.48,0.1,539.35
+SO-202511-0897,"Nov 30, 2025",SOUTH,Mateo Ruiz,Webcam HD,Peripherals,11,77.13,0.05,806.01
+SO-202511-0898,"Nov 17, 2025",WEST,Elena Petrova,Monitor Arm,Accessories,4,90.27,0.15,306.92
+SO-202511-0899,"Nov 08, 2025",SOUTH,Mateo Ruiz,Standing Desk,Furniture,4,326.27,0.1,1174.57
+SO-202511-0900,"Nov 03, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,3,143.07,0.05,407.75
+SO-202511-0901,"Nov 17, 2025",SOUTH,Jonas Weber,Filing Cabinet,Furniture,12,141.09,0,1693.08
+SO-202511-0902,"Nov 06, 2025",NORTH,Jonas Weber,Filing Cabinet,Furniture,5,143.06,0,715.3
+SO-202511-0903,"Nov 03, 2025",SOUTH,Avery Lindqvist,Standing Desk,Furniture,12,341.1,0,4093.2
+SO-202511-0904,"Nov 10, 2025",NORTH,Avery Lindqvist,Cable Tray,Accessories,10,19.37,0,193.7
+SO-202511-0905,"Nov 09, 2025",SOUTH,Jonas Weber,Desk Lamp,Lighting,7,41.39,0.1,260.76
+SO-202511-0906,"Nov 14, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,7,257.31,0.1,1621.05
+SO-202511-0907,"Nov 24, 2025",WEST,Jonas Weber,Monitor Arm,Accessories,11,89.1,0.1,882.09
+SO-202511-0908,"Nov 30, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,5,59.7,0.05,283.58
+SO-202511-0909,"Nov 07, 2025",EAST,Jonas Weber,Standing Desk,Furniture,3,323.93,0.15,826.02
+SO-202511-0910,"Nov 23, 2025",NORTH,Sofia Duarte,Cable Tray,Accessories,7,18.87,0.15,112.28
+SO-202511-0911,"Nov 30, 2025",SOUTH,Elena Petrova,Bookshelf,Furniture,5,122.55,0.1,551.48
+SO-202511-0912,"Nov 13, 2025",SOUTH,Kenji Mori,Filing Cabinet,Furniture,5,137.43,0.15,584.08
+SO-202511-0913,"Nov 19, 2025",NORTH,Imani Okafor,Bookshelf,Furniture,2,117.42,0.15,199.61
+SO-202511-0914,"Nov 03, 2025",CENTRAL,Tariq Aziz,Standing Desk, Furniture  ,2,324.6,0,649.2
+SO-202511-0915,"Nov 16, 2025",NORTH,Kenji Mori,Cable Tray,Accessories,2,18.88,0.1,33.98
+SO-202511-0916,"Nov 20, 2025",EAST,Avery Lindqvist,Desk Lamp,Lighting,7,39.79,0.05,264.6
+SO-202511-0917,"Nov 15, 2025",SOUTH,Avery Lindqvist,Webcam HD,Peripherals,11,73.15,0.05,764.42
+SO-202511-0918,"Nov 30, 2025",EAST,Avery Lindqvist,Webcam HD,Peripherals,2,73.65,0,147.3
+SO-202511-0919,"Nov 09, 2025",CENTRAL,Noor Haddad,Bookshelf,Furniture,2,118.11,0.15,200.79
+SO-202511-0920,"Nov 02, 2025",SOUTH,Jonas Weber,Ergonomic Chair,Furniture,1,258.05,0,258.05
+SO-202511-0921,"Nov 17, 2025",WEST,Kenji Mori,USB-C Hub,Peripherals,5,61.47,0.05,291.98
+SO-202511-0922,"Nov 18, 2025",WEST,Priya Raman,Filing Cabinet,Furniture,11,133.49,0.15,1248.13
+SO-202511-0923,"Nov 09, 2025",NORTH,Tariq Aziz,Monitor Arm,Accessories,8,86.66,0.1,623.95
+SO-202511-0924,"Nov 08, 2025",CENTRAL,Sofia Duarte,Bookshelf,Furniture,8,116.52,0.05,885.55
+SO-202511-0925,"Nov 10, 2025",SOUTH,Tariq Aziz,Desk Lamp,Lighting,1,39.34,0,39.34
+SO-202511-0926,"Nov 06, 2025",EAST,Avery Lindqvist,Standing Desk,Furniture,12,321.3,0,3855.6
+SO-202511-0927,"Nov 25, 2025",SOUTH,Jonas Weber,USB-C Hub,Peripherals,8,64.98,0.15,441.86
+SO-202511-0928,"Nov 22, 2025",NORTH,Imani Okafor,Standing Desk,Furniture,9,319.69,0,2877.21
+SO-202511-0929,"Nov 23, 2025",WEST,Noor Haddad,Monitor Arm,Accessories,2,86.56,0,173.12
+SO-202511-0930,"Nov 27, 2025",EAST,Jonas Weber,Filing Cabinet,Furniture,7,138.49,0.1,872.49
+SO-202511-0931,"Nov 30, 2025",NORTH,Priya Raman,Desk Lamp,Lighting,11,40.98,0.1,405.7
+SO-202511-0932,"Nov 15, 2025",EAST, Sofia Duarte  ,Task Light,Lighting,6,55.79,0,334.74
+SO-202511-0933,"Nov 03, 2025",WEST,Kenji Mori,Wireless Keyboard,Peripherals,1,61.03,0.1,54.93
+SO-202511-0934,"Nov 12, 2025",WEST,Noor Haddad,Webcam HD,Peripherals,3,75.45,0.1,203.72
+SO-202511-0935,"Nov 15, 2025",EAST,Imani Okafor,Bookshelf,Furniture,1,122.45,0.1,110.21
+SO-202511-0936,"Nov 13, 2025",SOUTH,Tariq Aziz,Webcam HD,Peripherals,8,73.86,0.1,531.79
+SO-202511-0937,"Nov 07, 2025",SOUTH,Imani Okafor,Bookshelf,Furniture,6,119.86,0,719.16
+SO-202511-0938,"Nov 19, 2025",WEST,Avery Lindqvist,Wireless Keyboard,Peripherals,4,57.14,0.15,194.28
+SO-202511-0939,"Nov 07, 2025",EAST,Kenji Mori,Bookshelf,Furniture,10,117.59,0.05,1117.11
+SO-202511-0940,"Nov 15, 2025",SOUTH, Sofia Duarte  ,Task Light,Lighting,3,55.44,0,166.32
+SO-202511-0941,"Nov 27, 2025",EAST,Elena Petrova,Laptop Stand,Accessories,12,45.74,0,548.88
+SO-202511-0942,"Nov 02, 2025",CENTRAL,Tariq Aziz,Webcam HD,Peripherals,6,73.98,0.15,377.3
+SO-202511-0943,"Nov 15, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,5,40.26,0,201.3
+SO-202511-0944,"Nov 29, 2025",EAST,Kenji Mori,Laptop Stand,Accessories,12,45.35,0,544.2
+SO-202511-0945,"Nov 19, 2025",EAST,Sofia Duarte,Cable Tray,Accessories,2,20.26,0,40.52
+SO-202511-0946,"Nov 21, 2025",WEST,Tariq Aziz,Monitor Arm,Accessories,8,90.29,0,722.32
+SO-202511-0947,"Nov 18, 2025",CENTRAL,Jonas Weber,Filing Cabinet,Furniture,6,143.0,0.05,815.1
+SO-202511-0948,"Nov 01, 2025",SOUTH,Tariq Aziz,Desk Lamp,Lighting,10,41.41,0.1,372.69
+SO-202511-0949,"Nov 19, 2025",NORTH,Tariq Aziz,Filing Cabinet,Furniture,3,143.09,0.15,364.88
+SO-202511-0950,"Nov 06, 2025",CENTRAL,Elena Petrova, Standing Desk  ,Furniture,9,321.36,0.05,2747.63
+SO-202511-0951,"Nov 29, 2025",SOUTH,Jonas Weber,Webcam HD,Peripherals,2,74.12,0,148.24
+SO-202511-0952,"Nov 03, 2025",EAST,Avery Lindqvist,Task Light,Lighting,5,53.37,0.15,226.82
+SO-202511-0953,"Nov 22, 2025",EAST,Avery Lindqvist,Standing Desk,Furniture,7,321.96,0.1,2028.35
+SO-202511-0954,"Nov 23, 2025",WEST,Priya Raman,Webcam HD,Peripherals,9,75.92,0,683.28
+SO-202511-0955,"Nov 28, 2025",CENTRAL,Elena Petrova,Task Light,Lighting,12,56.06,0,672.72
+SO-202511-0956,"Nov 19, 2025",NORTH, Jonas Weber  ,Cable Tray,Accessories,9,19.35,0.05,165.44
+SO-202511-0957,"Nov 22, 2025",NORTH,Jonas Weber,Bookshelf,Furniture,2,121.94,0.1,219.49
+SO-202511-0958,"Nov 13, 2025",WEST,Avery Lindqvist,Desk Lamp,Lighting,8,41.36,0,330.88
+SO-202511-0959,"Nov 18, 2025",SOUTH,Imani Okafor,Ergonomic Chair,Furniture,4,240.87,0.1,867.13
+SO-202511-0960,"Nov 11, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,7,244.03,0.1,1537.39
+SO-202511-0961,"Nov 23, 2025",WEST,Sofia Duarte,Webcam HD,Peripherals,11,74.71,0.05,780.72
+SO-202511-0962,"Nov 11, 2025",NORTH,Imani Okafor,Task Light,Lighting,2,51.85,0.05,98.52
+SO-202511-0963,"Nov 14, 2025",EAST,Tariq Aziz,Standing Desk,Furniture,6,323.23,0.15,1648.47
+SO-202511-0964,"Nov 08, 2025",WEST,Imani Okafor,Desk Lamp,Lighting,5,40.54,0.1,182.43
+SO-202511-0965,"Nov 27, 2025",WEST,Noor Haddad,Task Light,Lighting,10,52.12,0,521.2
+SO-202511-0966,"Nov 20, 2025",NORTH,Sofia Duarte,USB-C Hub,Peripherals,8,64.57,0.15,439.08
+SO-202511-0967,"Nov 05, 2025",NORTH,Mateo Ruiz,Bookshelf,Furniture,8,118.84,0.05,903.18
+SO-202511-0968,"Nov 08, 2025",CENTRAL,Noor Haddad,Wireless Keyboard,Peripherals,2,61.02,0,122.04
+SO-202511-0969,"Nov 27, 2025",WEST,Tariq Aziz,Desk Lamp,Lighting,3,39.28,0,117.84
+SO-202511-0970,"Nov 14, 2025",EAST,Mateo Ruiz,Standing Desk,Furniture,11,336.12,0.1,3327.59
+SO-202511-0971,"Nov 05, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,9,320.22,0,2881.98
+SO-202511-0972,"Nov 17, 2025",NORTH,Priya Raman,Monitor Arm,Accessories,2,90.34,0.1,162.61
+SO-202511-0973,"Nov 29, 2025",WEST,Jonas Weber,Ergonomic Chair,Furniture,10,239.91,0.15,2039.24
+SO-202511-0974,"Nov 18, 2025",EAST,Kenji Mori,Monitor Arm,Accessories,4,88.84,0,355.36
+SO-202511-0975,"Nov 21, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,12,61.87,0,742.44
+SO-202511-0976,"Nov 26, 2025",WEST,Tariq Aziz,Laptop Stand,Accessories,3,46.67,0,140.01
+SO-202511-0977,"Nov 03, 2025",EAST,Kenji Mori,Wireless Keyboard,Peripherals,10,59.09,0,590.9
+SO-202511-0978,"Nov 24, 2025",EAST,Noor Haddad,Filing Cabinet,Furniture,4,137.5,0,550.0
+SO-202511-0979,"Nov 11, 2025",NORTH, Elena Petrova  ,Filing Cabinet,Furniture,7,140.23,0,981.61
+SO-202511-0980,"Nov 14, 2025",EAST,Priya Raman,Webcam HD,Peripherals,3,72.78,0,218.34
+SO-202511-0981,"Nov 24, 2025",CENTRAL,Priya Raman,Monitor Arm,Accessories,12,86.17,0.1,930.64
+SO-202511-0982,"Nov 09, 2025",NORTH,Sofia Duarte,Wireless Keyboard,Peripherals,12,58.27,0,699.24
+SO-202511-0983,"Nov 14, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,1,64.17,0,64.17
+SO-202511-0984,"Nov 04, 2025",EAST,Jonas Weber,Filing Cabinet,Furniture,3,134.58,0,403.74
+SO-202511-0985,"Nov 18, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,12,243.12,0,2917.44
+SO-202511-0986,"Nov 08, 2025",CENTRAL, Priya Raman  ,Cable Tray,Accessories,2,20.03,0.05,38.06
+SO-202511-0987,"Nov 12, 2025",EAST,Priya Raman,Wireless Keyboard,Peripherals,6,59.5,0,357.0
+SO-202511-0988,"Nov 01, 2025",NORTH,Priya Raman,USB-C Hub,Peripherals,11,66.27,0,728.97
+SO-202511-0989,"Nov 15, 2025",WEST,Tariq Aziz,Laptop Stand,Accessories,4,44.89,0.15,152.63
+SO-202511-0990,"Nov 07, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,5,59.08,0.05,280.63
+SO-202511-0991,"Nov 30, 2025",WEST,Kenji Mori,Cable Tray,Accessories,5,19.5,0,97.5
+SO-202511-0992,"Nov 22, 2025",WEST,Noor Haddad,Wireless Keyboard,Peripherals,4,58.59,0,234.36
+SO-202511-0993,"Nov 24, 2025",SOUTH,Sofia Duarte,Webcam HD,Peripherals,7,75.06,0,525.42
+SO-202511-0994,"Nov 11, 2025",NORTH,Mateo Ruiz,Ergonomic Chair,Furniture,1,257.42,0.05,244.55
+SO-202511-0995,"Nov 22, 2025",WEST,Kenji Mori,Ergonomic Chair,Furniture,6,247.43,0.05,1410.35
+SO-202511-0996,"Nov 16, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,10,89.77,0.05,852.82
+SO-202511-0997,"Nov 25, 2025",NORTH,Kenji Mori,USB-C Hub,Peripherals,10,64.92,0.1,584.28
+SO-202511-0998,"Nov 05, 2025",SOUTH,Kenji Mori,Desk Lamp,Lighting,1,39.08,0.15,33.22
+SO-202511-0999,"Nov 04, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,3,244.77,0.1,660.88
+SO-202511-1000,"Nov 08, 2025",EAST,Kenji Mori, Ergonomic Chair  ,Furniture,2,242.2,0.15,411.74
+SO-202511-1001,"Nov 15, 2025",NORTH,Avery Lindqvist,Cable Tray,Accessories,6,19.37,0.15,98.79
+SO-202511-1002,"Nov 19, 2025",SOUTH,Kenji Mori,Ergonomic Chair,Furniture,2,250.27,0,500.54
+SO-202511-1003,"Nov 18, 2025",CENTRAL,Jonas Weber,Ergonomic Chair,Furniture,11,243.81,0.1,2413.72
+SO-202511-1004,"Nov 16, 2025",WEST,Noor Haddad,Bookshelf,Furniture,1,114.53,0.1,103.08
+SO-202511-1005,"Nov 09, 2025",CENTRAL,Noor Haddad,Filing Cabinet,Furniture,4,133.68,0,534.72
+SO-202511-1006,"Nov 20, 2025",SOUTH,Jonas Weber,Laptop Stand,Accessories,11,44.15,0.15,412.8
+SO-202511-1007,"Nov 29, 2025",WEST,Avery Lindqvist,Laptop Stand,Accessories,3,46.65,0,139.95
+SO-202511-1008,"Nov 13, 2025",SOUTH,Imani Okafor,Task Light,Lighting,2,54.07,0.15,91.92
+SO-202511-1009,"Nov 12, 2025",CENTRAL,Mateo Ruiz,USB-C Hub,Peripherals,2,63.78,0,127.56
+SO-202511-1010,"Nov 18, 2025",EAST,Jonas Weber,Ergonomic Chair,Furniture,5,256.62,0.1,1154.79
+SO-202511-1011,"Nov 10, 2025",NORTH,Kenji Mori,Wireless Keyboard,Peripherals,11,57.63,0.15,538.84
+SO-202511-1012,"Nov 26, 2025",WEST,Sofia Duarte,Filing Cabinet,Furniture,7,133.6,0,935.2
+SO-202511-1013,"Nov 19, 2025",EAST,Jonas Weber,USB-C Hub,Peripherals,8,66.24,0.1,476.93
+SO-202511-1014,"Nov 28, 2025",SOUTH,Imani Okafor,Bookshelf,Furniture,1,122.81,0.15,104.39
+SO-202511-1015,"Nov 01, 2025",NORTH,Tariq Aziz,Standing Desk,Furniture,12,317.97,0.15,3243.29
+SO-202511-1016,"Nov 01, 2025",NORTH,Priya Raman,Cable Tray,Accessories,4,19.46,0,77.84
+SO-202511-1017,"Nov 15, 2025",EAST,Noor Haddad,Cable Tray,Accessories,3,19.74,0,59.22
+SO-202511-1018,"Nov 10, 2025",WEST,Noor Haddad,Standing Desk,Furniture,11,334.04,0.05,3490.72
+SO-202511-1019,"Nov 14, 2025",NORTH,Avery Lindqvist,Bookshelf,Furniture,7,118.3,0.1,745.29
+SO-202511-1020,"Nov 23, 2025",WEST,Jonas Weber,Monitor Arm,Accessories,8,86.17,0.1,620.42
+SO-202511-1021,"Nov 25, 2025",EAST,Noor Haddad,USB-C Hub,Peripherals,5,65.24,0,326.2
+SO-202511-1022,"Nov 21, 2025",WEST,Tariq Aziz,Monitor Arm,Accessories,12,91.53,0,1098.36
+SO-202511-1023,"Nov 01, 2025",EAST,Sofia Duarte,Wireless Keyboard,Peripherals,7,57.4,0.1,361.62
+SO-202511-1024,"Nov 22, 2025",CENTRAL,Avery Lindqvist,Wireless Keyboard,Peripherals,3,61.24,0,183.72
+SO-202511-1025,"Nov 11, 2025",NORTH,Imani Okafor,Standing Desk,Furniture,3,328.06,0,984.18
+SO-202511-1026,"Nov 19, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,1,20.22,0.05,19.21
+SO-202511-1027,"Nov 12, 2025",EAST,Kenji Mori,Standing Desk,Furniture,10,335.89,0,3358.9
+SO-202511-1028,"Nov 03, 2025",NORTH,Kenji Mori,Standing Desk,Furniture,6,325.73,0.05,1856.66
+SO-202511-1029,"Nov 22, 2025",SOUTH,Avery Lindqvist,Task Light,Lighting,2,54.62,0.1,98.32
+SO-202511-1030,"Nov 03, 2025",EAST,Tariq Aziz,Standing Desk,Furniture,10,335.79,0.05,3190.01
+SO-202511-1031,"Nov 21, 2025",WEST,Priya Raman,Filing Cabinet,Furniture,3,139.86,0.15,356.64
+SO-202511-1032,"Nov 04, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,1,253.35,0.05,240.68
+SO-202511-1033,"Nov 28, 2025",WEST,Jonas Weber,Ergonomic Chair,Furniture,7,239.23,0,1674.61
+SO-202511-1034,"Nov 07, 2025",WEST,Avery Lindqvist,Wireless Keyboard,Peripherals,11,59.01,0,649.11
+SO-202511-1035,"Nov 25, 2025",NORTH,Mateo Ruiz,Bookshelf,Furniture,9,118.61,0.05,1014.12
+SO-202511-1036,"Nov 17, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,4,63.18,0,252.72
+SO-202511-1037,"Nov 05, 2025",NORTH,Jonas Weber,Cable Tray,Accessories,6,18.94,0,113.64
+SO-202511-1038,"Nov 17, 2025",EAST,Kenji Mori,Filing Cabinet,Furniture,9,138.88,0,1249.92
+SO-202511-1039,"Nov 08, 2025",EAST,Sofia Duarte,Laptop Stand,Accessories,2,43.31,0.15,73.63
+SO-202511-1040,"Nov 22, 2025",NORTH,Mateo Ruiz,Bookshelf,Furniture,5,119.71,0.05,568.62
+SO-202511-0480,"Nov 15, 2025",CENTRAL,Jonas Weber,Desk Lamp,Lighting,12,41.02,0.1,443.02
+SO-202511-1041,"Nov 30, 2025",WEST,Mateo Ruiz,Filing Cabinet,Furniture,6,141.04,0.05,803.93
+SO-202511-1042,"Nov 19, 2025",SOUTH,Kenji Mori,Desk Lamp, Lighting  ,10,39.26,0.1,353.34
+SO-202511-1043,"Nov 14, 2025",NORTH,Noor Haddad,Monitor Arm,Accessories,10,91.02,0,910.2
+SO-202511-1044,"Nov 18, 2025",CENTRAL,Elena Petrova,Bookshelf,Furniture,2,120.02,0.15,204.03
+SO-202511-1045,"Nov 08, 2025",SOUTH,Jonas Weber,Filing Cabinet,Furniture,12,134.99,0.05,1538.89
+SO-202511-1046,"Nov 29, 2025",NORTH,Sofia Duarte,Filing Cabinet,Furniture,6,134.55,0.1,726.57
+Total,,,,,,,,,684398.92

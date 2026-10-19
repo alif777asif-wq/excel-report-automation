@@ -1,0 +1,65 @@
+{
+ "headers": {
+  "APR-sales-report.csv": "OrderID,OrderDate,Area,Rep,Item,Cat,Units,UnitPrice,Disc,Total",
+  "Aug-2025-orders.csv": "order_id,date,region,rep,product,category,qty,price,disc_pct,net_amount",
+  "Feb_2025_branch_export.csv": "order_id,date,region,rep,product,category,qty,price,disc_pct,net_amount",
+  "OCT_export.csv": "OrderID,OrderDate,Area,Rep,Item,Cat,Units,UnitPrice,Disc,Total",
+  "export_2025_07.csv": "Order ID,Order Date,Region,Sales Rep,Product,Category,Units,Unit Price,Discount,Amount",
+  "sales_2025-01.csv": "Order ID,Order Date,Region,Sales Rep,Product,Category,Units,Unit Price,Discount,Amount",
+  "sales_may_2025.csv": "order_id;date;region;rep;product;category;qty;price;disc_pct;net_amount",
+  "sales_nov_2025.csv": "Order ID,Order Date,Region,Sales Rep,Product,Category,Units,Unit Price,Discount,Amount"
+ },
+ "blank_row": {
+  "file": "APR-sales-report.csv",
+  "line_no": 18,
+  "text": ",,,,,,,,,"
+ },
+ "footer": {
+  "file": "APR-sales-report.csv",
+  "line_no": 975,
+  "text": "Total,,,,,,,,,\"$627,491.67\""
+ },
+ "duplicate": {
+  "file": "APR-sales-report.csv",
+  "line_nos": [
+   113,
+   361
+  ],
+  "text": "SO-202504-0354,\"Apr 30, 2025\",EAST,Tariq Aziz,Bookshelf,Furniture,6,$119.31,5%,$680.07"
+ },
+ "panels": [
+  {
+   "file": "sales_2025-01.csv",
+   "lines": [
+    "Order ID,Order Date,Region,Sales Rep,Product,Category,Units,Unit Price,Discount,Amount",
+    "SO-202501-0001,2025-01-07,West,Mateo Ruiz,Filing Cabinet,Furniture,8,138.46,0.15,941.53",
+    "SO-202501-0002,2025-01-03,West,Sofia Duarte,USB-C Hub,Peripherals,2,63.73,0,127.46",
+    "SO-202501-0003,2025-01-21,East,Mateo Ruiz,Standing Desk,Furniture,7,341.23,0.15,2030.32",
+    "SO-202501-0004,2025-01-01,North,Kenji Mori,Desk Lamp,Lighting,4,41.11,0.15,139.77",
+    "SO-202501-0005,2025-01-22,East,Noor Haddad,Ergonomic Chair,Furniture,11,244.9,0,2693.9"
+   ]
+  },
+  {
+   "file": "Feb_2025_branch_export.csv",
+   "lines": [
+    "order_id,date,region,rep,product,category,qty,price,disc_pct,net_amount",
+    "SO-202502-0001,09/02/2025,east,Noor Haddad,Webcam HD,Peripherals,4,74.86,0.1,269.5",
+    "SO-202502-0002,21/02/2025,west,Elena Petrova,USB-C Hub,Peripherals,3,65.25,0,195.75",
+    "SO-202502-0003,27/02/2025,south,Noor Haddad,Desk Lamp,Lighting,9,38.6,0.15,295.29",
+    "SO-202502-0004,21/02/2025,south,Noor Haddad,USB-C Hub,Peripherals,1,65.61,0.05,62.33",
+    "SO-202502-0005,06/02/2025,north,Noor Haddad,Bookshelf,Furniture,6,122.51,0,735.06"
+   ]
+  },
+  {
+   "file": "APR-sales-report.csv",
+   "lines": [
+    "OrderID,OrderDate,Area,Rep,Item,Cat,Units,UnitPrice,Disc,Total",
+    "SO-202504-0001,\"Apr 07, 2025\",EAST,Priya Raman,Ergonomic Chair,Furniture,5,$244.05,5%,\"$1,159.24\"",
+    "SO-202504-0002,\"Apr 30, 2025\",WEST,Imani Okafor,Standing Desk,Furniture,3,$322.68,5%,$919.64",
+    "SO-202504-0003,\"Apr 21, 2025\",NORTH,Tariq Aziz,Desk Lamp,Lighting,12,$39.87,0%,$478.44",
+    "SO-202504-0004,\"Apr 27, 2025\",SOUTH,Kenji Mori,Desk Lamp,Lighting,7,$39.21,0%,$274.47",
+    "SO-202504-0005,\"Apr 12, 2025\",SOUTH,Mateo Ruiz,Monitor Arm,Accessories,1,$88.61,15%,$75.32"
+   ]
+  }
+ ]
+}

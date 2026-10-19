@@ -1,0 +1,9 @@
+ink on paper              13.9 : 1
+ink-2 on paper             6.4 : 1
+ink-2 on panel             6.9 : 1
+paper on green            10.4 : 1
+mute on green              5.7 : 1
+mute on green-deep         7.2 : 1
+yellow on green            7.7 : 1
+ink on yellow             10.4 : 1
+green-deep on yellow       9.7 : 1

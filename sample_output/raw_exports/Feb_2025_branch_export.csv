@@ -1,0 +1,1035 @@
+order_id,date,region,rep,product,category,qty,price,disc_pct,net_amount
+SO-202502-0001,09/02/2025,east,Noor Haddad,Webcam HD,Peripherals,4,74.86,0.1,269.5
+SO-202502-0002,21/02/2025,west,Elena Petrova,USB-C Hub,Peripherals,3,65.25,0,195.75
+SO-202502-0003,27/02/2025,south,Noor Haddad,Desk Lamp,Lighting,9,38.6,0.15,295.29
+SO-202502-0004,21/02/2025,south,Noor Haddad,USB-C Hub,Peripherals,1,65.61,0.05,62.33
+SO-202502-0005,06/02/2025,north,Noor Haddad,Bookshelf,Furniture,6,122.51,0,735.06
+SO-202502-0006,25/02/2025,central,Sofia Duarte,Monitor Arm,Accessories,7,88.54,0,619.78
+SO-202502-0007,01/02/2025,south,Imani Okafor,Desk Lamp,Lighting,12,40.95,0,491.4
+SO-202502-0008,14/02/2025,west,Kenji Mori,USB-C Hub,Peripherals,6,66.18,0,397.08
+SO-202502-0009,25/02/2025,west,Jonas Weber,Wireless Keyboard,Peripherals,12,60.34,0,724.08
+SO-202502-0010,16/02/2025,central,Sofia Duarte,Webcam HD,Peripherals,11,74.64,0.1,738.94
+SO-202502-0011,20/02/2025,west,Noor Haddad,Wireless Keyboard,Peripherals,1,58.67,0.05,55.74
+SO-202502-0012,22/02/2025,west,Imani Okafor,Ergonomic Chair,Furniture,7,245.22,0.1,1544.89
+SO-202502-0013,04/02/2025,east,Tariq Aziz,USB-C Hub,Peripherals,3,62.88,0,188.64
+SO-202502-0014,26/02/2025,west,Tariq Aziz,Wireless Keyboard,Peripherals,8,59.32,0.05,450.83
+SO-202502-0015,28/02/2025,central,Elena Petrova,Desk Lamp,Lighting,3,40.33,0,120.99
+SO-202502-0016,02/02/2025,west,Imani Okafor,Monitor Arm,Accessories,4,87.92,0.1,316.51
+SO-202502-0017,15/02/2025,west,Elena Petrova,Ergonomic Chair,Furniture,10,257.65,0.15,2190.03
+SO-202502-0018,16/02/2025,west,Priya Raman,Filing Cabinet,Furniture,9,142.82,0,1285.38
+SO-202502-0019,03/02/2025,west,Imani Okafor,Filing Cabinet,Furniture,9,136.54,0.05,1167.42
+SO-202502-0020,27/02/2025,east,Imani Okafor,Ergonomic Chair,Furniture,7,249.79,0,1748.53
+SO-202502-0021,13/02/2025,east,Priya Raman,Laptop Stand,Accessories,1,44.5,0,44.5
+SO-202502-0022,17/02/2025,south,Priya Raman,USB-C Hub,Peripherals,2,64.08,0.1,115.34
+SO-202502-0023,03/02/2025,north,Kenji Mori,Monitor Arm,Accessories,3,87.7,0,263.1
+SO-202502-0024,05/02/2025,north,Sofia Duarte,Webcam HD,Peripherals,8,71.86,0,574.88
+SO-202502-0025,14/02/2025,west,Noor Haddad,Laptop Stand,Accessories,8,44.04,0.1,317.09
+SO-202502-0026,09/02/2025,central,Tariq Aziz,Monitor Arm,Accessories,11,87.33,0.15,816.54
+SO-202502-0027,23/02/2025,central,Priya Raman,Desk Lamp,Lighting,7,39.41,0.05,262.08
+SO-202502-0028,10/02/2025,central,Kenji Mori,Laptop Stand,Accessories,1,43.44,0.1,39.1
+SO-202502-0029,28/02/2025,central,Imani Okafor,Ergonomic Chair,Furniture,9,252.38,0,2271.42
+SO-202502-0030,15/02/2025,west,Jonas Weber,Desk Lamp,Lighting,4,38.98,0.15,132.53
+SO-202502-0031,23/02/2025,south,Priya Raman,Ergonomic Chair,Furniture,7,244.07,0.1,1537.64
+SO-202502-0032,06/02/2025,south,Sofia Duarte,Cable Tray,Accessories,1,20.17,0,20.17
+SO-202502-0033,13/02/2025,west,Elena Petrova,Laptop Stand,Accessories,5,46.77,0.15,198.77
+SO-202502-0034,14/02/2025,east,Sofia Duarte,Bookshelf,Furniture,5,116.29,0,581.45
+SO-202502-0035,09/02/2025,central,Avery Lindqvist,Bookshelf,Furniture,12,115.63,0,1387.56
+SO-202502-0036,13/02/2025,east,Mateo Ruiz,Laptop Stand,Accessories,12,44.73,0.15,456.25
+SO-202502-0037,03/02/2025,north,Avery Lindqvist,Bookshelf,Furniture,6,118.08,0,708.48
+SO-202502-0038,04/02/2025,central,Sofia Duarte,Wireless Keyboard,Peripherals,6,57.97,0.15,295.65
+SO-202502-0039,20/02/2025,west,Kenji Mori,Desk Lamp,Lighting,4,38.91,0,155.64
+SO-202502-0040,28/02/2025,north,Kenji Mori,USB-C Hub,Peripherals,10,63.74,0.1,573.66
+SO-202502-0041,10/02/2025,north,Elena Petrova,Desk Lamp,Lighting,8,38.53,0.15,262.0
+SO-202502-0042,04/02/2025,north,Elena Petrova,Webcam HD,Peripherals,1,72.13,0.05,68.52
+SO-202502-0043,26/02/2025,north,Jonas Weber,Filing Cabinet,Furniture,3,138.87,0.15,354.12
+SO-202502-0044,24/02/2025,west,Kenji Mori,Filing Cabinet,Furniture,8,142.87,0.15,971.52
+SO-202502-0045,10/02/2025,south,Noor Haddad,Laptop Stand,Accessories,3,44.33,0,132.99
+SO-202502-0046,04/02/2025,north,Mateo Ruiz,USB-C Hub,Peripherals,2,65.8,0,131.6
+SO-202502-0047,28/02/2025,east,Elena Petrova,Task Light,Lighting,4,55.83,0,223.32
+SO-202502-0048,02/02/2025,east,Imani Okafor,Filing Cabinet,Furniture,12,133.66,0.15,1363.33
+SO-202502-0049,19/02/2025,east,Priya Raman,USB-C Hub,Peripherals,10,65.98,0.05,626.81
+SO-202502-0050,07/02/2025,east,Noor Haddad,Task Light,Lighting,11,54.83,0.15,512.66
+SO-202502-0051,03/02/2025,east,Tariq Aziz,Ergonomic Chair,Furniture,5,250.67,0.15,1065.35
+SO-202502-0052,17/02/2025,south,Imani Okafor,Bookshelf,Furniture,5,118.01,0,590.05
+SO-202502-0053,14/02/2025,west,Avery Lindqvist,USB-C Hub,Peripherals,4,62.11,0.1,223.6
+SO-202502-0054,26/02/2025,north,Tariq Aziz,USB-C Hub,Peripherals,9,64.38,0.1,521.48
+SO-202502-0055,06/02/2025,south,Avery Lindqvist,Laptop Stand,Accessories,1,45.69,0.15,38.84
+SO-202502-0056,19/02/2025,west,Noor Haddad,Ergonomic Chair,Furniture,10,244.29,0.15,2076.47
+SO-202502-0057,26/02/2025,east,Priya Raman,Bookshelf,Furniture,7,118.49,0.05,787.96
+SO-202502-0058,01/02/2025,west,Elena Petrova,Laptop Stand,Accessories,10,44.67,0.05,424.37
+SO-202502-0059,12/02/2025,north,Mateo Ruiz,Desk Lamp,Lighting,11,38.5,0.1,381.15
+SO-202502-0060,14/02/2025,central,Avery Lindqvist,Filing Cabinet,Furniture,11,134.67,0,1481.37
+SO-202502-0061,16/02/2025,north,Sofia Duarte,Laptop Stand,Accessories,1,44.0,0,44.0
+SO-202502-0062,02/02/2025,south,Elena Petrova,Webcam HD,Peripherals,6,76.38,0,458.28
+SO-202502-0063,17/02/2025,west,Tariq Aziz,Bookshelf,Furniture,1,118.1,0,118.1
+SO-202502-0064,02/02/2025,south,Tariq Aziz,Filing Cabinet,Furniture,11,136.78,0,1504.58
+SO-202502-0065,09/02/2025,west,Mateo Ruiz,Standing Desk,Furniture,4,323.23,0,1292.92
+SO-202502-0066,12/02/2025,west,Priya Raman,Bookshelf,Furniture,7,118.67,0.1,747.62
+SO-202502-0067,22/02/2025,south,Avery Lindqvist,Bookshelf,Furniture,4,122.74,0.05,466.41
+SO-202502-0068,18/02/2025,east,Tariq Aziz,Ergonomic Chair,Furniture,9,241.63,0.05,2065.94
+SO-202502-0069,17/02/2025,north,Tariq Aziz,Desk Lamp,Lighting,8,39.94,0.05,303.54
+SO-202502-0070,19/02/2025,west,Mateo Ruiz,Cable Tray,Accessories,5,20.1,0.05,95.48
+SO-202502-0071,01/02/2025,south,Noor Haddad,USB-C Hub,Peripherals,1,64.74,0.15,55.03
+SO-202502-0072,27/02/2025,west,Noor Haddad,Ergonomic Chair,Furniture,7,244.29,0,1710.03
+SO-202502-0073,15/02/2025,north,Mateo Ruiz,Task Light,Lighting,7,52.73,0.1,332.2
+SO-202502-0074,06/02/2025,east,Jonas Weber,Desk Lamp,Lighting,1,39.94,0.15,33.95
+SO-202502-0075,28/02/2025,north,Mateo Ruiz,Standing Desk,Furniture,10,340.76,0.05,3237.22
+SO-202502-0076,12/02/2025,south,Sofia Duarte,Laptop Stand,Accessories,6,46.15,0.15,235.37
+SO-202502-0077,16/02/2025,west,Avery Lindqvist,Ergonomic Chair,Furniture,3,254.37,0,763.11
+,22/02/2025,south,Jonas Weber,Task Light,Lighting,2,52.32,0.15,88.94
+SO-202502-0079,06/02/2025,south,Jonas Weber,Webcam HD,Peripherals,7,73.43,0,514.01
+SO-202502-0080,13/02/2025,west,Noor Haddad,Desk Lamp,Lighting,12,40.96,0.05,466.94
+SO-202502-0081,23/02/2025,east,Kenji Mori,Ergonomic Chair,Furniture,6,255.96,0.1,1382.18
+SO-202502-0082,10/02/2025,east,Mateo Ruiz,Desk Lamp,Lighting,1,40.61,0,40.61
+SO-202502-0083,02/02/2025,north,Noor Haddad,Desk Lamp,Lighting,10,40.3,0,403.0
+SO-202502-0084,27/02/2025,north,Priya Raman,Desk Lamp,Lighting,1,41.36,0.1,37.22
+SO-202502-0085,10/02/2025,south,Tariq Aziz,Cable Tray,Accessories,2,19.38,0,38.76
+SO-202502-0086,12/02/2025,south,Avery Lindqvist,Monitor Arm,Accessories,10,92.18,0.1,829.62
+SO-202502-0087,22/02/2025,north,Avery Lindqvist,Ergonomic Chair,Furniture,6,249.76,0,1498.56
+SO-202502-0088,19/02/2025,south,Jonas Weber,Cable Tray,Accessories,5,20.21,0,101.05
+SO-202502-0089,17/02/2025,central,Kenji Mori,Laptop Stand,Accessories,6,44.97,0,269.82
+SO-202502-0090,24/02/2025,south,Noor Haddad,Wireless Keyboard,Peripherals,2,59.16,0.05,112.4
+SO-202502-0091,19/02/2025,south,Noor Haddad,Webcam HD,Peripherals,5,77.11,0.05,366.27
+SO-202502-0092,27/02/2025,west,Priya Raman,Task Light,Lighting,1,52.29,0,52.29
+SO-202502-0093,04/02/2025,south,Priya Raman,Filing Cabinet,Furniture,6,134.23,0.15,684.57
+SO-202502-0094,26/02/2025,west,Jonas Weber,Standing Desk,Furniture,5,323.89,0.15,1376.53
+SO-202502-0095,13/02/2025,north,Jonas Weber,Standing Desk,Furniture,8,319.39,0.1,2299.61
+SO-202502-0096,14/02/2025,south,Kenji Mori,Bookshelf,Furniture,9,114.77,0.1,929.64
+SO-202502-0097,04/02/2025,south,Tariq Aziz,Standing Desk,Furniture,8,324.54,0,2596.32
+SO-202502-0098,01/02/2025,west,Imani Okafor,Filing Cabinet,Furniture,8,139.26,0.15,946.97
+SO-202502-0099,20/02/2025,north,Kenji Mori,Bookshelf,Furniture,6,115.8,0.05,660.06
+SO-202502-0100,21/02/2025,north,Elena Petrova,Wireless Keyboard,Peripherals,8,57.37,0.05,436.01
+SO-202502-0101,21/02/2025,south,Elena Petrova,Standing Desk,Furniture,1,334.76,0,334.76
+SO-202502-0102,26/02/2025,west,Jonas Weber,Monitor Arm,Accessories,12,92.22,0,1106.64
+SO-202502-0103,20/02/2025,north,Imani Okafor,USB-C Hub,Peripherals,3,62.55,0,187.65
+SO-202502-0104,18/02/2025,south,Noor Haddad,Task Light,Lighting,11,55.79,0.15,521.64
+SO-202502-0105,15/02/2025,west,Tariq Aziz,Wireless Keyboard,Peripherals,7,57.28,0.1,360.86
+SO-202502-0106,24/02/2025,south,Noor Haddad,Desk Lamp,Lighting,6,39.46,0.1,213.08
+SO-202502-0107,03/02/2025,west,Jonas Weber,Laptop Stand,Accessories,2,44.83,0,
+SO-202502-0108,27/02/2025,north,Avery Lindqvist,Task Light,Lighting,4,52.49,0.1,188.96
+SO-202502-0109,28/02/2025,north,Avery Lindqvist,Cable Tray,Accessories,6,19.56,0,117.36
+SO-202502-0110,25/02/2025,south,Imani Okafor,Desk Lamp,Lighting,5,38.93,0,194.65
+SO-202502-0111,23/02/2025,west,Imani Okafor,Filing Cabinet,Furniture,1,140.49,0.15,119.42
+SO-202502-0112,26/02/2025,east,Sofia Duarte,Monitor Arm,Accessories,3,89.39,0.1,241.35
+SO-202502-0113,11/02/2025,north,Priya Raman,Filing Cabinet,Furniture,10,140.54,0.1,1264.86
+SO-202502-0114,16/02/2025,west,Mateo Ruiz,Cable Tray,Accessories,9,20.16,0.1,163.3
+SO-202502-0115,11/02/2025,north,Sofia Duarte,Bookshelf,Furniture,5,119.6,0,598.0
+SO-202502-0116,05/02/2025,east,Imani Okafor,Filing Cabinet,Furniture,5,134.34,0.05,638.12
+SO-202502-0117,02/02/2025,central,Priya Raman,Task Light,Lighting,9,53.78,0.1,435.62
+SO-202502-0118,02/02/2025,west,Mateo Ruiz,Wireless Keyboard,Peripherals,2,57.64,0,115.28
+SO-202502-0119,09/02/2025,west,Kenji Mori,Monitor Arm,Accessories,4,92.26,0,369.04
+SO-202502-0120,07/02/2025,north,Jonas Weber,Bookshelf,Furniture,3,116.69,0,350.07
+SO-202502-0121,27/02/2025,north,Tariq Aziz,USB-C Hub,Peripherals,6,63.51,0.05,362.01
+SO-202502-0122,03/02/2025,north,Avery Lindqvist,USB-C Hub,Peripherals,11,63.33,0,696.63
+SO-202502-0123,13/02/2025,central,Sofia Duarte,Laptop Stand,Accessories,12,44.77,0,537.24
+SO-202502-0124,04/02/2025,north,Kenji Mori,Task Light,Lighting,9,55.77,0.15,426.64
+SO-202502-0125,16/02/2025,north,Tariq Aziz,Ergonomic Chair,Furniture,5,241.49,0.1,1086.71
+SO-202502-0126,14/02/2025,west,Priya Raman,Ergonomic Chair,Furniture,11,243.32,0,2676.52
+SO-202502-0127,14/02/2025,south,Priya Raman,Desk Lamp,Lighting,8,40.69,0.05,309.24
+SO-202502-0128,21/02/2025,central,Imani Okafor,Filing Cabinet,Furniture,1,135.28,0.1,121.75
+SO-202502-0129,03/02/2025,south,Elena Petrova, Standing Desk  ,Furniture,11,334.65,0,3681.15
+SO-202502-0130,16/02/2025,north,Imani Okafor,Wireless Keyboard,Peripherals,10,61.21,0,612.1
+SO-202502-0131,27/02/2025,west,Imani Okafor,Desk Lamp,Lighting,6,38.32,0.1,206.93
+SO-202502-0132,16/02/2025,east,Priya Raman,Bookshelf,Furniture,1,123.38,0.15,104.87
+SO-202502-0032,06/02/2025,south,Sofia Duarte,Cable Tray,Accessories,1,20.17,0,20.17
+SO-202502-0133,16/02/2025,east,Mateo Ruiz,Webcam HD,Peripherals,7,73.77,0.1,464.75
+SO-202502-0134,11/02/2025,south,Elena Petrova,Monitor Arm,Accessories,8,89.23,0.05,678.15
+SO-202502-0135,25/02/2025,south,Noor Haddad,USB-C Hub,Peripherals,9,64.52,0,580.68
+SO-202502-0136,18/02/2025,west,Priya Raman,Webcam HD,Peripherals,7,72.69,0,508.83
+SO-202502-0137,14/02/2025,north,Sofia Duarte,Filing Cabinet,Furniture,9,134.57,0,1211.13
+SO-202502-0138,22/02/2025,east,Priya Raman,Bookshelf, Furniture  ,11,121.81,0.1,1205.92
+SO-202502-0139,25/02/2025,south,Elena Petrova,Monitor Arm,Accessories,8,86.19,0,689.52
+SO-202502-0140,05/02/2025,south,Elena Petrova,Filing Cabinet,Furniture,9,140.6,0.1,1138.86
+SO-202502-0141,11/02/2025,central,Tariq Aziz,Monitor Arm,Accessories,9,90.03,0.1,729.24
+SO-202502-0142,24/02/2025,east,Tariq Aziz,Standing Desk,Furniture,2,331.97,0,663.94
+SO-202502-0143,13/02/2025,east,Mateo Ruiz,Monitor Arm,Accessories,2,89.1,0,178.2
+SO-202502-0144,09/02/2025,east,Sofia Duarte,Laptop Stand,Accessories,4,43.88,0,175.52
+SO-202502-0145,25/02/2025,east,Noor Haddad,Bookshelf,Furniture,7,115.81,0.15,689.07
+SO-202502-0146,24/02/2025,north,Tariq Aziz,Desk Lamp,Lighting,9,41.2,0,370.8
+SO-202502-0147,12/02/2025,south,Sofia Duarte,Ergonomic Chair,Furniture,8,244.52,0.1,1760.54
+SO-202502-0148,05/02/2025,central,Priya Raman,Bookshelf,Furniture,4,116.89,0,467.56
+,,,,,,,,,
+SO-202502-0149,25/02/2025,north,Noor Haddad,Bookshelf,Furniture,2,122.88,0,245.76
+SO-202502-0150,18/02/2025,central,Tariq Aziz,Bookshelf,Furniture,10,115.7,0.1,1041.3
+SO-202502-0151,18/02/2025,south,Priya Raman,Laptop Stand,Accessories,2,43.42,0.05,82.5
+SO-202502-0152,07/02/2025,north,Tariq Aziz,Standing Desk,Furniture,7,338.57,0.15,2014.49
+SO-202502-0153,11/02/2025,south,Jonas Weber,Ergonomic Chair,Furniture,2,247.53,0.1,445.55
+SO-202502-0154,27/02/2025,south, Sofia Duarte  ,Bookshelf,Furniture,8,119.47,0.05,907.97
+SO-202502-0155,20/02/2025,south,Priya Raman,Standing Desk,Furniture,7,326.7,0,2286.9
+SO-202502-0156,21/02/2025,north, Mateo Ruiz  ,Webcam HD,Peripherals,12,73.77,0,885.24
+SO-202502-0157,14/02/2025,south,Avery Lindqvist,Desk Lamp,Lighting,8,40.26,0,322.08
+SO-202502-0158,05/02/2025,north,Imani Okafor,Desk Lamp,Lighting,3,38.93,0,116.79
+SO-202502-0159,17/02/2025,north,Avery Lindqvist,Desk Lamp,Lighting,4,38.85,0,155.4
+SO-202502-0160,02/02/2025,east,Sofia Duarte,Laptop Stand,Accessories,9,46.05,0,414.45
+SO-202502-0161,10/02/2025,west,Noor Haddad,Filing Cabinet,Furniture,1,137.11,0.1,123.4
+SO-202502-0162,11/02/2025,east,Kenji Mori,Desk Lamp,Lighting,6,39.37,0.05,224.41
+SO-202502-0163,13/02/2025,north,Avery Lindqvist,Standing Desk,Furniture,2,339.99,0,679.98
+SO-202502-0164,16/02/2025,west,Sofia Duarte,Wireless Keyboard,Peripherals,8,57.82,0.05,439.43
+SO-202502-0165,28/02/2025,east,Priya Raman,Ergonomic Chair,Furniture,11,239.46,0,2634.06
+SO-202502-0166,16/02/2025,south,Mateo Ruiz,Webcam HD,Peripherals,10,72.06,0.1,648.54
+SO-202502-0167,10/02/2025,south,Elena Petrova,Filing Cabinet,Furniture,4,137.55,0,550.2
+SO-202502-0168,21/02/2025,central,Kenji Mori,Task Light,Lighting,10,55.7,0.15,473.45
+SO-202502-0169,24/02/2025,north,Noor Haddad,Ergonomic Chair,Furniture,1,244.21,0.15,207.58
+SO-202502-0170,03/02/2025,central,Sofia Duarte,Cable Tray,Accessories,1,19.39,0.05,18.42
+SO-202502-0171,12/02/2025,south,Tariq Aziz,Webcam HD,Peripherals,9,72.22,0.05,617.48
+SO-202502-0172,12/02/2025,south,Avery Lindqvist,Filing Cabinet,Furniture,5,137.13,0,685.65
+SO-202502-0173,11/02/2025,south,Mateo Ruiz,Desk Lamp,Lighting,7,39.1,0,273.7
+SO-202502-0174,08/02/2025,south,Imani Okafor,Cable Tray,Accessories,3,19.8,0,59.4
+SO-202502-0175,25/02/2025,central,Elena Petrova,Monitor Arm,Accessories,8,87.63,0,701.04
+SO-202502-0176,14/02/2025,east,Jonas Weber,Filing Cabinet,Furniture,7,134.24,0.15,798.73
+SO-202502-0177,23/02/2025,north,Tariq Aziz,Webcam HD,Peripherals,11,76.8,0.15,718.08
+SO-202502-0178,25/02/2025,west,Tariq Aziz,Laptop Stand,Accessories,6,44.64,0,267.84
+SO-202502-0179,23/02/2025,east,Kenji Mori,Filing Cabinet,Furniture,7,141.01,0,987.07
+SO-202502-0180,15/02/2025,south,Mateo Ruiz,Desk Lamp,Lighting,1,38.42,0.05,36.5
+SO-202502-0181,10/02/2025,north,Noor Haddad,Bookshelf,Furniture,4,116.87,0.1,420.73
+SO-202502-0182,17/02/2025,west,Mateo Ruiz,USB-C Hub,Peripherals,11,64.94,0,714.34
+SO-202502-0183,14/02/2025,west,Avery Lindqvist,Wireless Keyboard,Peripherals,2,61.35,0.05,116.57
+SO-202502-0184,12/02/2025,north,Imani Okafor,USB-C Hub,Peripherals,4,63.37,0.1,228.13
+SO-202502-0185,11/02/2025,south,Kenji Mori,Laptop Stand,Accessories,9,45.73,0.1,370.41
+SO-202502-0186,04/02/2025,north,Mateo Ruiz,Desk Lamp,Lighting,10,40.94,0.15,347.99
+SO-202502-0187,10/02/2025,south,Noor Haddad,Standing Desk,Furniture,2,329.26,0.15,559.74
+SO-202502-0188,17/02/2025,north,Tariq Aziz,USB-C Hub,Peripherals,6,64.84,0.1,350.14
+SO-202502-0189,05/02/2025,central,Jonas Weber,Ergonomic Chair,Furniture,1,244.41,0.15,207.75
+SO-202502-0190,28/02/2025,west,Avery Lindqvist,Task Light,Lighting,4,55.41,0.05,210.56
+SO-202502-0191,24/02/2025,east,Priya Raman,Wireless Keyboard,Peripherals,4,58.3,0,233.2
+SO-202502-0192,07/02/2025,east,Priya Raman,Monitor Arm,Accessories,4,86.07,0.1,309.85
+SO-202502-0193,25/02/2025,north,Mateo Ruiz,Bookshelf,Furniture,9,123.42,0,1110.78
+SO-202502-0194,13/02/2025,south,Kenji Mori,Wireless Keyboard,Peripherals,4,60.71,0.05,230.7
+SO-202502-0195,02/02/2025,west,Sofia Duarte,Desk Lamp,Lighting,10,39.29,0,392.9
+SO-202502-0196,24/02/2025,central,Mateo Ruiz,Cable Tray,Accessories,2,20.07,0.1,36.13
+SO-202502-0437,15/02/2025,north,Imani Okafor,Standing Desk,Furniture,1,340.6,0.1,306.54
+SO-202502-0197,05/02/2025,north,Tariq Aziz,Filing Cabinet,Furniture,10,137.74,0,1377.4
+SO-202502-0198,11/02/2025,north,Priya Raman,Filing Cabinet,Furniture,12,139.0,0,1668.0
+SO-202502-0199,05/02/2025,north,Avery Lindqvist,Ergonomic Chair,Furniture,9,248.02,0.05,2120.57
+SO-202502-0200,19/02/2025,north,Noor Haddad,Standing Desk, Furniture  ,9,325.55,0.05,2783.45
+SO-202502-0201,19/02/2025,east,Jonas Weber,USB-C Hub,Peripherals,10,64.93,0.05,616.84
+SO-202502-0202,20/02/2025,south,Avery Lindqvist,Webcam HD,Peripherals,3,74.75,0.1,201.83
+SO-202502-0203,26/02/2025,west,Priya Raman,Cable Tray,Accessories,12,19.14,0.05,218.2
+SO-202502-0204,17/02/2025,north,Avery Lindqvist,Wireless Keyboard,Peripherals,11,61.19,0,673.09
+SO-202502-0205,08/02/2025,north,Kenji Mori,USB-C Hub,Peripherals,3,62.77,0,188.31
+SO-202502-0206,21/02/2025,west,Mateo Ruiz,USB-C Hub,Peripherals,1,62.99,0.1,56.69
+SO-202502-0207,28/02/2025,west,Avery Lindqvist,Wireless Keyboard,Peripherals,8,57.46,0.1,413.71
+SO-202502-0208,02/02/2025,central,Noor Haddad,Laptop Stand,Accessories,10,44.3,0.05,420.85
+SO-202502-0209,11/02/2025,east,Noor Haddad,Monitor Arm,Accessories,8,86.65,0,693.2
+SO-202502-0210,17/02/2025,south,Priya Raman,Standing Desk,Furniture,12,320.56,0.15,3269.71
+SO-202502-0211,03/02/2025,central,Mateo Ruiz,USB-C Hub,Peripherals,7,62.47,0.15,371.7
+SO-202502-0212,14/02/2025,west,Priya Raman,Monitor Arm,Accessories,9,89.52,0.15,684.83
+SO-202502-0213,27/02/2025,east,Mateo Ruiz,Wireless Keyboard,Peripherals,5,60.02,0.1,270.09
+SO-202502-0214,11/02/2025,east,Priya Raman,Cable Tray,Accessories,2,19.1,0.1,34.38
+SO-202502-0215,06/02/2025,west,Sofia Duarte,Filing Cabinet,Furniture,8,141.97,0.1,1022.18
+SO-202502-0216,12/02/2025,north,Tariq Aziz,Task Light,Lighting,10,53.14,0.05,504.83
+SO-202502-0217,05/02/2025,west,Jonas Weber,Webcam HD,Peripherals,10,76.33,0,763.3
+SO-202502-0218,17/02/2025,south,Tariq Aziz,Wireless Keyboard,Peripherals,2,60.57,0,121.14
+SO-202502-0219,27/02/2025,south,Noor Haddad,Monitor Arm,Accessories,4,91.24,0.1,328.46
+SO-202502-0220,06/02/2025,north,Elena Petrova,Standing Desk,Furniture,8,326.13,0.1,2348.14
+SO-202502-0221,25/02/2025,north,Avery Lindqvist,Filing Cabinet,Furniture,1,139.76,0.05,132.77
+SO-202502-0222,09/02/2025,north,Noor Haddad,Task Light,Lighting,9,55.71,0,501.39
+SO-202502-0223,04/02/2025,west,Mateo Ruiz,Filing Cabinet,Furniture,1,139.27,0.15,118.38
+SO-202502-0224,08/02/2025,north,Tariq Aziz,Laptop Stand,Accessories,7,44.39,0,310.73
+SO-202502-0225,18/02/2025,north,Avery Lindqvist,Desk Lamp,Lighting,7,40.16,0.05,267.06
+SO-202502-0226,08/02/2025,central,Avery Lindqvist,Filing Cabinet,Furniture,6,144.22,0.1,778.79
+SO-202502-0227,15/02/2025,north,Priya Raman,Bookshelf,Furniture,12,118.97,0.15,1213.49
+SO-202502-0228,22/02/2025,north,Kenji Mori,Cable Tray,Accessories,11,19.07,0,209.77
+SO-202502-0229,16/02/2025,central,Elena Petrova,Wireless Keyboard,Peripherals,7,60.39,0,422.73
+SO-202502-0230,15/02/2025,south,Imani Okafor,Desk Lamp,Lighting,9,38.86,0,349.74
+SO-202502-0231,19/02/2025,central,Kenji Mori,Monitor Arm,Accessories,2,91.44,0,182.88
+SO-202502-0232,05/02/2025,north,Elena Petrova,Cable Tray,Accessories,10,19.52,0,195.2
+SO-202502-0233,12/02/2025,north,Sofia Duarte,Wireless Keyboard,Peripherals,1,58.07,0,58.07
+SO-202502-0234,04/02/2025,south,Jonas Weber,Task Light,Lighting,1,52.26,0,52.26
+SO-202502-0235,06/02/2025,central,Kenji Mori,Webcam HD,Peripherals,10,74.68,0.15,634.78
+SO-202502-0236,14/02/2025,east,Avery Lindqvist,Laptop Stand,Accessories,1,43.37,0.05,41.2
+SO-202502-0237,02/02/2025,north,Noor Haddad,Filing Cabinet,Furniture,12,144.05,0,1728.6
+SO-202502-0238,03/02/2025,south,Noor Haddad,Bookshelf,Furniture,1,120.2,0,120.2
+SO-202502-0966,22/02/2025,south,Priya Raman,USB-C Hub,Peripherals,11,66.26,0.1,655.97
+SO-202502-0239,13/02/2025,west,Sofia Duarte,Monitor Arm,Accessories,5,90.97,0,454.85
+SO-202502-0240,20/02/2025,north,Priya Raman,Bookshelf,Furniture,5,120.95,0,604.75
+SO-202502-0241,07/02/2025,central,Imani Okafor,Monitor Arm,Accessories,7,90.92,0.1,572.8
+SO-202502-0242,11/02/2025,central,Elena Petrova,Monitor Arm,Accessories,2,89.04,0,178.08
+SO-202502-0243,18/02/2025,north,Priya Raman,USB-C Hub,Peripherals,12,62.87,0,754.44
+SO-202502-0244,10/02/2025,north,Priya Raman,USB-C Hub,Peripherals,8,66.49,0.1,478.73
+SO-202502-0245,26/02/2025,north,Kenji Mori,Task Light,Lighting,2,53.74,0,107.48
+SO-202502-0246,09/02/2025,north,Kenji Mori,Webcam HD,Peripherals,5,72.99,0.15,310.21
+SO-202502-0247,23/02/2025,central,Elena Petrova,Laptop Stand,Accessories,7,45.71,0,319.97
+SO-202502-0248,24/02/2025,south,Priya Raman,Task Light,Lighting,11,53.38,0,587.18
+SO-202502-0249,06/02/2025,west,Imani Okafor,Desk Lamp,Lighting,2,40.97,0.05,77.84
+SO-202502-0250,22/02/2025,east,Jonas Weber,Monitor Arm,Accessories,4,85.6,0,342.4
+SO-202502-0251,01/02/2025,north,Priya Raman,Standing Desk,Furniture,2,331.33,0.1,596.39
+SO-202502-0252,02/02/2025,north,Priya Raman,Laptop Stand,Accessories,3,44.94,0,134.82
+SO-202502-0253,20/02/2025,south, Tariq Aziz  ,Standing Desk,Furniture,1,318.21,0.15,270.48
+SO-202502-0254,25/02/2025,north,Tariq Aziz,Monitor Arm,Accessories,3,91.8,0.15,234.09
+SO-202502-0255,15/02/2025,east,Elena Petrova,Ergonomic Chair,Furniture,9,254.65,0.15,1948.07
+SO-202502-0256,13/02/2025,west,Jonas Weber,Bookshelf, Furniture  ,9,119.98,0,1079.82
+SO-202502-0257,11/02/2025,south,Noor Haddad,Task Light,Lighting,9,55.09,0.1,446.23
+SO-202502-0258,22/02/2025,south,Elena Petrova,Laptop Stand,Accessories,6,43.21,0,259.26
+SO-202502-0259,05/02/2025,west,Kenji Mori,Desk Lamp,Lighting,1,38.58,0.1,34.72
+SO-202502-0260,28/02/2025,north,Imani Okafor,Monitor Arm,Accessories,2,88.6,0,177.2
+SO-202502-0261,08/02/2025,east,Sofia Duarte,Desk Lamp,Lighting,3,39.61,0.1,106.95
+SO-202502-0262,13/02/2025,central,Priya Raman,Laptop Stand,Accessories,10,46.74,0,467.4
+SO-202502-0263,05/02/2025,north,Noor Haddad,Cable Tray,Accessories,2,20.16,0,40.32
+SO-202502-0264,24/02/2025,central,Kenji Mori,Wireless Keyboard,Peripherals,5,58.46,0,292.3
+SO-202502-0265,06/02/2025,central,Priya Raman,Ergonomic Chair,Furniture,1,243.91,0.15,207.32
+SO-202502-0266,06/02/2025,north,Mateo Ruiz,Task Light,Lighting,4,52.03,0,208.12
+SO-202502-0267,24/02/2025,south,Tariq Aziz,Monitor Arm,Accessories,5,88.28,0.15,375.19
+SO-202502-0268,19/02/2025,central,Sofia Duarte, Webcam HD  ,Peripherals,7,77.03,0,539.21
+SO-202502-0269,21/02/2025,east,Mateo Ruiz,Wireless Keyboard,Peripherals,11,56.72,0.15,530.33
+SO-202502-0270,10/02/2025,south,Mateo Ruiz,Webcam HD,Peripherals,10,74.49,0,744.9
+SO-202502-0271,07/02/2025,north,Tariq Aziz,USB-C Hub,Peripherals,8,66.41,0,531.28
+SO-202502-0272,15/02/2025,south,Jonas Weber,Desk Lamp,Lighting,7,38.59,0.1,243.12
+SO-202502-0273,17/02/2025,north,Imani Okafor,Desk Lamp,Lighting,1,40.22,0,40.22
+SO-202502-0274,23/02/2025,north,Kenji Mori,Monitor Arm,Accessories,6,88.13,0.05,502.34
+SO-202502-0275,09/02/2025,north,Sofia Duarte,Desk Lamp,Lighting,3,39.08,0.05,111.38
+SO-202502-0276,28/02/2025,south,Sofia Duarte,Standing Desk,Furniture,1,326.83,0,326.83
+SO-202502-0277,06/02/2025,south,Noor Haddad,Ergonomic Chair,Furniture,6,249.72,0,1498.32
+SO-202502-0278,07/02/2025,east,Tariq Aziz,Standing Desk,Furniture,2,319.79,0.1,575.62
+SO-202502-0279,05/02/2025,east,Tariq Aziz,Cable Tray,Accessories,3,20.12,0.05,57.34
+SO-202502-0280,26/02/2025,north,Noor Haddad,Task Light,Lighting,2,52.05,0.1,93.69
+SO-202502-0281,18/02/2025,west,Avery Lindqvist,USB-C Hub,Peripherals,8,63.12,0.1,454.46
+SO-202502-0282,24/02/2025,north,Elena Petrova,Laptop Stand,Accessories,6,45.64,0,273.84
+SO-202502-0283,04/02/2025,north,Sofia Duarte,Desk Lamp,Lighting,3,38.93,0,116.79
+SO-202502-0284,04/02/2025,east,Tariq Aziz,Task Light,Lighting,12,52.39,0,628.68
+SO-202502-0285,20/02/2025,south,Elena Petrova,Laptop Stand,Accessories,10,44.87,0,448.7
+SO-202502-0286,10/02/2025,north,Avery Lindqvist,Ergonomic Chair,Furniture,6,245.12,0,1470.72
+SO-202502-0287,15/02/2025,central,Avery Lindqvist,USB-C Hub,Peripherals,9,65.9,0,593.1
+SO-202502-0288,26/02/2025,north,Imani Okafor,Laptop Stand,Accessories,8,44.05,0.1,317.16
+SO-202502-0289,02/02/2025,north,Avery Lindqvist,Bookshelf,Furniture,6,123.15,0,738.9
+SO-202502-0290,03/02/2025,west,Tariq Aziz,Cable Tray,Accessories,8,19.17,0,153.36
+SO-202502-0291,24/02/2025,east,Kenji Mori,Bookshelf,Furniture,7,122.94,0.05,817.55
+SO-202502-0292,02/02/2025,north,Priya Raman,Bookshelf,Furniture,9,114.77,0,
+SO-202502-0293,16/02/2025,south,Kenji Mori,Bookshelf,Furniture,5,117.02,0,585.1
+SO-202502-0294,19/02/2025,north,Elena Petrova,Bookshelf,Furniture,11,114.63,0.05,1197.88
+SO-202502-0295,21/02/2025,east,Noor Haddad,Monitor Arm,Accessories,2,88.63,0.05,168.4
+SO-202502-0296,12/02/2025,north,Sofia Duarte,Webcam HD,Peripherals,5,72.83,0.1,327.74
+SO-202502-0297,10/02/2025,south,Sofia Duarte,Ergonomic Chair,Furniture,5,255.05,0.1,1147.73
+SO-202502-0298,19/02/2025,west,Kenji Mori,USB-C Hub,Peripherals,7,66.19,0.15,393.83
+SO-202502-0299,17/02/2025,central,Tariq Aziz,Filing Cabinet,Furniture,12,134.07,0,1608.84
+SO-202502-0300,05/02/2025,south,Mateo Ruiz,Monitor Arm,Accessories,7,88.83,0,621.81
+SO-202502-0301,21/02/2025,east,Tariq Aziz,Desk Lamp,Lighting,7,40.99,0.1,258.24
+SO-202502-0302,06/02/2025,north,Mateo Ruiz,USB-C Hub,Peripherals,2,62.34,0,124.68
+SO-202502-0303,01/02/2025,east,Avery Lindqvist,USB-C Hub,Peripherals,9,64.71,0.15,495.03
+SO-202502-0304,06/02/2025,north,Avery Lindqvist,Standing Desk,Furniture,4,317.4,0.15,1079.16
+SO-202502-0305,27/02/2025,west,Avery Lindqvist, Task Light  ,Lighting,4,53.15,0.1,191.34
+SO-202502-0306,25/02/2025,north,Elena Petrova,Filing Cabinet,Furniture,12,139.94,0,1679.28
+SO-202502-0307,04/02/2025,south,Sofia Duarte,USB-C Hub,Peripherals,3,62.82,0.1,169.61
+SO-202502-0308,25/02/2025,west,Noor Haddad,Cable Tray,Accessories,10,19.63,0.05,186.49
+SO-202502-0309,11/02/2025,west,Avery Lindqvist,Webcam HD,Peripherals,7,72.66,0.1,457.76
+SO-202502-0310,16/02/2025,central,Priya Raman,USB-C Hub,Peripherals,6,62.46,0,374.76
+SO-202502-0311,10/02/2025,north,Priya Raman,Monitor Arm,Accessories,4,89.37,0.15,303.86
+SO-202502-0312,11/02/2025,south,Sofia Duarte,Ergonomic Chair,Furniture,11,250.33,0.05,2615.95
+SO-202502-0313,24/02/2025,east,Jonas Weber,Wireless Keyboard,Peripherals,5,57.23,0.15,243.23
+SO-202502-0314,08/02/2025,east,Priya Raman,Standing Desk,Furniture,9,318.69,0.1,2581.39
+SO-202502-0315,14/02/2025,south,Imani Okafor,Filing Cabinet,Furniture,12,133.67,0.05,1523.84
+SO-202502-0316,23/02/2025,east,Avery Lindqvist,Desk Lamp,Lighting,10,38.91,0.1,350.19
+SO-202502-0317,24/02/2025,east,Elena Petrova,Laptop Stand,Accessories,1,44.25,0.1,39.83
+SO-202502-0318,20/02/2025,north,Kenji Mori,Bookshelf,Furniture,8,114.49,0.1,824.33
+SO-202502-0319,10/02/2025,west,Noor Haddad,Monitor Arm,Accessories,1,88.94,0.1,80.05
+SO-202502-0320,28/02/2025,west,Sofia Duarte,Desk Lamp,Lighting,3,40.21,0.05,114.6
+SO-202502-0321,19/02/2025,south,Kenji Mori,USB-C Hub,Peripherals,10,65.34,0.1,588.06
+SO-202502-0322,14/02/2025,south,Avery Lindqvist,Filing Cabinet,Furniture,12,143.74,0.1,1552.39
+SO-202502-0323,19/02/2025,north,Tariq Aziz,Desk Lamp,Lighting,7,38.34,0,268.38
+SO-202502-0324,19/02/2025,south,Imani Okafor,Wireless Keyboard,Peripherals,9,60.93,0,
+SO-202502-0325,28/02/2025,east,Jonas Weber,Webcam HD,Peripherals,1,72.83,0,72.83
+SO-202502-0326,12/02/2025,west,Sofia Duarte,Wireless Keyboard,Peripherals,12,56.9,0.05,648.66
+SO-202502-0327,24/02/2025,south,Kenji Mori,USB-C Hub,Peripherals,10,63.63,0,636.3
+SO-202502-0328,14/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,7,143.61,0,1005.27
+SO-202502-0329,15/02/2025,east,Imani Okafor,Desk Lamp,Lighting,3,39.13,0,117.39
+SO-202502-0330,12/02/2025,south,Mateo Ruiz,Webcam HD,Peripherals,2,75.21,0.1,135.38
+SO-202502-0331,13/02/2025,south,Jonas Weber,Filing Cabinet,Furniture,9,143.6,0.15,1098.54
+SO-202502-0332,23/02/2025,south,Avery Lindqvist,Webcam HD,Peripherals,11,71.92,0.05,751.56
+SO-202502-0333,18/02/2025,north,Kenji Mori,Desk Lamp,Lighting,9,39.08,0,351.72
+SO-202502-0334,09/02/2025,central,Avery Lindqvist,Standing Desk,Furniture,12,339.9,0.15,3466.98
+SO-202502-0335,24/02/2025,east,Noor Haddad,Webcam HD,Peripherals,10,75.76,0.1,681.84
+SO-202502-0336,06/02/2025,central,Sofia Duarte,USB-C Hub,Peripherals,12,63.59,0,763.08
+SO-202502-0337,25/02/2025,south,Kenji Mori,Laptop Stand,Accessories,2,46.15,0,92.3
+SO-202502-0338,10/02/2025,south,Avery Lindqvist,Webcam HD,Peripherals,8,74.44,0.05,565.74
+SO-202502-0339,17/02/2025,central,Priya Raman,Desk Lamp,Lighting,1,40.22,0.1,36.2
+SO-202502-0340,01/02/2025,south,Sofia Duarte,Ergonomic Chair,Furniture,12,245.28,0.15,2501.86
+SO-202502-0341,12/02/2025,north,Jonas Weber,Standing Desk,Furniture,2,335.57,0,671.14
+SO-202502-0342,20/02/2025,north,Elena Petrova,USB-C Hub,Peripherals,12,65.2,0.05,743.28
+SO-202502-0343,27/02/2025,north,Elena Petrova,Webcam HD,Peripherals,7,73.64,0,515.48
+SO-202502-0344,19/02/2025,south,Sofia Duarte,Task Light,Lighting,2,54.57,0,109.14
+,,,,,,,,,
+SO-202502-0345,02/02/2025,north,Imani Okafor,Webcam HD,Peripherals,6,76.28,0,457.68
+SO-202502-0346,20/02/2025,west,Tariq Aziz,Laptop Stand,Accessories,7,44.07,0,308.49
+SO-202502-0347,13/02/2025,west,Mateo Ruiz,Standing Desk,Furniture,9,331.46,0,2983.14
+SO-202502-0348,28/02/2025,north,Avery Lindqvist,USB-C Hub,Peripherals,11,66.22,0,728.42
+SO-202502-0349,11/02/2025,north,Tariq Aziz,Standing Desk,Furniture,8,338.38,0.1,2436.34
+SO-202502-0350,07/02/2025,east,Sofia Duarte,Laptop Stand,Accessories,7,46.66,0,326.62
+SO-202502-0351,07/02/2025,south,Avery Lindqvist,Wireless Keyboard,Peripherals,7,58.07,0.1,365.84
+SO-202502-0352,06/02/2025,west,Sofia Duarte,Task Light,Lighting,3,52.84,0.15,134.74
+SO-202502-0353,25/02/2025,central,Tariq Aziz,Laptop Stand,Accessories,12,44.47,0.15,453.59
+SO-202502-0354,22/02/2025,north,Elena Petrova,Filing Cabinet,Furniture,5,138.99,0.05,660.2
+SO-202502-0355,07/02/2025,north,Priya Raman,Task Light,Lighting,5,52.13,0,260.65
+SO-202502-0356,17/02/2025,south,Imani Okafor,Bookshelf,Furniture,4,123.61,0.05,469.72
+SO-202502-0357,15/02/2025,east,Jonas Weber,Monitor Arm,Accessories,8,90.26,0.1,649.87
+SO-202502-0358,06/02/2025,north,Sofia Duarte,Webcam HD,Peripherals,1,72.28,0.05,68.67
+SO-202502-0359,09/02/2025,east,Noor Haddad,Ergonomic Chair,Furniture,6,253.73,0.1,1370.14
+SO-202502-0360,25/02/2025,east,Tariq Aziz,Task Light,Lighting,3,54.53,0.15,139.05
+SO-202502-0361,21/02/2025,north,Tariq Aziz,Webcam HD,Peripherals,7,76.04,0.1,479.05
+SO-202502-0362,21/02/2025,east,Kenji Mori,Standing Desk,Furniture,1,324.99,0,324.99
+SO-202502-0363,20/02/2025,east,Priya Raman,Monitor Arm,Accessories,7,90.95,0.05,604.82
+SO-202502-0364,08/02/2025,west,Sofia Duarte,Desk Lamp,Lighting,9,40.0,0.15,306.0
+SO-202502-0365,03/02/2025,west,Avery Lindqvist,Filing Cabinet,Furniture,9,140.08,0.1,1134.65
+SO-202502-0366,23/02/2025,north,Avery Lindqvist,Laptop Stand,Accessories,1,45.45,0,45.45
+SO-202502-0367,12/02/2025,north,Kenji Mori,Bookshelf,Furniture,2,116.47,0,232.94
+SO-202502-0368,02/02/2025,south,Sofia Duarte,Monitor Arm,Accessories,12,85.82,0.15,875.36
+SO-202502-0369,25/02/2025,west,Noor Haddad,Standing Desk,Furniture,4,318.54,0.1,1146.74
+SO-202502-0370,28/02/2025,north,Elena Petrova,Laptop Stand,Accessories,6,46.6,0.05,265.62
+SO-202502-0371,11/02/2025,east,Jonas Weber,Cable Tray,Accessories,7,19.34,0.05,128.61
+SO-202502-0372,16/02/2025,east,Jonas Weber,Webcam HD,Peripherals,1,75.32,0.15,64.02
+SO-202502-0373,09/02/2025,south,Noor Haddad,Desk Lamp,Lighting,12,38.33,0.1,413.96
+SO-202502-0374,18/02/2025,west,Noor Haddad,Standing Desk,Furniture,4,329.78,0.15,1121.25
+SO-202502-0375,28/02/2025,east,Imani Okafor,Ergonomic Chair,Furniture,5,239.9,0.1,1079.55
+SO-202502-0376,21/02/2025,north,Noor Haddad,Wireless Keyboard,Peripherals,11,59.93,0.15,560.35
+SO-202502-0377,04/02/2025,south,Mateo Ruiz,Filing Cabinet,Furniture,4,136.7,0.1,492.12
+SO-202502-0378,23/02/2025,east,Jonas Weber,Cable Tray,Accessories,3,19.84,0.1,53.57
+SO-202502-0379,09/02/2025,north,Elena Petrova,Wireless Keyboard,Peripherals,10,58.47,0.1,526.23
+SO-202502-0380,11/02/2025,south,Avery Lindqvist,USB-C Hub,Peripherals,4,66.34,0.1,238.82
+SO-202502-0381,28/02/2025,north,Imani Okafor,Ergonomic Chair,Furniture,5,247.54,0.15,1052.05
+SO-202502-0382,28/02/2025,north,Sofia Duarte,USB-C Hub,Peripherals,9,63.51,0.1,514.43
+SO-202502-0383,17/02/2025,north,Avery Lindqvist,Task Light,Lighting,9,55.65,0,500.85
+SO-202502-0384,02/02/2025,east,Noor Haddad,Task Light,Lighting,3,53.15,0.1,143.51
+SO-202502-0385,24/02/2025,south,Sofia Duarte,USB-C Hub,Peripherals,6,65.87,0.15,335.94
+SO-202502-0386,17/02/2025,south,Noor Haddad,Laptop Stand,Accessories,9,44.25,0.05,378.34
+,19/02/2025,north,Tariq Aziz,Cable Tray, Accessories  ,1,19.51,0.1,17.56
+SO-202502-0388,24/02/2025,south,Imani Okafor,Wireless Keyboard,Peripherals,11,58.47,0,643.17
+SO-202502-0389,03/02/2025,east,Elena Petrova,Standing Desk,Furniture,11,330.93,0,3640.23
+SO-202502-0390,06/02/2025,east,Sofia Duarte,Filing Cabinet,Furniture,4,139.36,0.1,501.7
+SO-202502-0391,27/02/2025,north,Jonas Weber,Cable Tray,Accessories,11,19.24,0.15,179.89
+SO-202502-0392,27/02/2025,north,Noor Haddad,Bookshelf,Furniture,8,122.88,0.05,933.89
+SO-202502-0393,02/02/2025,west,Elena Petrova,Laptop Stand,Accessories,5,45.54,0.1,204.93
+SO-202502-0394,12/02/2025,west,Imani Okafor,Wireless Keyboard,Peripherals,2,56.73,0,113.46
+SO-202502-0395,15/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,8,143.82,0.15,977.98
+SO-202502-0396,24/02/2025,central,Imani Okafor,Cable Tray,Accessories,12,20.19,0.05,230.17
+SO-202502-0397,21/02/2025,east,Jonas Weber,Monitor Arm,Accessories,10,85.76,0,857.6
+SO-202502-0398,10/02/2025,west,Sofia Duarte,Wireless Keyboard,Peripherals,7,60.66,0,424.62
+SO-202502-0399,06/02/2025,east,Avery Lindqvist,Laptop Stand,Accessories,2,44.88,0.1,80.78
+SO-202502-0400,11/02/2025,east,Priya Raman,Wireless Keyboard,Peripherals,2,58.97,0.05,112.04
+SO-202502-0401,20/02/2025,east,Jonas Weber,Ergonomic Chair,Furniture,10,252.64,0,2526.4
+SO-202502-0402,15/02/2025,north,Avery Lindqvist,Ergonomic Chair,Furniture,4,240.78,0.15,818.65
+SO-202502-0403,27/02/2025,east,Priya Raman,Filing Cabinet,Furniture,5,134.03,0.05,636.64
+SO-202502-0404,25/02/2025,north,Priya Raman,Standing Desk,Furniture,6,338.34,0,2030.04
+SO-202502-0405,19/02/2025,south,Kenji Mori,Wireless Keyboard,Peripherals,10,59.9,0,599.0
+SO-202502-0406,23/02/2025,east,Kenji Mori,Cable Tray,Accessories,7,19.83,0.15,117.99
+SO-202502-0407,02/02/2025,central,Mateo Ruiz,Monitor Arm,Accessories,4,86.48,0.05,328.62
+SO-202502-0408,05/02/2025,central,Elena Petrova,Wireless Keyboard,Peripherals,11,60.36,0,663.96
+SO-202502-0230,15/02/2025,south,Imani Okafor,Desk Lamp,Lighting,9,38.86,0,349.74
+SO-202502-0409,20/02/2025,east,Kenji Mori,Standing Desk,Furniture,9,333.78,0,3004.02
+SO-202502-0410,07/02/2025,central,Priya Raman,Desk Lamp,Lighting,11,41.27,0.05,431.27
+SO-202502-0411,21/02/2025,east,Elena Petrova,Cable Tray,Accessories,7,19.1,0.1,120.33
+SO-202502-0412,03/02/2025,east,Priya Raman,Bookshelf,Furniture,9,121.48,0.15,929.32
+SO-202502-0413,04/02/2025,north,Sofia Duarte,Cable Tray,Accessories,6,20.21,0,121.26
+SO-202502-0414,11/02/2025,south,Noor Haddad,Cable Tray,Accessories,8,18.88,0.15,128.38
+SO-202502-0415,08/02/2025,west,Kenji Mori, Webcam HD  ,Peripherals,1,75.06,0,75.06
+SO-202502-0416,26/02/2025,east,Tariq Aziz,Standing Desk,Furniture,2,341.63,0,683.26
+SO-202502-0417,08/02/2025,north,Jonas Weber,Desk Lamp,Lighting,5,39.03,0,195.15
+SO-202502-0418,03/02/2025,east,Kenji Mori,Filing Cabinet,Furniture,9,141.12,0,1270.08
+SO-202502-0419,17/02/2025,north,Imani Okafor,Monitor Arm,Accessories,9,91.06,0,819.54
+SO-202502-0420,24/02/2025,south,Imani Okafor,Cable Tray,Accessories,3,19.59,0,58.77
+SO-202502-0421,10/02/2025,north,Mateo Ruiz,Desk Lamp,Lighting,11,39.56,0.05,413.4
+SO-202502-0422,19/02/2025,east,Imani Okafor,Cable Tray,Accessories,12,18.77,0.15,191.45
+SO-202502-0423,06/02/2025,north,Tariq Aziz,Laptop Stand,Accessories,7,45.15,0.15,268.64
+SO-202502-0424,04/02/2025,central,Mateo Ruiz,Monitor Arm,Accessories,11,91.78,0.05,959.1
+SO-202502-0425,16/02/2025,north,Noor Haddad,Laptop Stand,Accessories,2,44.55,0.05,84.65
+SO-202502-0426,02/02/2025,north,Noor Haddad,Monitor Arm,Accessories,2,88.83,0,177.66
+SO-202502-0427,23/02/2025,east,Elena Petrova,Cable Tray,Accessories,10,19.77,0,197.7
+SO-202502-0428,20/02/2025,north,Elena Petrova,Webcam HD,Peripherals,8,76.19,0.1,548.57
+SO-202502-0429,01/02/2025,north,Jonas Weber,Bookshelf,Furniture,4,122.24,0.1,440.06
+SO-202502-0430,06/02/2025,east,Kenji Mori,Bookshelf,Furniture,9,115.0,0,1035.0
+SO-202502-0431,13/02/2025,north,Imani Okafor,Standing Desk,Furniture,11,320.27,0.15,2994.52
+SO-202502-0432,10/02/2025,west,Noor Haddad,USB-C Hub,Peripherals,12,63.21,0.05,720.59
+SO-202502-0433,25/02/2025,south,Mateo Ruiz,Laptop Stand,Accessories,6,45.07,0.15,229.86
+SO-202502-0434,25/02/2025,north,Mateo Ruiz,Desk Lamp,Lighting,4,40.33,0.1,145.19
+SO-202502-0435,02/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,5,137.0,0,685.0
+SO-202502-0436,11/02/2025,south,Imani Okafor,Bookshelf,Furniture,2,123.59,0.05,234.82
+SO-202502-0437,15/02/2025,north,Imani Okafor,Standing Desk,Furniture,1,340.6,0.1,306.54
+SO-202502-0438,16/02/2025,south,Mateo Ruiz,USB-C Hub,Peripherals,7,66.29,0,464.03
+SO-202502-1014,28/02/2025,east,Kenji Mori,USB-C Hub,Peripherals,4,61.7,0,246.8
+SO-202502-0439,02/02/2025,west,Imani Okafor,Laptop Stand,Accessories,6,45.63,0.15,232.71
+SO-202502-0440,19/02/2025,west,Priya Raman,Bookshelf,Furniture,5,123.13,0.15,523.3
+SO-202502-0441,21/02/2025,central,Priya Raman,Laptop Stand,Accessories,11,46.52,0.05,486.13
+SO-202502-0442,11/02/2025,north,Priya Raman,Ergonomic Chair,Furniture,5,242.89,0.05,1153.73
+SO-202502-0443,12/02/2025,west,Imani Okafor,Wireless Keyboard,Peripherals,7,60.42,0.1,380.65
+SO-202502-0444,19/02/2025,north,Kenji Mori,Monitor Arm,Accessories,12,91.86,0.05,1047.2
+SO-202502-0445,21/02/2025,west,Tariq Aziz,Task Light,Lighting,3,55.45,0,166.35
+SO-202502-0446,04/02/2025,south,Priya Raman,Webcam HD,Peripherals,8,74.09,0.1,533.45
+SO-202502-0447,03/02/2025,north,Imani Okafor,Standing Desk,Furniture,6,335.79,0.15,1712.53
+SO-202502-0448,25/02/2025,north,Imani Okafor,Bookshelf,Furniture,11,123.45,0,1357.95
+SO-202502-0449,10/02/2025,east,Avery Lindqvist,Webcam HD,Peripherals,12,71.81,0,861.72
+SO-202502-0450,20/02/2025,east,Mateo Ruiz,USB-C Hub,Peripherals,12,65.11,0.1,703.19
+SO-202502-0451,02/02/2025,west,Imani Okafor,Cable Tray,Accessories,9,18.85,0.05,161.17
+SO-202502-0452,08/02/2025,east,Priya Raman,Task Light,Lighting,4,52.79,0.15,179.49
+SO-202502-0453,27/02/2025,north,Kenji Mori,Laptop Stand,Accessories,12,44.25,0,531.0
+SO-202502-0454,07/02/2025,east,Kenji Mori,Standing Desk,Furniture,3,331.45,0.15,845.2
+SO-202502-0455,12/02/2025,east,Noor Haddad,Bookshelf,Furniture,9,119.01,0.05,1017.54
+SO-202502-0456,20/02/2025,north,Jonas Weber,Webcam HD,Peripherals,4,77.13,0,308.52
+SO-202502-0457,12/02/2025,central,Sofia Duarte,Wireless Keyboard,Peripherals,3,60.8,0.15,155.04
+SO-202502-0458,15/02/2025,west,Tariq Aziz,Standing Desk,Furniture,5,318.68,0.15,1354.39
+SO-202502-0459,16/02/2025,south,Sofia Duarte,Filing Cabinet,Furniture,7,139.3,0.05,926.35
+SO-202502-0460,25/02/2025,west,Tariq Aziz,Bookshelf,Furniture,7,116.61,0.05,775.46
+SO-202502-0461,22/02/2025,south,Sofia Duarte,Monitor Arm,Accessories,1,85.94,0.1,77.35
+SO-202502-0462,20/02/2025,north,Sofia Duarte,Laptop Stand,Accessories,11,46.19,0.1,457.28
+SO-202502-0463,16/02/2025,north,Elena Petrova,Cable Tray,Accessories,12,20.24,0.1,218.59
+SO-202502-0464,24/02/2025,south,Imani Okafor,Desk Lamp,Lighting,7,39.57,0,276.99
+SO-202502-0465,24/02/2025,central,Noor Haddad,Webcam HD,Peripherals,5,72.86,0.15,309.66
+SO-202502-0466,27/02/2025,west,Tariq Aziz,Laptop Stand,Accessories,7,45.41,0.1,286.08
+SO-202502-0467,13/02/2025,south,Kenji Mori,Monitor Arm,Accessories,1,87.94,0.05,83.54
+SO-202502-0468,10/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,8,138.67,0.05,1053.89
+SO-202502-0469,04/02/2025,central,Mateo Ruiz,Filing Cabinet,Furniture,4,134.66,0,538.64
+SO-202502-0470,03/02/2025,east,Sofia Duarte,Cable Tray,Accessories,2,18.97,0,37.94
+SO-202502-0471,17/02/2025,east,Tariq Aziz,Bookshelf,Furniture,9,117.36,0,1056.24
+SO-202502-0472,13/02/2025,west,Imani Okafor,Laptop Stand,Accessories,6,44.86,0.15,228.79
+SO-202502-0473,01/02/2025,east,Imani Okafor,Monitor Arm,Accessories,7,91.08,0.05,605.68
+SO-202502-0474,06/02/2025,north,Avery Lindqvist,Standing Desk,Furniture,5,339.3,0.15,1442.03
+SO-202502-0475,13/02/2025,central,Jonas Weber,Ergonomic Chair,Furniture,7,242.53,0.1,1527.94
+SO-202502-0476,07/02/2025,east,Avery Lindqvist,Standing Desk,Furniture,12,317.96,0.15,3243.19
+SO-202502-0477,22/02/2025,north,Mateo Ruiz,Cable Tray,Accessories,8,19.45,0.05,147.82
+SO-202502-0478,23/02/2025,east,Tariq Aziz,Cable Tray,Accessories,6,18.79,0,112.74
+SO-202502-0479,20/02/2025,north,Priya Raman,Cable Tray,Accessories,7,18.93,0.05,125.88
+SO-202502-0480,11/02/2025,east,Priya Raman,Webcam HD,Peripherals,1,74.67,0.15,63.47
+SO-202502-0481,04/02/2025,central,Imani Okafor,Cable Tray,Accessories,4,19.39,0,77.56
+SO-202502-0482,26/02/2025,south,Sofia Duarte,Wireless Keyboard,Peripherals,3,59.77,0.15,152.41
+SO-202502-0483,21/02/2025,east,Avery Lindqvist,Standing Desk,Furniture,11,322.47,0.05,3369.81
+SO-202502-0484,28/02/2025,west,Elena Petrova,USB-C Hub,Peripherals,3,61.99,0,185.97
+SO-202502-0485,04/02/2025,south,Priya Raman,Webcam HD,Peripherals,2,74.83,0.05,142.18
+SO-202502-0486,16/02/2025,central,Tariq Aziz,USB-C Hub,Peripherals,1,65.02,0,65.02
+SO-202502-0459,16/02/2025,south,Sofia Duarte,Filing Cabinet,Furniture,7,139.3,0.05,926.35
+SO-202502-0487,20/02/2025,central,Imani Okafor,Standing Desk,Furniture,2,335.87,0,671.74
+SO-202502-0488,08/02/2025,east,Imani Okafor,Standing Desk,Furniture,12,339.48,0.1,3666.38
+SO-202502-0489,23/02/2025,south,Mateo Ruiz,Bookshelf,Furniture,7,120.52,0.1,759.28
+SO-202502-0490,15/02/2025,west,Jonas Weber,Laptop Stand,Accessories,11,45.41,0.05,474.53
+SO-202502-0491,19/02/2025,north,Priya Raman,Bookshelf,Furniture,11,114.71,0,1261.81
+SO-202502-0492,19/02/2025,east,Mateo Ruiz,Task Light,Lighting,2,53.72,0.15,91.32
+SO-202502-0493,05/02/2025,south,Imani Okafor,Laptop Stand,Accessories,1,43.8,0,43.8
+SO-202502-0494,10/02/2025,north,Mateo Ruiz,Webcam HD,Peripherals,7,73.2,0,512.4
+SO-202502-0495,03/02/2025,north,Sofia Duarte,Desk Lamp,Lighting,10,40.91,0.15,347.74
+SO-202502-0496,03/02/2025,south,Tariq Aziz,Cable Tray,Accessories,6,18.84,0.1,101.74
+SO-202502-0497,07/02/2025,west,Elena Petrova,USB-C Hub,Peripherals,4,62.49,0.05,237.46
+SO-202502-0498,13/02/2025,east,Jonas Weber,Standing Desk,Furniture,8,340.17,0.05,2585.29
+SO-202502-0499,02/02/2025,east,Priya Raman,Standing Desk,Furniture,3,337.79,0.1,912.03
+SO-202502-0500,02/02/2025,north,Noor Haddad,Filing Cabinet,Furniture,8,134.51,0.05,1022.28
+SO-202502-0501,10/02/2025,west,Kenji Mori,Standing Desk,Furniture,11,336.11,0,3697.21
+SO-202502-0502,14/02/2025,east,Imani Okafor,Cable Tray,Accessories,1,20.08,0,20.08
+SO-202502-0503,07/02/2025,north,Noor Haddad,Desk Lamp,Lighting,3,41.07,0.05,117.05
+SO-202502-0504,06/02/2025,central,Imani Okafor,Task Light,Lighting,1,54.94,0,
+SO-202502-0505,21/02/2025,east,Priya Raman,Wireless Keyboard,Peripherals,11,58.0,0.15,542.3
+SO-202502-0506,02/02/2025,central,Kenji Mori,Monitor Arm,Accessories,12,85.48,0.05,974.47
+SO-202502-0507,05/02/2025,north,Elena Petrova,Standing Desk,Furniture,3,341.28,0.1,921.46
+SO-202502-0508,22/02/2025,north,Sofia Duarte,Monitor Arm,Accessories,3,86.13,0.15,219.63
+SO-202502-0509,03/02/2025,south,Priya Raman, Bookshelf  ,Furniture,7,117.66,0,823.62
+SO-202502-0510,20/02/2025,south,Elena Petrova,Laptop Stand,Accessories,7,45.01,0.15,267.81
+SO-202502-0511,14/02/2025,north,Priya Raman,Webcam HD,Peripherals,5,75.21,0.1,338.45
+SO-202502-0512,12/02/2025,south,Tariq Aziz,Laptop Stand,Accessories,5,45.38,0.05,215.56
+SO-202502-0513,11/02/2025,west,Jonas Weber,Wireless Keyboard,Peripherals,10,58.71,0.15,499.04
+SO-202502-0514,14/02/2025,south,Noor Haddad,Filing Cabinet,Furniture,1,143.82,0.05,136.63
+SO-202502-0515,09/02/2025,west,Mateo Ruiz,Standing Desk,Furniture,7,334.45,0.15,1989.98
+SO-202502-0516,14/02/2025,east,Imani Okafor,Desk Lamp,Lighting,8,38.67,0.05,293.89
+SO-202502-0517,14/02/2025,south,Avery Lindqvist,Wireless Keyboard,Peripherals,11,57.83,0.1,572.52
+SO-202502-0518,13/02/2025,east,Avery Lindqvist,Ergonomic Chair,Furniture,10,252.79,0.05,2401.51
+SO-202502-0519,17/02/2025,east,Imani Okafor,Ergonomic Chair,Furniture,10,251.88,0.1,2266.92
+SO-202502-0520,21/02/2025,south,Imani Okafor,Monitor Arm,Accessories,6,89.6,0.1,483.84
+SO-202502-0521,02/02/2025,central,Sofia Duarte,Standing Desk,Furniture,11,328.05,0.05,3428.12
+SO-202502-0522,26/02/2025,north,Priya Raman,Task Light,Lighting,4,55.5,0,222.0
+SO-202502-0523,04/02/2025,south,Tariq Aziz,Wireless Keyboard,Peripherals,12,60.85,0.15,620.67
+SO-202502-0524,08/02/2025,west,Priya Raman,Filing Cabinet,Furniture,3,135.71,0,407.13
+SO-202502-0525,28/02/2025,north,Kenji Mori,Monitor Arm,Accessories,3,90.64,0,271.92
+SO-202502-0526,11/02/2025,east,Jonas Weber,Cable Tray,Accessories,3,19.02,0,57.06
+SO-202502-0527,22/02/2025,south,Tariq Aziz,Laptop Stand,Accessories,1,44.34,0.05,42.12
+SO-202502-0528,03/02/2025,west,Kenji Mori,Task Light,Lighting,1,54.31,0,54.31
+SO-202502-0529,07/02/2025,east,Mateo Ruiz,Standing Desk,Furniture,1,335.89,0.05,319.1
+SO-202502-0530,04/02/2025,central,Elena Petrova,Bookshelf,Furniture,6,122.14,0.1,659.56
+SO-202502-0531,25/02/2025,east,Priya Raman,Laptop Stand,Accessories,2,45.62,0,91.24
+SO-202502-0532,19/02/2025,south,Imani Okafor,Task Light,Lighting,3,51.92,0,155.76
+SO-202502-0533,24/02/2025,west,Jonas Weber,USB-C Hub,Peripherals,7,64.84,0.05,431.19
+SO-202502-0534,16/02/2025,north,Jonas Weber,USB-C Hub,Peripherals,8,63.79,0,510.32
+SO-202502-0535,17/02/2025,south,Jonas Weber,Webcam HD,Peripherals,8,77.42,0,619.36
+SO-202502-0536,08/02/2025,south,Priya Raman,Desk Lamp,Lighting,9,41.27,0.1,334.29
+SO-202502-0537,27/02/2025,south,Priya Raman,Webcam HD,Peripherals,11,72.94,0,802.34
+SO-202502-0538,22/02/2025,east,Elena Petrova,Task Light,Lighting,7,54.7,0,382.9
+SO-202502-0539,24/02/2025,west,Avery Lindqvist,Bookshelf,Furniture,12,116.7,0,1400.4
+SO-202502-0540,04/02/2025,west,Noor Haddad,Bookshelf,Furniture,10,123.55,0.1,1111.95
+SO-202502-0541,26/02/2025,south,Sofia Duarte,Standing Desk,Furniture,4,331.93,0.15,1128.56
+SO-202502-0542,15/02/2025,south,Elena Petrova,USB-C Hub,Peripherals,10,66.12,0.05,628.14
+,,,,,,,,,
+SO-202502-0543,14/02/2025,west,Elena Petrova,Desk Lamp,Lighting,5,38.66,0.15,164.31
+SO-202502-0544,12/02/2025,east,Imani Okafor,Ergonomic Chair,Furniture,5,241.31,0.05,1146.22
+SO-202502-0545,04/02/2025,central,Mateo Ruiz,Monitor Arm,Accessories,10,88.37,0,883.7
+SO-202502-0546,27/02/2025,south,Mateo Ruiz,Standing Desk,Furniture,11,327.04,0,3597.44
+SO-202502-0547,07/02/2025,east,Tariq Aziz,Ergonomic Chair,Furniture,6,245.28,0,1471.68
+SO-202502-0548,24/02/2025,east,Priya Raman,Desk Lamp,Lighting,4,38.95,0.05,148.01
+SO-202502-0549,16/02/2025,central,Kenji Mori,Wireless Keyboard,Peripherals,10,58.01,0.15,493.09
+SO-202502-0550,06/02/2025,east,Avery Lindqvist,Webcam HD,Peripherals,6,73.16,0,438.96
+SO-202502-0551,01/02/2025,east,Mateo Ruiz,Monitor Arm,Accessories,11,91.77,0.15,858.05
+SO-202502-0552,08/02/2025,west,Priya Raman,Laptop Stand,Accessories,9,44.62,0.05,381.5
+SO-202502-0553,10/02/2025,west,Elena Petrova,Webcam HD,Peripherals,4,75.47,0.15,256.6
+SO-202502-0554,05/02/2025,north,Kenji Mori,Desk Lamp,Lighting,1,39.34,0.15,33.44
+SO-202502-0555,23/02/2025,north,Tariq Aziz,Standing Desk,Furniture,8,335.71,0,2685.68
+SO-202502-0556,15/02/2025,west,Kenji Mori,Monitor Arm,Accessories,10,86.96,0.15,739.16
+SO-202502-0557,28/02/2025,east,Tariq Aziz,Laptop Stand,Accessories,3,43.86,0.05,125.0
+SO-202502-0558,05/02/2025,east,Sofia Duarte,Cable Tray,Accessories,12,20.23,0.1,218.48
+SO-202502-0559,18/02/2025,west,Imani Okafor,Desk Lamp,Lighting,11,40.89,0.05,427.3
+SO-202502-0560,19/02/2025,central,Mateo Ruiz,Standing Desk,Furniture,8,316.08,0.05,2402.21
+SO-202502-0561,17/02/2025,east,Kenji Mori,Filing Cabinet,Furniture,3,138.76,0.15,353.84
+SO-202502-0562,24/02/2025,north,Avery Lindqvist,Desk Lamp,Lighting,9,40.82,0.05,349.01
+SO-202502-0563,08/02/2025,east,Tariq Aziz,Bookshelf,Furniture,12,122.13,0.1,1319.0
+SO-202502-0564,04/02/2025,east,Mateo Ruiz,USB-C Hub,Peripherals,8,64.0,0.1,460.8
+SO-202502-0565,11/02/2025,south,Imani Okafor,Bookshelf,Furniture,9,122.6,0,1103.4
+SO-202502-0566,06/02/2025,north,Sofia Duarte,Bookshelf,Furniture,2,119.37,0,238.74
+SO-202502-0567,01/02/2025,south,Imani Okafor,Filing Cabinet,Furniture,1,137.47,0.15,116.85
+SO-202502-0568,19/02/2025,west,Kenji Mori,Laptop Stand,Accessories,2,43.87,0.05,83.35
+SO-202502-0569,12/02/2025,central,Imani Okafor,Desk Lamp,Lighting,7,39.42,0.15,234.55
+SO-202502-0570,24/02/2025,south,Priya Raman,Ergonomic Chair,Furniture,2,256.04,0.1,460.87
+SO-202502-0571,19/02/2025,south,Kenji Mori,Monitor Arm,Accessories,11,90.26,0,992.86
+SO-202502-0572,04/02/2025,west,Sofia Duarte,Cable Tray,Accessories,8,20.0,0,160.0
+SO-202502-0573,09/02/2025,west,Elena Petrova,Webcam HD,Peripherals,9,71.84,0.15,549.58
+SO-202502-0574,07/02/2025,west,Jonas Weber,Task Light,Lighting,11,54.89,0,603.79
+SO-202502-0575,11/02/2025,north,Kenji Mori,Filing Cabinet,Furniture,12,141.72,0.05,1615.61
+SO-202502-0576,01/02/2025,central,Noor Haddad,Ergonomic Chair,Furniture,12,242.89,0.05,2768.95
+SO-202502-0577,23/02/2025,north,Sofia Duarte,Standing Desk,Furniture,6,323.68,0.05,1844.98
+SO-202502-0578,11/02/2025,north,Mateo Ruiz,Standing Desk,Furniture,12,337.55,0,4050.6
+SO-202502-0579,01/02/2025,north,Mateo Ruiz,Standing Desk,Furniture,8,331.21,0.1,2384.71
+SO-202502-0580,15/02/2025,south,Priya Raman,USB-C Hub,Peripherals,6,65.21,0.15,332.57
+SO-202502-0581,18/02/2025,east,Elena Petrova,Laptop Stand,Accessories,5,43.72,0,218.6
+SO-202502-0582,19/02/2025,east,Avery Lindqvist,Filing Cabinet,Furniture,12,138.72,0,
+SO-202502-0583,05/02/2025,south,Noor Haddad,Wireless Keyboard,Peripherals,7,59.25,0.15,352.54
+SO-202502-0584,23/02/2025,north,Noor Haddad,Cable Tray,Accessories,2,18.95,0,37.9
+SO-202502-0585,04/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,11,138.69,0.15,1296.75
+SO-202502-0155,20/02/2025,south,Priya Raman,Standing Desk,Furniture,7,326.7,0,2286.9
+SO-202502-0586,10/02/2025,north,Mateo Ruiz,Task Light,Lighting,2,56.0,0.05,106.4
+SO-202502-0587,19/02/2025,south,Imani Okafor,Monitor Arm,Accessories,11,90.67,0.1,897.63
+SO-202502-0588,22/02/2025,south,Mateo Ruiz,Desk Lamp,Lighting,7,40.81,0,285.67
+SO-202502-0589,08/02/2025,east,Mateo Ruiz,Filing Cabinet,Furniture,11,142.05,0.1,1406.3
+SO-202502-0590,18/02/2025,west,Imani Okafor,Webcam HD,Peripherals,7,72.94,0.05,485.05
+SO-202502-0591,15/02/2025,east,Noor Haddad,Webcam HD,Peripherals,11,77.32,0,850.52
+SO-202502-0592,15/02/2025,north,Imani Okafor,Bookshelf,Furniture,1,116.23,0,116.23
+SO-202502-0593,12/02/2025,north,Priya Raman,Bookshelf,Furniture,12,117.44,0.05,1338.82
+SO-202502-0594,18/02/2025,south,Priya Raman,Webcam HD,Peripherals,8,76.31,0,610.48
+SO-202502-0595,08/02/2025,south,Kenji Mori,Bookshelf,Furniture,4,116.85,0,467.4
+SO-202502-0596,11/02/2025,west,Jonas Weber,Cable Tray,Accessories,5,19.57,0.1,88.07
+SO-202502-0597,12/02/2025,west,Avery Lindqvist,Desk Lamp,Lighting,11,39.56,0.1,391.64
+SO-202502-0598,11/02/2025,central,Jonas Weber,Monitor Arm,Accessories,11,87.38,0,961.18
+SO-202502-0599,01/02/2025,south,Mateo Ruiz,Standing Desk,Furniture,8,335.65,0.1,
+SO-202502-0600,19/02/2025,south,Sofia Duarte,Filing Cabinet,Furniture,4,134.34,0.15,456.76
+SO-202502-0601,23/02/2025,central,Mateo Ruiz,Filing Cabinet,Furniture,7,138.79,0.05,922.95
+SO-202502-0602,09/02/2025,south,Tariq Aziz, USB-C Hub  ,Peripherals,9,64.88,0.1,525.53
+SO-202502-0603,24/02/2025,east,Kenji Mori,Filing Cabinet,Furniture,2,137.2,0.15,233.24
+SO-202502-0604,28/02/2025,north,Tariq Aziz,Wireless Keyboard,Peripherals,12,59.71,0.05,680.69
+SO-202502-0605,24/02/2025,south,Mateo Ruiz,Monitor Arm,Accessories,2,87.55,0.05,166.35
+SO-202502-0606,28/02/2025,north,Imani Okafor,Ergonomic Chair,Furniture,3,244.13,0.1,659.15
+SO-202502-0607,15/02/2025,east,Imani Okafor,Bookshelf,Furniture,12,116.42,0,1397.04
+SO-202502-0608,27/02/2025,south,Noor Haddad,Filing Cabinet,Furniture,3,140.09,0.1,378.24
+SO-202502-0609,01/02/2025,south,Mateo Ruiz,Standing Desk,Furniture,12,322.4,0.15,3288.48
+SO-202502-0610,23/02/2025,south,Avery Lindqvist,Cable Tray,Accessories,5,19.39,0.15,82.41
+SO-202502-0611,20/02/2025,north,Priya Raman,Webcam HD,Peripherals,7,71.76,0.15,426.97
+SO-202502-0612,19/02/2025,west,Sofia Duarte,Bookshelf,Furniture,6,114.3,0,685.8
+SO-202502-0613,21/02/2025,north,Priya Raman,Ergonomic Chair,Furniture,7,243.8,0.15,1450.61
+SO-202502-0614,02/02/2025,north,Avery Lindqvist,Webcam HD,Peripherals,10,71.66,0.05,680.77
+SO-202502-0615,13/02/2025,north,Priya Raman,USB-C Hub,Peripherals,1,62.85,0.1,
+SO-202502-0616,21/02/2025,south,Jonas Weber,Ergonomic Chair,Furniture,10,250.95,0.05,2384.03
+SO-202502-0617,09/02/2025,west,Tariq Aziz,Bookshelf,Furniture,1,119.73,0.1,107.76
+SO-202502-0618,01/02/2025,west,Priya Raman,USB-C Hub,Peripherals,10,64.4,0.15,547.4
+SO-202502-0619,23/02/2025,east,Tariq Aziz,Desk Lamp,Lighting,3,41.32,0.1,111.56
+SO-202502-0620,13/02/2025,north,Kenji Mori,Desk Lamp,Lighting,11,40.36,0.1,399.56
+SO-202502-0621,15/02/2025,east,Priya Raman,Bookshelf,Furniture,4,120.15,0.1,432.54
+SO-202502-0622,23/02/2025,west,Jonas Weber,Standing Desk,Furniture,2,335.31,0.05,637.09
+SO-202502-0623,22/02/2025,west,Sofia Duarte,USB-C Hub,Peripherals,6,65.38,0.1,353.05
+SO-202502-0624,02/02/2025,central,Avery Lindqvist,USB-C Hub,Peripherals,2,62.72,0,125.44
+SO-202502-0625,16/02/2025,north,Imani Okafor,Bookshelf,Furniture,3,115.87,0.15,295.47
+SO-202502-0626,04/02/2025,north,Jonas Weber,Filing Cabinet,Furniture,12,142.23,0.15,1450.75
+SO-202502-0627,20/02/2025,north,Priya Raman,Standing Desk,Furniture,2,317.96,0.15,540.53
+SO-202502-0628,03/02/2025,central,Jonas Weber,Bookshelf,Furniture,9,122.63,0,1103.67
+SO-202502-0629,16/02/2025,north,Noor Haddad,Ergonomic Chair,Furniture,3,240.73,0,722.19
+SO-202502-0630,11/02/2025,west,Tariq Aziz,Ergonomic Chair,Furniture,4,247.11,0.15,840.17
+SO-202502-0631,03/02/2025,west,Jonas Weber,Laptop Stand,Accessories,10,44.23,0,442.3
+SO-202502-0632,04/02/2025,east,Kenji Mori,Standing Desk,Furniture,1,334.96,0.05,318.21
+SO-202502-0633,06/02/2025,north,Sofia Duarte,USB-C Hub,Peripherals,2,65.98,0,131.96
+SO-202502-0634,20/02/2025,north,Priya Raman,Bookshelf,Furniture,4,117.82,0.1,424.15
+SO-202502-0635,16/02/2025,central,Mateo Ruiz,Desk Lamp,Lighting,7,40.82,0.1,257.17
+SO-202502-0636,21/02/2025,north,Elena Petrova,Desk Lamp,Lighting,11,40.45,0.1,400.46
+SO-202502-0637,16/02/2025,north,Jonas Weber,Standing Desk,Furniture,8,334.14,0.05,2539.46
+SO-202502-0638,10/02/2025,central,Noor Haddad,Laptop Stand,Accessories,7,46.8,0.15,278.46
+SO-202502-0639,14/02/2025,central,Jonas Weber,Wireless Keyboard,Peripherals,5,60.36,0.15,256.53
+SO-202502-0640,23/02/2025,east,Avery Lindqvist,Ergonomic Chair,Furniture,8,242.97,0.15,1652.2
+SO-202502-0641,24/02/2025,east,Mateo Ruiz,Ergonomic Chair,Furniture,11,255.02,0,2805.22
+SO-202502-0642,06/02/2025,central,Kenji Mori,Webcam HD,Peripherals,9,76.69,0.15,586.68
+SO-202502-0643,01/02/2025,north,Sofia Duarte,Laptop Stand,Accessories,4,45.07,0,180.28
+SO-202502-0644,01/02/2025,east,Sofia Duarte,Bookshelf,Furniture,1,116.12,0.05,110.31
+,08/02/2025,south,Tariq Aziz,Standing Desk,Furniture,1,338.31,0.05,321.39
+SO-202502-0646,01/02/2025,south,Imani Okafor,Laptop Stand,Accessories,6,46.54,0,279.24
+SO-202502-0647,16/02/2025,north,Priya Raman,Desk Lamp,Lighting,1,41.06,0.15,34.9
+SO-202502-0648,27/02/2025,west,Elena Petrova,Task Light,Lighting,2,54.13,0.1,97.43
+SO-202502-0649,15/02/2025,central,Mateo Ruiz,USB-C Hub,Peripherals,7,64.77,0,453.39
+SO-202502-0650,06/02/2025,central,Elena Petrova,Wireless Keyboard,Peripherals,6,57.41,0.15,292.79
+SO-202502-0651,12/02/2025,east,Imani Okafor,Laptop Stand,Accessories,1,44.14,0.1,39.73
+SO-202502-0652,21/02/2025,west,Mateo Ruiz,Monitor Arm,Accessories,6,91.35,0,548.1
+SO-202502-0653,21/02/2025,north,Priya Raman,Cable Tray,Accessories,3,19.63,0,58.89
+SO-202502-0654,05/02/2025,east,Priya Raman,Filing Cabinet,Furniture,6,136.98,0.15,698.6
+SO-202502-0655,17/02/2025,central,Tariq Aziz,Ergonomic Chair,Furniture,3,255.06,0.1,688.66
+SO-202502-0656,20/02/2025,west,Jonas Weber,Standing Desk,Furniture,3,329.71,0,989.13
+SO-202502-0657,08/02/2025,east,Jonas Weber,Wireless Keyboard,Peripherals,6,60.78,0.1,328.21
+SO-202502-0658,13/02/2025,south,Kenji Mori,USB-C Hub,Peripherals,2,61.52,0.1,110.74
+SO-202502-0659,07/02/2025,north,Jonas Weber,Laptop Stand,Accessories,4,43.87,0,175.48
+SO-202502-0660,14/02/2025,east,Imani Okafor,Wireless Keyboard,Peripherals,12,59.53,0.15,607.21
+SO-202502-0661,02/02/2025,west,Jonas Weber,USB-C Hub,Peripherals,1,63.52,0,63.52
+SO-202502-0662,26/02/2025,central,Imani Okafor,Filing Cabinet,Furniture,1,141.38,0,141.38
+SO-202502-0663,06/02/2025,east,Tariq Aziz,Cable Tray,Accessories,5,18.98,0.1,85.41
+SO-202502-0664,18/02/2025,east,Avery Lindqvist,Ergonomic Chair,Furniture,2,243.09,0,486.18
+SO-202502-0665,24/02/2025,east,Mateo Ruiz,Cable Tray,Accessories,10,19.45,0.05,184.78
+SO-202502-0666,24/02/2025,north,Jonas Weber,Bookshelf,Furniture,10,117.57,0.1,1058.13
+SO-202502-0667,10/02/2025,north,Noor Haddad,USB-C Hub,Peripherals,2,62.44,0,124.88
+SO-202502-0668,06/02/2025,north,Imani Okafor,Ergonomic Chair,Furniture,4,247.83,0,991.32
+SO-202502-0669,07/02/2025,south,Kenji Mori,Laptop Stand,Accessories,8,44.11,0.15,299.95
+SO-202502-0670,18/02/2025,west,Jonas Weber,Filing Cabinet,Furniture,3,133.73,0.15,341.01
+SO-202502-0671,03/02/2025,south,Noor Haddad,Ergonomic Chair,Furniture,12,246.62,0.05,2811.47
+SO-202502-0672,24/02/2025,east,Noor Haddad,Bookshelf,Furniture,8,119.8,0.1,862.56
+SO-202502-0673,23/02/2025,north,Elena Petrova,Webcam HD,Peripherals,5,75.36,0.15,320.28
+SO-202502-0674,28/02/2025,north,Sofia Duarte,Webcam HD,Peripherals,5,73.5,0.15,312.38
+SO-202502-0675,05/02/2025,west,Mateo Ruiz,Cable Tray,Accessories,1,19.04,0.15,16.18
+SO-202502-0676,02/02/2025,north,Jonas Weber,Cable Tray,Accessories,8,19.92,0.1,143.42
+SO-202502-0677,02/02/2025,south,Noor Haddad,Monitor Arm,Accessories,1,85.66,0,85.66
+SO-202502-0678,08/02/2025,south,Priya Raman,Desk Lamp,Lighting,8,38.46,0.15,261.53
+SO-202502-0679,25/02/2025,south,Noor Haddad,Desk Lamp,Lighting,4,39.35,0.15,133.79
+SO-202502-0680,04/02/2025,west,Imani Okafor,Cable Tray,Accessories,3,18.77,0,56.31
+SO-202502-0681,13/02/2025,east,Avery Lindqvist,Standing Desk,Furniture,7,335.29,0,2347.03
+SO-202502-0682,02/02/2025,west,Tariq Aziz,Monitor Arm,Accessories,3,86.96,0.15,221.75
+SO-202502-0683,21/02/2025,south,Tariq Aziz,Monitor Arm,Accessories,6,91.14,0,546.84
+SO-202502-0684,27/02/2025,south,Elena Petrova,Desk Lamp,Lighting,4,40.55,0.05,154.09
+SO-202502-0685,02/02/2025,north,Noor Haddad,USB-C Hub,Peripherals,4,66.26,0,265.04
+SO-202502-0686,08/02/2025,east,Kenji Mori,Task Light,Lighting,10,54.11,0,541.1
+SO-202502-0687,22/02/2025,south,Avery Lindqvist,Filing Cabinet,Furniture,4,142.54,0,570.16
+SO-202502-0688,26/02/2025,west,Mateo Ruiz,Monitor Arm,Accessories,9,89.91,0.1,728.27
+SO-202502-0689,06/02/2025,north,Tariq Aziz,Ergonomic Chair,Furniture,1,242.66,0.15,206.26
+SO-202502-0690,24/02/2025,north,Tariq Aziz,Cable Tray,Accessories,9,19.78,0.05,169.12
+SO-202502-0691,16/02/2025,north,Kenji Mori,Bookshelf,Furniture,1,115.77,0.15,98.4
+SO-202502-0692,08/02/2025,west,Imani Okafor,Filing Cabinet,Furniture,12,139.94,0,1679.28
+SO-202502-0693,16/02/2025,west,Kenji Mori,Filing Cabinet,Furniture,1,135.46,0.05,128.69
+SO-202502-0694,08/02/2025,north,Tariq Aziz,Webcam HD,Peripherals,1,71.7,0,71.7
+SO-202502-0695,09/02/2025,central,Elena Petrova,Webcam HD,Peripherals,4,71.99,0,287.96
+SO-202502-0696,06/02/2025,east,Jonas Weber,Wireless Keyboard,Peripherals,1,59.32,0.1,53.39
+SO-202502-0697,28/02/2025,east,Noor Haddad,Wireless Keyboard,Peripherals,10,60.34,0.1,543.06
+SO-202502-0698,15/02/2025,south,Mateo Ruiz,Desk Lamp,Lighting,8,38.51,0,308.08
+SO-202502-0699,22/02/2025,east,Tariq Aziz,Ergonomic Chair,Furniture,4,253.81,0,1015.24
+SO-202502-0700,01/02/2025,north,Kenji Mori,USB-C Hub,Peripherals,5,63.75,0,318.75
+SO-202502-0701,16/02/2025,north,Sofia Duarte,Ergonomic Chair,Furniture,5,251.3,0.1,1130.85
+SO-202502-0702,04/02/2025,south,Elena Petrova,Cable Tray,Accessories,8,19.15,0,153.2
+SO-202502-0703,06/02/2025,east,Priya Raman,USB-C Hub,Peripherals,4,64.31,0,257.24
+SO-202502-0704,13/02/2025,east,Avery Lindqvist,USB-C Hub,Peripherals,1,63.18,0.15,53.7
+SO-202502-0705,24/02/2025,north,Imani Okafor,USB-C Hub,Peripherals,9,64.27,0.05,549.51
+SO-202502-0706,28/02/2025,north,Elena Petrova,Standing Desk,Furniture,1,321.9,0.15,273.62
+SO-202502-0707,17/02/2025,north,Noor Haddad,Ergonomic Chair,Furniture,6,245.16,0,1470.96
+SO-202502-0708,15/02/2025,south,Elena Petrova,Bookshelf,Furniture,12,121.96,0.1,1317.17
+SO-202502-0709,05/02/2025,north,Mateo Ruiz,USB-C Hub,Peripherals,10,64.92,0.05,616.74
+SO-202502-0710,23/02/2025,east,Noor Haddad,Bookshelf,Furniture,8,115.56,0.05,878.26
+SO-202502-0711,01/02/2025,east,Elena Petrova,Task Light,Lighting,12,52.41,0.1,566.03
+SO-202502-0712,05/02/2025,east,Tariq Aziz,Filing Cabinet,Furniture,1,141.98,0,141.98
+SO-202502-0713,18/02/2025,east,Jonas Weber,Cable Tray,Accessories,12,20.14,0,241.68
+SO-202502-0714,13/02/2025,north,Mateo Ruiz,Monitor Arm,Accessories,10,85.75,0,857.5
+SO-202502-0715,12/02/2025,north,Avery Lindqvist,Task Light,Lighting,1,52.69,0.15,44.79
+SO-202502-0716,13/02/2025,north,Tariq Aziz,Standing Desk,Furniture,8,330.83,0,2646.64
+SO-202502-0717,24/02/2025,south,Avery Lindqvist,Cable Tray,Accessories,11,19.41,0.15,181.48
+SO-202502-0718,09/02/2025,north,Priya Raman,Monitor Arm,Accessories,12,90.53,0.1,977.72
+SO-202502-0719,11/02/2025,north,Sofia Duarte,Standing Desk,Furniture,3,316.88,0.05,903.11
+SO-202502-0720,12/02/2025,north,Elena Petrova,Wireless Keyboard,Peripherals,9,60.17,0.05,514.45
+SO-202502-0721,18/02/2025,east,Elena Petrova,Wireless Keyboard,Peripherals,7,60.69,0,424.83
+SO-202502-0722,21/02/2025,north,Noor Haddad, Task Light  ,Lighting,9,54.36,0.05,464.78
+SO-202502-0723,05/02/2025,north,Elena Petrova,Wireless Keyboard,Peripherals,9,56.84,0,511.56
+SO-202502-0724,13/02/2025,north,Avery Lindqvist,USB-C Hub,Peripherals,10,66.23,0.1,596.07
+SO-202502-0725,26/02/2025,north,Imani Okafor,USB-C Hub,Peripherals,10,63.64,0.1,572.76
+SO-202502-0437,15/02/2025,north,Imani Okafor,Standing Desk,Furniture,1,340.6,0.1,306.54
+SO-202502-0726,23/02/2025,south,Kenji Mori,Standing Desk,Furniture,4,331.07,0,1324.28
+SO-202502-0727,14/02/2025,east,Priya Raman,Cable Tray,Accessories,7,19.28,0.1,121.46
+SO-202502-0728,11/02/2025,south,Sofia Duarte,Ergonomic Chair,Furniture,4,254.74,0,1018.96
+SO-202502-0729,24/02/2025,south,Avery Lindqvist,Laptop Stand,Accessories,2,43.3,0.1,77.94
+SO-202502-0730,17/02/2025,south,Mateo Ruiz,Wireless Keyboard,Peripherals,8,57.34,0,458.72
+SO-202502-0731,12/02/2025,west,Sofia Duarte,USB-C Hub,Peripherals,7,65.39,0.05,434.84
+SO-202502-0732,16/02/2025,east,Elena Petrova,Desk Lamp,Lighting,11,39.47,0,434.17
+SO-202502-0733,17/02/2025,west,Priya Raman,Webcam HD,Peripherals,6,72.24,0.05,411.77
+SO-202502-0734,23/02/2025,south,Noor Haddad,Bookshelf,Furniture,6,123.36,0,740.16
+SO-202502-0735,16/02/2025,west,Kenji Mori,Desk Lamp,Lighting,4,38.66,0.15,131.44
+SO-202502-0736,15/02/2025,south,Elena Petrova,Webcam HD,Peripherals,11,75.84,0.1,750.82
+SO-202502-0737,02/02/2025,east,Sofia Duarte,Standing Desk,Furniture,6,317.18,0.05,1807.93
+SO-202502-0738,03/02/2025,north,Kenji Mori,Cable Tray,Accessories,5,19.94,0,99.7
+SO-202502-0739,20/02/2025,west,Tariq Aziz,Task Light,Lighting,1,54.1,0.1,48.69
+SO-202502-0740,10/02/2025,east,Mateo Ruiz,Wireless Keyboard,Peripherals,12,59.52,0.05,678.53
+SO-202502-0741,16/02/2025,central,Imani Okafor,Standing Desk,Furniture,11,320.69,0,3527.59
+SO-202502-0762,25/02/2025,north,Mateo Ruiz,Bookshelf,Furniture,10,121.45,0,1214.5
+SO-202502-0742,08/02/2025,north,Noor Haddad,Filing Cabinet,Furniture,4,143.06,0,572.24
+SO-202502-0743,17/02/2025,north,Jonas Weber,Ergonomic Chair,Furniture,2,251.2,0.05,477.28
+SO-202502-0744,19/02/2025,north,Priya Raman,Wireless Keyboard,Peripherals,11,56.92,0.05,594.81
+SO-202502-0745,10/02/2025,east,Tariq Aziz,Ergonomic Chair,Furniture,5,242.31,0.1,1090.4
+SO-202502-0746,23/02/2025,north,Tariq Aziz,Wireless Keyboard,Peripherals,1,57.17,0.05,54.31
+SO-202502-0747,26/02/2025,west,Priya Raman,Ergonomic Chair,Furniture,3,247.02,0.05,704.01
+SO-202502-0748,04/02/2025,west,Tariq Aziz,Cable Tray,Accessories,4,19.37,0.05,73.61
+SO-202502-0749,03/02/2025,east,Imani Okafor,Laptop Stand,Accessories,3,46.24,0,138.72
+SO-202502-0750,19/02/2025,east,Sofia Duarte,Bookshelf,Furniture,1,117.33,0,117.33
+SO-202502-0751,02/02/2025,south,Avery Lindqvist,Desk Lamp,Lighting,11,39.99,0,439.89
+SO-202502-0752,21/02/2025,south,Elena Petrova,Webcam HD,Peripherals,11,77.45,0.15,724.16
+SO-202502-0753,08/02/2025,central,Sofia Duarte,Standing Desk,Furniture,3,328.24,0,984.72
+SO-202502-0754,23/02/2025,east,Jonas Weber,USB-C Hub,Peripherals,1,61.49,0.15,52.27
+SO-202502-0755,09/02/2025,east,Imani Okafor,Desk Lamp,Lighting,12,38.95,0.15,397.29
+SO-202502-0756,02/02/2025,south,Sofia Duarte,USB-C Hub,Peripherals,4,66.47,0.15,226.0
+SO-202502-0757,09/02/2025,east,Elena Petrova,Monitor Arm,Accessories,8,91.61,0.1,659.59
+SO-202502-0758,01/02/2025,south,Noor Haddad,Monitor Arm,Accessories,9,85.72,0.15,655.76
+SO-202502-0759,15/02/2025,south,Jonas Weber,USB-C Hub,Peripherals,3,61.83,0.15,157.67
+SO-202502-0926,08/02/2025,north,Noor Haddad,Wireless Keyboard,Peripherals,9,57.23,0.1,463.56
+SO-202502-0760,09/02/2025,south,Tariq Aziz,USB-C Hub,Peripherals,4,66.18,0.05,251.48
+SO-202502-0761,16/02/2025,south,Elena Petrova,Wireless Keyboard,Peripherals,9,59.33,0,533.97
+SO-202502-0762,25/02/2025,north,Mateo Ruiz,Bookshelf,Furniture,10,121.45,0,1214.5
+SO-202502-0763,05/02/2025,central,Elena Petrova,Wireless Keyboard,Peripherals,4,60.79,0,243.16
+SO-202502-0764,12/02/2025,south,Kenji Mori,Bookshelf,Furniture,9,116.39,0.05,995.13
+SO-202502-0765,07/02/2025,north,Noor Haddad,Wireless Keyboard,Peripherals,6,59.55,0,357.3
+SO-202502-0766,09/02/2025,west,Elena Petrova,Webcam HD,Peripherals,6,76.04,0.15,387.8
+SO-202502-0767,21/02/2025,east,Avery Lindqvist,Bookshelf,Furniture,8,122.33,0,978.64
+SO-202502-0768,22/02/2025,north,Elena Petrova,Desk Lamp,Lighting,7,38.56,0,269.92
+SO-202502-0769,28/02/2025,south,Priya Raman,Laptop Stand,Accessories,5,45.28,0.1,203.76
+SO-202502-0770,16/02/2025,north,Noor Haddad,Desk Lamp,Lighting,10,38.93,0,389.3
+SO-202502-0771,01/02/2025,north,Tariq Aziz,Laptop Stand,Accessories,8,43.94,0.15,298.79
+SO-202502-0772,14/02/2025,east,Mateo Ruiz,Webcam HD,Peripherals,2,72.12,0,144.24
+SO-202502-0773,16/02/2025,central,Jonas Weber,Wireless Keyboard,Peripherals,5,57.78,0.05,274.46
+SO-202502-0774,22/02/2025,west,Tariq Aziz,Desk Lamp,Lighting,8,38.43,0,307.44
+SO-202502-0775,08/02/2025,north,Sofia Duarte,Ergonomic Chair,Furniture,2,242.17,0.1,435.91
+SO-202502-0776,19/02/2025,east,Sofia Duarte,Bookshelf,Furniture,7,118.59,0.1,747.12
+SO-202502-0777,25/02/2025,south,Elena Petrova,Standing Desk,Furniture,10,339.28,0,3392.8
+SO-202502-0778,19/02/2025,east,Jonas Weber,Wireless Keyboard,Peripherals,7,58.91,0,412.37
+SO-202502-0779,07/02/2025,south,Kenji Mori,Cable Tray,Accessories,11,20.05,0,220.55
+SO-202502-0780,16/02/2025,east,Tariq Aziz,Cable Tray,Accessories,11,19.78,0.05,206.7
+SO-202502-0781,25/02/2025,west,Sofia Duarte,Wireless Keyboard,Peripherals,8,58.0,0.1,417.6
+SO-202502-0782,11/02/2025,north,Elena Petrova,Webcam HD,Peripherals,10,73.53,0,735.3
+SO-202502-0783,20/02/2025,north,Sofia Duarte,Bookshelf,Furniture,2,121.0,0.1,217.8
+SO-202502-0784,22/02/2025,north,Tariq Aziz,Bookshelf,Furniture,5,117.82,0,589.1
+SO-202502-0785,27/02/2025,north,Mateo Ruiz,Ergonomic Chair,Furniture,11,249.11,0.05,2603.2
+SO-202502-0786,17/02/2025,north,Tariq Aziz,Standing Desk,Furniture,5,323.89,0.05,1538.48
+SO-202502-0787,05/02/2025,north,Elena Petrova,Laptop Stand,Accessories,8,46.76,0.1,336.67
+SO-202502-0788,21/02/2025,south,Tariq Aziz,Ergonomic Chair,Furniture,3,244.03,0.1,658.88
+SO-202502-0789,15/02/2025,south,Sofia Duarte,Standing Desk,Furniture,12,333.79,0,4005.48
+SO-202502-0790,20/02/2025,west,Kenji Mori,USB-C Hub,Peripherals,6,65.36,0,392.16
+SO-202502-0791,21/02/2025,east,Priya Raman,Webcam HD,Peripherals,1,73.83,0.15,62.76
+SO-202502-0792,10/02/2025,north,Tariq Aziz,Wireless Keyboard,Peripherals,5,59.93,0.1,269.69
+SO-202502-0793,08/02/2025,east,Noor Haddad,Monitor Arm,Accessories,11,91.35,0.05,954.61
+SO-202502-0794,27/02/2025,east,Noor Haddad,USB-C Hub,Peripherals,1,65.25,0.05,61.99
+SO-202502-0795,06/02/2025,east,Jonas Weber,Monitor Arm,Accessories,5,85.81,0,429.05
+SO-202502-0796,09/02/2025,central,Imani Okafor,Filing Cabinet,Furniture,10,142.98,0,1429.8
+SO-202502-0797,12/02/2025,west,Mateo Ruiz,Cable Tray,Accessories,3,20.0,0.15,51.0
+SO-202502-0798,20/02/2025,north,Imani Okafor,Laptop Stand,Accessories,7,43.71,0.15,260.07
+SO-202502-0799,21/02/2025,north,Imani Okafor,Webcam HD,Peripherals,3,76.91,0.15,196.12
+SO-202502-0800,15/02/2025,east,Mateo Ruiz,Ergonomic Chair,Furniture,3,248.73,0,746.19
+SO-202502-0801,25/02/2025,south,Noor Haddad,Standing Desk,Furniture,2,333.99,0,667.98
+SO-202502-0802,19/02/2025,east,Mateo Ruiz,USB-C Hub,Peripherals,12,65.48,0.05,746.47
+SO-202502-0803,22/02/2025,east,Imani Okafor,Standing Desk,Furniture,12,340.02,0.05,3876.23
+SO-202502-0804,16/02/2025,north,Jonas Weber,Task Light,Lighting,6,54.63,0.15,278.61
+SO-202502-0805,06/02/2025,east,Mateo Ruiz,Cable Tray,Accessories,12,19.43,0.1,209.84
+SO-202502-0806,24/02/2025,south,Elena Petrova,Monitor Arm,Accessories,6,85.46,0.1,461.48
+SO-202502-0807,19/02/2025,east,Avery Lindqvist,Monitor Arm,Accessories,7,86.87,0,608.09
+SO-202502-0808,17/02/2025,south,Priya Raman,Filing Cabinet,Furniture,3,141.63,0.15,361.16
+SO-202502-0809,21/02/2025,south,Elena Petrova,Standing Desk,Furniture,10,318.13,0,3181.3
+SO-202502-0810,22/02/2025,north,Mateo Ruiz,USB-C Hub,Peripherals,4,62.38,0.15,212.09
+SO-202502-0811,19/02/2025,north,Noor Haddad,Desk Lamp,Lighting,10,39.86,0,398.6
+SO-202502-0812,24/02/2025,west,Elena Petrova,Ergonomic Chair,Furniture,3,247.04,0.05,704.06
+SO-202502-0813,08/02/2025,north,Noor Haddad,Laptop Stand,Accessories,8,44.64,0,357.12
+SO-202502-0814,17/02/2025,west,Tariq Aziz,Desk Lamp,Lighting,11,41.19,0,453.09
+SO-202502-0815,13/02/2025,north,Jonas Weber,USB-C Hub,Peripherals,12,64.69,0,776.28
+SO-202502-0816,12/02/2025,east,Jonas Weber,Laptop Stand,Accessories,6,43.27,0,259.62
+SO-202502-0817,14/02/2025,central,Noor Haddad,Monitor Arm,Accessories,6,87.88,0.1,474.55
+SO-202502-0818,19/02/2025,north,Elena Petrova,Laptop Stand,Accessories,9,43.44,0.05,371.41
+SO-202502-0819,17/02/2025,north,Priya Raman,Task Light,Lighting,3,54.92,0,164.76
+SO-202502-0820,01/02/2025,north,Noor Haddad,Monitor Arm,Accessories,5,89.5,0.1,402.75
+SO-202502-0821,09/02/2025,west,Tariq Aziz,Laptop Stand,Accessories,8,46.71,0.05,355.0
+SO-202502-0822,07/02/2025,north,Avery Lindqvist,Ergonomic Chair,Furniture,5,246.04,0,1230.2
+SO-202502-0823,20/02/2025,north,Sofia Duarte,Desk Lamp,Lighting,7,38.98,0.15,231.93
+SO-202502-0824,09/02/2025,south,Avery Lindqvist,Cable Tray,Accessories,2,19.06,0.15,32.4
+SO-202502-0825,24/02/2025,west,Jonas Weber,Wireless Keyboard,Peripherals,6,60.35,0.15,307.79
+SO-202502-0589,08/02/2025,east,Mateo Ruiz,Filing Cabinet,Furniture,11,142.05,0.1,1406.3
+SO-202502-0826,17/02/2025,west,Tariq Aziz,Laptop Stand, Accessories  ,9,46.29,0.05,395.78
+SO-202502-0827,23/02/2025,west,Kenji Mori,Laptop Stand,Accessories,8,45.86,0,366.88
+SO-202502-0828,04/02/2025,south,Priya Raman,Cable Tray,Accessories,3,18.81,0.1,50.79
+SO-202502-0829,12/02/2025,east,Elena Petrova,Bookshelf,Furniture,1,117.61,0.05,111.73
+SO-202502-0830,24/02/2025,north,Jonas Weber,Wireless Keyboard,Peripherals,4,57.8,0,231.2
+SO-202502-0831,25/02/2025,west,Avery Lindqvist,Ergonomic Chair,Furniture,1,244.33,0.15,207.68
+SO-202502-0832,08/02/2025,east,Noor Haddad,Cable Tray,Accessories,2,19.78,0.1,35.6
+SO-202502-0833,05/02/2025,north,Tariq Aziz,Bookshelf,Furniture,3,123.4,0.1,333.18
+SO-202502-0315,14/02/2025,south,Imani Okafor,Filing Cabinet,Furniture,12,133.67,0.05,1523.84
+SO-202502-0834,06/02/2025,south,Mateo Ruiz,Ergonomic Chair,Furniture,6,250.16,0.15,1275.82
+SO-202502-0835,06/02/2025,west,Priya Raman,Ergonomic Chair,Furniture,4,249.38,0.1,897.77
+SO-202502-0836,14/02/2025,central,Elena Petrova,Wireless Keyboard,Peripherals,11,57.02,0.1,564.5
+SO-202502-0837,03/02/2025,east,Noor Haddad,USB-C Hub,Peripherals,1,65.18,0,65.18
+SO-202502-0838,26/02/2025,south,Jonas Weber,Wireless Keyboard,Peripherals,12,61.11,0.1,659.99
+SO-202502-0839,14/02/2025,north,Tariq Aziz,Desk Lamp,Lighting,4,40.0,0,160.0
+SO-202502-0840,14/02/2025,north,Tariq Aziz,Standing Desk,Furniture,12,332.14,0.05,3786.4
+SO-202502-0841,27/02/2025,east,Kenji Mori,Ergonomic Chair,Furniture,1,253.44,0,253.44
+SO-202502-0842,24/02/2025,south,Imani Okafor,Webcam HD,Peripherals,3,73.35,0,220.05
+SO-202502-0843,18/02/2025,east,Imani Okafor,Wireless Keyboard,Peripherals,4,57.99,0.05,220.36
+SO-202502-0844,19/02/2025,west,Mateo Ruiz,Webcam HD,Peripherals,4,76.19,0.05,289.52
+SO-202502-0845,19/02/2025,south,Kenji Mori,Monitor Arm,Accessories,12,86.67,0.05,988.04
+SO-202502-0846,24/02/2025,west,Mateo Ruiz,Cable Tray,Accessories,5,19.94,0,99.7
+SO-202502-0452,08/02/2025,east,Priya Raman,Task Light,Lighting,4,52.79,0.15,179.49
+SO-202502-0847,28/02/2025,north,Avery Lindqvist,Wireless Keyboard,Peripherals,2,57.45,0.05,109.16
+SO-202502-0848,17/02/2025,north,Mateo Ruiz,Monitor Arm,Accessories,5,89.93,0,449.65
+SO-202502-0849,22/02/2025,south,Noor Haddad,Desk Lamp,Lighting,10,38.61,0,386.1
+SO-202502-0850,19/02/2025,south,Tariq Aziz,Task Light,Lighting,1,54.41,0.05,51.69
+SO-202502-0851,16/02/2025,central,Kenji Mori,Monitor Arm,Accessories,10,89.88,0.15,763.98
+SO-202502-0852,25/02/2025,north,Mateo Ruiz,Cable Tray,Accessories,3,19.02,0.15,48.5
+SO-202502-0853,07/02/2025,east,Priya Raman,Wireless Keyboard,Peripherals,10,61.2,0.1,550.8
+SO-202502-0854,06/02/2025,east,Tariq Aziz,Cable Tray,Accessories,3,20.01,0.05,57.03
+SO-202502-0855,28/02/2025,north,Priya Raman,Monitor Arm,Accessories,2,85.95,0.1,154.71
+SO-202502-0856,18/02/2025,east,Imani Okafor,Filing Cabinet,Furniture,12,135.75,0,1629.0
+SO-202502-0857,03/02/2025,south,Sofia Duarte,Laptop Stand,Accessories,3,44.71,0,134.13
+SO-202502-0858,06/02/2025,east,Mateo Ruiz,Standing Desk,Furniture,11,334.19,0.1,3308.48
+SO-202502-0859,05/02/2025,west,Avery Lindqvist,Bookshelf,Furniture,6,121.18,0.15,618.02
+SO-202502-0860,03/02/2025,south,Imani Okafor,USB-C Hub,Peripherals,5,63.32,0.15,269.11
+SO-202502-0861,16/02/2025,west,Kenji Mori,Webcam HD,Peripherals,9,76.57,0.1,620.22
+SO-202502-0862,15/02/2025,south,Noor Haddad,Desk Lamp,Lighting,7,41.32,0,289.24
+SO-202502-0863,25/02/2025,north,Kenji Mori,Cable Tray,Accessories,12,19.4,0.05,221.16
+SO-202502-0864,16/02/2025,south,Tariq Aziz,Wireless Keyboard,Peripherals,7,60.98,0,426.86
+SO-202502-0865,02/02/2025,north,Mateo Ruiz,Webcam HD,Peripherals,6,71.89,0.05,409.77
+SO-202502-0866,21/02/2025,central,Noor Haddad,USB-C Hub,Peripherals,4,66.37,0,265.48
+SO-202502-0867,22/02/2025,east,Imani Okafor,Task Light,Lighting,2,55.79,0.15,94.84
+SO-202502-0868,09/02/2025,east,Elena Petrova,USB-C Hub,Peripherals,1,64.57,0.1,58.11
+SO-202502-0869,18/02/2025,east,Tariq Aziz,Desk Lamp,Lighting,4,39.7,0.1,142.92
+SO-202502-0870,09/02/2025,south,Imani Okafor,Wireless Keyboard,Peripherals,11,60.28,0.1,596.77
+SO-202502-0871,13/02/2025,south,Imani Okafor,Wireless Keyboard,Peripherals,7,56.72,0.05,377.19
+SO-202502-0872,03/02/2025,central,Sofia Duarte,Filing Cabinet,Furniture,7,140.71,0.15,837.22
+SO-202502-0873,11/02/2025,south,Imani Okafor,Desk Lamp, Lighting  ,2,39.88,0.15,67.8
+SO-202502-0874,19/02/2025,south,Sofia Duarte,Bookshelf,Furniture,6,120.95,0.05,689.42
+SO-202502-0875,21/02/2025,east,Kenji Mori,Desk Lamp,Lighting,9,40.72,0,366.48
+SO-202502-0876,12/02/2025,central,Elena Petrova,Monitor Arm,Accessories,1,88.61,0.15,75.32
+SO-202502-0877,02/02/2025,central,Sofia Duarte,Webcam HD,Peripherals,6,75.83,0,454.98
+SO-202502-0878,27/02/2025,central,Tariq Aziz,Laptop Stand,Accessories,2,44.99,0.1,80.98
+SO-202502-0879,09/02/2025,east,Tariq Aziz,Standing Desk,Furniture,4,333.07,0.05,1265.67
+SO-202502-0880,06/02/2025,east,Elena Petrova,Wireless Keyboard,Peripherals,11,57.61,0.1,570.34
+SO-202502-0881,27/02/2025,north,Avery Lindqvist,Webcam HD,Peripherals,2,72.7,0.1,130.86
+SO-202502-0882,21/02/2025,south,Elena Petrova,Monitor Arm,Accessories,12,87.54,0.15,892.91
+SO-202502-0883,05/02/2025,north,Mateo Ruiz,Filing Cabinet,Furniture,9,134.74,0,1212.66
+SO-202502-0884,07/02/2025,east,Noor Haddad,Cable Tray,Accessories,7,20.12,0,140.84
+SO-202502-0885,10/02/2025,east,Tariq Aziz,Monitor Arm,Accessories,9,91.06,0,819.54
+SO-202502-0886,19/02/2025,east,Elena Petrova,Wireless Keyboard,Peripherals,1,57.45,0,57.45
+SO-202502-0887,24/02/2025,east,Tariq Aziz,USB-C Hub,Peripherals,6,66.19,0.05,377.28
+SO-202502-0888,24/02/2025,west,Mateo Ruiz,Desk Lamp,Lighting,1,39.45,0.1,35.51
+SO-202502-0889,09/02/2025,west,Avery Lindqvist,Standing Desk,Furniture,5,323.57,0,1617.85
+SO-202502-0890,14/02/2025,east,Kenji Mori,Task Light,Lighting,7,52.82,0.15,314.28
+SO-202502-0891,22/02/2025,north,Sofia Duarte, Filing Cabinet  ,Furniture,5,142.26,0.1,640.17
+SO-202502-0892,10/02/2025,north,Mateo Ruiz,Bookshelf,Furniture,2,115.14,0.15,195.74
+SO-202502-0893,13/02/2025,central,Avery Lindqvist,Laptop Stand,Accessories,11,44.45,0,488.95
+SO-202502-0894,14/02/2025,north,Mateo Ruiz,Monitor Arm,Accessories,1,92.46,0.05,87.84
+SO-202502-0895,09/02/2025,central,Priya Raman,Wireless Keyboard,Peripherals,11,59.28,0,652.08
+SO-202502-0896,24/02/2025,west,Mateo Ruiz,Bookshelf,Furniture,11,121.91,0,1341.01
+SO-202502-0897,08/02/2025,central,Tariq Aziz,Monitor Arm,Accessories,5,90.78,0,453.9
+SO-202502-0898,07/02/2025,east,Mateo Ruiz,Ergonomic Chair,Furniture,2,257.67,0.05,489.57
+SO-202502-0899,24/02/2025,east,Priya Raman,USB-C Hub,Peripherals,2,65.37,0,130.74
+SO-202502-0900,19/02/2025,south,Noor Haddad,Webcam HD,Peripherals,11,72.62,0.05,758.88
+SO-202502-0901,16/02/2025,west,Kenji Mori,Wireless Keyboard,Peripherals,1,59.88,0,59.88
+SO-202502-0902,22/02/2025,north,Jonas Weber,Ergonomic Chair,Furniture,9,246.8,0,2221.2
+SO-202502-0903,09/02/2025,east,Sofia Duarte,Standing Desk,Furniture,2,330.88,0.05,628.67
+SO-202502-0904,11/02/2025,north,Mateo Ruiz,Ergonomic Chair,Furniture,10,240.39,0,2403.9
+,16/02/2025,south,Tariq Aziz,USB-C Hub,Peripherals,6,64.23,0.1,346.84
+SO-202502-0906,03/02/2025,west,Imani Okafor,Monitor Arm,Accessories,2,90.54,0.05,172.03
+SO-202502-0907,06/02/2025,central,Tariq Aziz,Standing Desk,Furniture,3,340.66,0,1021.98
+SO-202502-0908,27/02/2025,north,Imani Okafor,Wireless Keyboard,Peripherals,9,59.22,0,532.98
+SO-202502-0909,13/02/2025,north,Imani Okafor,Desk Lamp,Lighting,12,40.83,0.1,440.96
+SO-202502-0910,20/02/2025,east,Mateo Ruiz,Filing Cabinet,Furniture,1,137.67,0.15,117.02
+SO-202502-0911,16/02/2025,north,Kenji Mori,Task Light,Lighting,5,52.19,0.05,247.9
+SO-202502-0912,15/02/2025,north,Jonas Weber,Monitor Arm,Accessories,11,88.16,0.1,872.78
+SO-202502-0913,12/02/2025,north,Tariq Aziz,Bookshelf,Furniture,12,119.88,0,1438.56
+SO-202502-0914,15/02/2025,north,Avery Lindqvist,Webcam HD,Peripherals,10,71.7,0,717.0
+SO-202502-0915,09/02/2025,north,Avery Lindqvist, Ergonomic Chair  ,Furniture,7,247.38,0,1731.66
+SO-202502-0916,11/02/2025,south,Priya Raman,Monitor Arm,Accessories,9,88.79,0.1,719.2
+SO-202502-0917,20/02/2025,north,Noor Haddad,USB-C Hub,Peripherals,3,64.53,0.15,164.55
+SO-202502-0918,02/02/2025,central,Mateo Ruiz,Cable Tray,Accessories,7,20.2,0,141.4
+SO-202502-0919,26/02/2025,east,Elena Petrova,USB-C Hub,Peripherals,9,65.68,0,591.12
+SO-202502-0920,14/02/2025,north,Elena Petrova,Webcam HD,Peripherals,4,77.07,0.15,262.04
+SO-202502-0921,15/02/2025,central,Imani Okafor,Bookshelf,Furniture,7,115.89,0.05,
+SO-202502-0922,28/02/2025,north,Mateo Ruiz,Cable Tray,Accessories,2,19.15,0.1,34.47
+SO-202502-0923,05/02/2025,west,Sofia Duarte,Cable Tray,Accessories,8,19.29,0,154.32
+SO-202502-0924,18/02/2025,west,Avery Lindqvist,Webcam HD,Peripherals,4,77.42,0.1,278.71
+SO-202502-0925,26/02/2025,west,Mateo Ruiz,Webcam HD,Peripherals,4,73.88,0.15,251.19
+SO-202502-0926,08/02/2025,north,Noor Haddad,Wireless Keyboard,Peripherals,9,57.23,0.1,463.56
+SO-202502-0927,18/02/2025,central,Kenji Mori,Wireless Keyboard,Peripherals,2,59.64,0.05,113.32
+SO-202502-0928,09/02/2025,north,Mateo Ruiz,Standing Desk,Furniture,8,339.81,0.1,2446.63
+SO-202502-0929,28/02/2025,east,Tariq Aziz,Wireless Keyboard,Peripherals,6,60.13,0,360.78
+SO-202502-0930,08/02/2025,east,Mateo Ruiz,Desk Lamp,Lighting,3,39.06,0.15,99.6
+SO-202502-0931,26/02/2025,north,Avery Lindqvist,Standing Desk,Furniture,11,327.49,0,3602.39
+SO-202502-0932,24/02/2025,west,Imani Okafor,Laptop Stand,Accessories,3,43.56,0.15,111.08
+SO-202502-0614,02/02/2025,north,Avery Lindqvist,Webcam HD,Peripherals,10,71.66,0.05,680.77
+SO-202502-0933,21/02/2025,east,Avery Lindqvist,Filing Cabinet,Furniture,6,141.81,0.1,765.77
+SO-202502-0934,16/02/2025,south,Mateo Ruiz,Laptop Stand,Accessories,4,43.21,0.05,164.2
+SO-202502-0935,11/02/2025,west,Sofia Duarte,Task Light,Lighting,4,54.12,0.1,194.83
+SO-202502-0936,11/02/2025,west,Jonas Weber,Cable Tray,Accessories,8,19.22,0.1,138.38
+SO-202502-0937,05/02/2025,west,Sofia Duarte,Task Light,Lighting,12,52.64,0.15,536.93
+SO-202502-0938,22/02/2025,south,Elena Petrova,Wireless Keyboard,Peripherals,11,59.2,0,651.2
+SO-202502-0939,05/02/2025,north,Avery Lindqvist,Laptop Stand,Accessories,5,44.25,0.05,210.19
+SO-202502-0940,02/02/2025,south,Priya Raman,Cable Tray,Accessories,3,18.88,0.05,53.81
+SO-202502-0941,20/02/2025,west,Priya Raman,Webcam HD,Peripherals,9,73.94,0,665.46
+SO-202502-0942,28/02/2025,west,Avery Lindqvist,Task Light,Lighting,9,55.36,0.05,473.33
+SO-202502-0943,23/02/2025,south,Sofia Duarte,Wireless Keyboard,Peripherals,12,57.91,0.15,590.68
+SO-202502-0944,12/02/2025,east,Noor Haddad,Webcam HD,Peripherals,5,76.54,0.05,363.57
+SO-202502-0945,03/02/2025,south,Imani Okafor,Cable Tray,Accessories,8,19.41,0,155.28
+SO-202502-0946,09/02/2025,north,Sofia Duarte,Bookshelf,Furniture,9,118.85,0.1,962.69
+SO-202502-0947,10/02/2025,central,Mateo Ruiz,Task Light,Lighting,2,55.14,0.15,93.74
+SO-202502-0948,10/02/2025,east,Sofia Duarte,Wireless Keyboard,Peripherals,4,59.21,0,236.84
+SO-202502-0949,02/02/2025,north,Mateo Ruiz,Wireless Keyboard,Peripherals,5,58.74,0.15,249.65
+SO-202502-0950,15/02/2025,south,Sofia Duarte,Desk Lamp, Lighting  ,6,39.07,0.1,210.98
+SO-202502-0951,09/02/2025,central,Noor Haddad,Desk Lamp,Lighting,9,40.03,0.1,324.24
+SO-202502-0952,01/02/2025,west,Elena Petrova,Desk Lamp,Lighting,2,40.08,0.1,72.14
+SO-202502-0953,18/02/2025,east,Avery Lindqvist,Task Light,Lighting,11,54.34,0,597.74
+SO-202502-0954,04/02/2025,east,Imani Okafor,Bookshelf,Furniture,10,118.98,0,1189.8
+SO-202502-0955,05/02/2025,north,Sofia Duarte,Monitor Arm,Accessories,2,90.14,0.05,171.27
+SO-202502-0956,27/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,12,142.96,0.1,1543.97
+SO-202502-0957,15/02/2025,south,Priya Raman,Desk Lamp, Lighting  ,11,40.13,0,441.43
+SO-202502-0958,02/02/2025,north,Elena Petrova,Ergonomic Chair,Furniture,1,258.58,0.1,232.72
+SO-202502-0959,01/02/2025,south,Tariq Aziz,Monitor Arm,Accessories,5,91.7,0,458.5
+SO-202502-0960,11/02/2025,east,Jonas Weber,Standing Desk,Furniture,6,319.96,0.1,1727.78
+SO-202502-0961,21/02/2025,north,Imani Okafor,Filing Cabinet,Furniture,3,140.97,0,422.91
+SO-202502-0962,27/02/2025,south,Imani Okafor,USB-C Hub,Peripherals,4,63.16,0.1,227.38
+SO-202502-0963,05/02/2025,central,Kenji Mori,Laptop Stand,Accessories,5,43.83,0.05,208.19
+SO-202502-0964,28/02/2025,north,Noor Haddad,Webcam HD,Peripherals,7,72.6,0,508.2
+SO-202502-0965,17/02/2025,north,Jonas Weber,Monitor Arm,Accessories,1,89.67,0,89.67
+SO-202502-0966,22/02/2025,south,Priya Raman,USB-C Hub,Peripherals,11,66.26,0.1,655.97
+SO-202502-0967,08/02/2025,east,Mateo Ruiz,Ergonomic Chair,Furniture,6,253.38,0.15,1292.24
+SO-202502-0968,27/02/2025,north,Elena Petrova,USB-C Hub,Peripherals,4,65.98,0.05,250.72
+SO-202502-0969,22/02/2025,central,Sofia Duarte,Wireless Keyboard,Peripherals,10,57.54,0,575.4
+SO-202502-0970,19/02/2025,north,Tariq Aziz,Task Light,Lighting,10,52.5,0.1,472.5
+SO-202502-0971,10/02/2025,north,Kenji Mori,Webcam HD,Peripherals,10,77.17,0.05,733.12
+SO-202502-0972,25/02/2025,south,Elena Petrova,Webcam HD,Peripherals,5,75.53,0.05,358.77
+SO-202502-0973,26/02/2025,south,Priya Raman,Monitor Arm,Accessories,1,90.26,0,90.26
+SO-202502-0974,05/02/2025,south,Sofia Duarte,Standing Desk,Furniture,5,333.47,0.05,1583.98
+SO-202502-0975,16/02/2025,central,Avery Lindqvist,Desk Lamp,Lighting,7,39.35,0.05,261.68
+SO-202502-0976,01/02/2025,north,Mateo Ruiz,Bookshelf,Furniture,3,115.42,0.15,294.32
+SO-202502-0977,28/02/2025,north,Mateo Ruiz,Standing Desk,Furniture,3,329.23,0,987.69
+SO-202502-0978,13/02/2025,north,Elena Petrova,Webcam HD,Peripherals,11,73.9,0.05,772.26
+SO-202502-0979,03/02/2025,north,Imani Okafor,Monitor Arm,Accessories,11,86.6,0.05,904.97
+SO-202502-0980,05/02/2025,central,Priya Raman,Laptop Stand,Accessories,8,45.43,0.1,327.1
+SO-202502-0981,02/02/2025,south,Tariq Aziz,Ergonomic Chair,Furniture,11,253.1,0,2784.1
+SO-202502-0982,06/02/2025,west,Tariq Aziz,Filing Cabinet,Furniture,4,138.61,0,554.44
+SO-202502-0983,23/02/2025,south,Tariq Aziz,Monitor Arm,Accessories,12,86.59,0.15,883.22
+SO-202502-0984,06/02/2025,north,Tariq Aziz,Laptop Stand,Accessories,3,44.48,0,133.44
+SO-202502-0985,08/02/2025,south,Kenji Mori,Monitor Arm,Accessories,12,86.52,0.1,934.42
+SO-202502-0986,04/02/2025,east,Mateo Ruiz,Monitor Arm,Accessories,7,91.66,0,641.62
+SO-202502-0987,15/02/2025,north,Priya Raman,Wireless Keyboard,Peripherals,4,60.96,0.1,219.46
+SO-202502-0988,10/02/2025,north,Avery Lindqvist,Cable Tray,Accessories,6,19.82,0.05,112.97
+SO-202502-0989,09/02/2025,south,Mateo Ruiz,Desk Lamp,Lighting,5,41.19,0,205.95
+SO-202502-0990,05/02/2025,central,Sofia Duarte,Task Light,Lighting,12,55.72,0.1,601.78
+SO-202502-0991,19/02/2025,west,Imani Okafor,Desk Lamp,Lighting,7,40.08,0.1,252.5
+SO-202502-0992,01/02/2025,north,Elena Petrova,Laptop Stand,Accessories,1,43.7,0.1,39.33
+SO-202502-0993,20/02/2025,north,Elena Petrova,Laptop Stand,Accessories,7,46.1,0.15,274.3
+SO-202502-0994,18/02/2025,west,Noor Haddad,Task Light,Lighting,4,54.16,0,216.64
+SO-202502-0995,21/02/2025,east,Noor Haddad,Webcam HD,Peripherals,4,73.96,0,295.84
+SO-202502-0996,15/02/2025,west,Mateo Ruiz,Webcam HD,Peripherals,7,71.57,0.15,425.84
+SO-202502-0997,08/02/2025,south,Elena Petrova,Desk Lamp,Lighting,9,40.64,0,365.76
+SO-202502-0998,19/02/2025,west,Mateo Ruiz,Standing Desk,Furniture,8,325.02,0,2600.16
+SO-202502-0999,28/02/2025,north,Imani Okafor,Wireless Keyboard, Peripherals  ,5,59.23,0.1,266.54
+SO-202502-1000,26/02/2025,south,Kenji Mori,USB-C Hub,Peripherals,8,63.45,0.05,482.22
+SO-202502-1001,09/02/2025,south,Jonas Weber,Monitor Arm,Accessories,12,89.18,0,1070.16
+SO-202502-1002,20/02/2025,west,Imani Okafor,Filing Cabinet,Furniture,6,138.6,0.15,706.86
+SO-202502-1003,27/02/2025,central,Mateo Ruiz,Wireless Keyboard,Peripherals,3,57.54,0,172.62
+SO-202502-1004,24/02/2025,south,Mateo Ruiz,Filing Cabinet,Furniture,12,138.73,0,1664.76
+SO-202502-1005,02/02/2025,north,Avery Lindqvist,USB-C Hub,Peripherals,12,62.24,0.05,709.54
+SO-202502-1006,18/02/2025,east,Jonas Weber,Filing Cabinet,Furniture,8,141.62,0.15,963.02
+SO-202502-1007,23/02/2025,north,Kenji Mori,Filing Cabinet,Furniture,3,142.38,0,427.14
+SO-202502-1008,12/02/2025,north,Kenji Mori,Monitor Arm,Accessories,9,88.81,0.1,719.36
+SO-202502-1009,27/02/2025,west,Jonas Weber,Task Light,Lighting,11,55.34,0.1,547.87
+SO-202502-1010,20/02/2025,north,Elena Petrova,Webcam HD,Peripherals,11,76.06,0,836.66
+SO-202502-1011,10/02/2025,south,Kenji Mori,Webcam HD,Peripherals,3,76.76,0.1,207.25
+SO-202502-1012,18/02/2025,south,Sofia Duarte,Filing Cabinet,Furniture,6,137.3,0,823.8
+SO-202502-1013,06/02/2025,central,Kenji Mori,Monitor Arm,Accessories,3,86.1,0,258.3
+SO-202502-1014,28/02/2025,east,Kenji Mori,USB-C Hub,Peripherals,4,61.7,0,246.8
+SO-202502-1015,16/02/2025,north,Elena Petrova,Laptop Stand,Accessories,9,46.51,0.05,397.66
+SO-202502-1016,26/02/2025,north,Elena Petrova,Task Light,Lighting,12,54.56,0.1,589.25
+Total,,,,,,,,,644594.68

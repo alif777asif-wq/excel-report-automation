@@ -1,0 +1,5 @@
+The boards embed three open-source font families (latin subset, WOFF2), all under the SIL Open Font License 1.1:
+  Source Serif 4    (Adobe)
+  Hanken Grotesk    (Hanken Design Co.)
+  JetBrains Mono    (JetBrains)
+Files come from the Fontsource packages. License text: https://openfontlicense.org

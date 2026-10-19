@@ -1,0 +1,135 @@
+{
+  "environment": "synthetic monthly sales exports generated locally (fictional reps and products), no real data",
+  "generated_at": "2026-10-17T23:33:57",
+  "tools": {
+    "python": "3.12.3",
+    "pandas": "3.0.2",
+    "xlsxwriter": "3.2.9",
+    "openpyxl": "3.1.5",
+    "libreoffice": "LibreOffice 24.2.7.2 420(Build:2)"
+  },
+  "files": {
+    "count": 12,
+    "csv": 8,
+    "xlsx": 4,
+    "header_styles": 3,
+    "date_styles": 4
+  },
+  "cleaning": {
+    "blank_rows": 71,
+    "footer_rows": 5,
+    "missing_id_rejected": 38,
+    "duplicates_removed": 160,
+    "amounts_recomputed": 89,
+    "text_numbers_converted": 14228,
+    "dates_normalized": 6765,
+    "region_labels_standardized": 7614,
+    "cells_trimmed": 2140,
+    "rows_read": 11716,
+    "rows_kept": 11442,
+    "ambiguous_dates": 0,
+    "amount_mismatches": 0,
+    "fixes_total": 31110,
+    "seconds": 0.72,
+    "log_matches_injected_files": 12,
+    "files_checked": 12,
+    "ground_truth": {
+      "true_orders": 11442,
+      "cleaned_orders": 11442,
+      "same_order_ids": true,
+      "orders_with_wrong_field": 0,
+      "revenue_matches": true
+    }
+  },
+  "workbook": {
+    "orders": 11442,
+    "revenue": 7496987.86,
+    "units": 73979,
+    "sheets": 5,
+    "size_bytes": 639338,
+    "build_seconds": 1.01,
+    "by_region": {
+      "Central": {
+        "orders": 1315,
+        "units": 8533,
+        "revenue": 824458.98
+      },
+      "East": {
+        "orders": 2260,
+        "units": 14714,
+        "revenue": 1526294.16
+      },
+      "North": {
+        "orders": 3124,
+        "units": 20278,
+        "revenue": 2090722.24
+      },
+      "South": {
+        "orders": 2626,
+        "units": 17018,
+        "revenue": 1734604.22
+      },
+      "West": {
+        "orders": 2117,
+        "units": 13436,
+        "revenue": 1320908.26
+      }
+    },
+    "monthly_total": [
+      684932.83,
+      644594.68,
+      567464.98,
+      627491.67,
+      622055.13,
+      581421.51,
+      618177.29,
+      631561.38,
+      570288.26,
+      641707.57,
+      684398.92,
+      622893.64
+    ],
+    "months": [
+      "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12"
+    ],
+    "last_row": 11443
+  },
+  "verification": {
+    "engine": "LibreOffice 24.2.7.2 420(Build:2)",
+    "formulas": 149,
+    "by_sheet": {
+      "Summary": 7,
+      "By Region": 30,
+      "Monthly": 89,
+      "Cleaning Log": 23
+    },
+    "mismatches": 0,
+    "errors": 0,
+    "max_abs_deviation": 4.547473508864641e-13,
+    "recalc_seconds": 2.4,
+    "selftest_caught": true
+  },
+  "pipeline_seconds": 1.72,
+  "refresh": {
+    "new_file": "sales_2026-01.csv",
+    "files": 13,
+    "months_after": 13,
+    "orders_added": 1019,
+    "formulas": 157,
+    "mismatches": 0,
+    "errors": 0,
+    "pipeline_seconds": 2.05,
+    "orders_with_wrong_field": 0
+  }
+}

@@ -1,0 +1,975 @@
+OrderID,OrderDate,Area,Rep,Item,Cat,Units,UnitPrice,Disc,Total
+SO-202504-0001,"Apr 07, 2025",EAST,Priya Raman,Ergonomic Chair,Furniture,5,$244.05,5%,"$1,159.24"
+SO-202504-0002,"Apr 30, 2025",WEST,Imani Okafor,Standing Desk,Furniture,3,$322.68,5%,$919.64
+SO-202504-0003,"Apr 21, 2025",NORTH,Tariq Aziz,Desk Lamp,Lighting,12,$39.87,0%,$478.44
+SO-202504-0004,"Apr 27, 2025",SOUTH,Kenji Mori,Desk Lamp,Lighting,7,$39.21,0%,$274.47
+SO-202504-0005,"Apr 12, 2025",SOUTH,Mateo Ruiz,Monitor Arm,Accessories,1,$88.61,15%,$75.32
+SO-202504-0006,"Apr 17, 2025",NORTH,Priya Raman,Standing Desk,Furniture,2,$319.60,5%,$607.24
+SO-202504-0007,"Apr 10, 2025",EAST,Elena Petrova,Cable Tray,Accessories,11,$19.38,0%,$213.18
+SO-202504-0008,"Apr 10, 2025",EAST,Priya Raman,Task Light,Lighting,6,$54.57,15%,$278.31
+SO-202504-0009,"Apr 06, 2025",CENTRAL,Priya Raman,Wireless Keyboard,Peripherals,5,$60.79,0%,$303.95
+SO-202504-0010,"Apr 03, 2025",SOUTH,Imani Okafor,Task Light,Lighting,6,$52.68,10%,$284.47
+SO-202504-0011,"Apr 11, 2025",SOUTH,Mateo Ruiz,Monitor Arm,Accessories,7,$86.77,10%,$546.65
+SO-202504-0012,"Apr 22, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,9,$57.67,0%,$519.03
+SO-202504-0013,"Apr 29, 2025",EAST,Imani Okafor,Laptop Stand,Accessories,10,$46.17,10%,$415.53
+SO-202504-0014,"Apr 20, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,12,$120.09,5%,"$1,369.03"
+SO-202504-0015,"Apr 15, 2025",CENTRAL,Sofia Duarte,Desk Lamp,Lighting,1,$39.18,15%,$33.30
+SO-202504-0016,"Apr 28, 2025",WEST,Elena Petrova,USB-C Hub,Peripherals,7,$63.99,5%,$425.53
+,,,,,,,,,
+SO-202504-0017,"Apr 06, 2025",NORTH,Noor Haddad,USB-C Hub,Peripherals,1,$61.60,5%,$58.52
+SO-202504-0018,"Apr 10, 2025",NORTH,Noor Haddad,Monitor Arm,Accessories,11,$89.52,0%,$984.72
+SO-202504-0019,"Apr 12, 2025",SOUTH,Sofia Duarte,USB-C Hub, Peripherals  ,12,$65.41,15%,$667.18
+SO-202504-0020,"Apr 14, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,5,$134.57,0%,$672.85
+SO-202504-0021,"Apr 15, 2025",NORTH,Imani Okafor,Task Light,Lighting,3,$53.08,5%,$151.28
+SO-202504-0022,"Apr 03, 2025",WEST,Mateo Ruiz,Webcam HD,Peripherals,2,$72.13,5%,$137.05
+SO-202504-0023,"Apr 13, 2025",WEST,Noor Haddad,Ergonomic Chair,Furniture,8,$252.14,0%,"$2,017.12"
+SO-202504-0024,"Apr 16, 2025",CENTRAL,Tariq Aziz,Desk Lamp,Lighting,12,$39.79,15%,$405.86
+SO-202504-0025,"Apr 07, 2025",NORTH,Priya Raman,Wireless Keyboard,Peripherals,7,$56.78,5%,$377.59
+SO-202504-0026,"Apr 30, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,4,$44.70,0%,$178.80
+SO-202504-0027,"Apr 25, 2025",NORTH,Sofia Duarte,Webcam HD, Peripherals  ,1,$76.11,10%,$68.50
+SO-202504-0028,"Apr 11, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,11,$316.98,15%,"$2,963.76"
+SO-202504-0029,"Apr 01, 2025",CENTRAL,Avery Lindqvist,Bookshelf,Furniture,11,$118.41,15%,"$1,107.13"
+SO-202504-0030,"Apr 12, 2025",NORTH,Mateo Ruiz,Wireless Keyboard,Peripherals,12,$58.83,5%,$670.66
+SO-202504-0031,"Apr 26, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,6,$40.37,0%,$242.22
+SO-202504-0032,"Apr 20, 2025",NORTH,Elena Petrova,Bookshelf,Furniture,7,$122.00,0%,$854.00
+SO-202504-0033,"Apr 15, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,8,$257.78,5%,"$1,959.13"
+SO-202504-0034,"Apr 02, 2025",CENTRAL,Mateo Ruiz,Cable Tray,Accessories,7,$19.37,0%,$135.59
+SO-202504-0035,"Apr 09, 2025",EAST,Jonas Weber,Bookshelf,Furniture,5,$119.23,15%,$506.73
+SO-202504-0036,"Apr 14, 2025",NORTH,Jonas Weber,Webcam HD,Peripherals,8,$73.06,10%,$526.03
+SO-202504-0037,"Apr 09, 2025",EAST,Sofia Duarte,Task Light,Lighting,9,$54.03,0%,$486.27
+SO-202504-0038,"Apr 09, 2025",NORTH,Elena Petrova,USB-C Hub,Peripherals,11,$63.47,5%,$663.26
+SO-202504-0039,"Apr 22, 2025",NORTH,Jonas Weber, Task Light  ,Lighting,11,$52.64,5%,$550.09
+SO-202504-0040,"Apr 01, 2025",WEST,Imani Okafor,Ergonomic Chair,Furniture,5,$257.08,15%,"$1,092.59"
+SO-202504-0041,"Apr 14, 2025",SOUTH,Noor Haddad,Laptop Stand,Accessories,7,$44.82,10%,$282.37
+SO-202504-0042,"Apr 03, 2025",EAST,Elena Petrova,Cable Tray,Accessories,1,$19.55,0%,$19.55
+SO-202504-0043,"Apr 18, 2025",CENTRAL,Priya Raman,Ergonomic Chair,Furniture,2,$252.75,15%,$429.68
+SO-202504-0656,"Apr 15, 2025",SOUTH,Noor Haddad,Standing Desk,Furniture,7,$320.11,0%,"$2,240.77"
+SO-202504-0044,"Apr 30, 2025",WEST,Avery Lindqvist,Cable Tray,Accessories,12,$20.21,15%,$206.14
+SO-202504-0045,"Apr 14, 2025",SOUTH,Tariq Aziz,Standing Desk,Furniture,3,$321.08,0%,$963.24
+SO-202504-0046,"Apr 23, 2025",WEST,Noor Haddad,Ergonomic Chair,Furniture,5,$245.30,5%,"$1,165.18"
+SO-202504-0047,"Apr 18, 2025",EAST,Sofia Duarte,Cable Tray,Accessories,10,$19.49,10%,$175.41
+SO-202504-0048,"Apr 07, 2025",EAST,Elena Petrova,Monitor Arm,Accessories,11,$89.31,0%,$982.41
+SO-202504-0049,"Apr 24, 2025",EAST,Elena Petrova,Filing Cabinet,Furniture,4,$137.81,15%,$468.55
+SO-202504-0050,"Apr 12, 2025",NORTH,Jonas Weber,Laptop Stand,Accessories,2,$45.71,0%,$91.42
+SO-202504-0051,"Apr 27, 2025",WEST,Sofia Duarte,Monitor Arm,Accessories,10,$87.33,0%,$873.30
+SO-202504-0052,"Apr 28, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,1,$86.12,0%,$86.12
+SO-202504-0053,"Apr 01, 2025",NORTH,Elena Petrova,Laptop Stand,Accessories,6,$44.16,10%,$238.46
+SO-202504-0054,"Apr 19, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,3,$19.27,5%,$54.92
+SO-202504-0055,"Apr 16, 2025",EAST,Mateo Ruiz,Cable Tray,Accessories,11,$18.84,0%,$207.24
+SO-202504-0056,"Apr 09, 2025",SOUTH,Imani Okafor,USB-C Hub,Peripherals,4,$63.91,10%,$230.08
+SO-202504-0057,"Apr 03, 2025",NORTH,Mateo Ruiz,Ergonomic Chair,Furniture,11,$250.18,15%,"$2,339.18"
+SO-202504-0058,"Apr 22, 2025",WEST,Mateo Ruiz,Standing Desk,Furniture,1,$332.27,0%,$332.27
+SO-202504-0059,"Apr 01, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,4,$63.38,5%,$240.84
+SO-202504-0682,"Apr 29, 2025",EAST,Sofia Duarte,USB-C Hub,Peripherals,11,$62.33,0%,$685.63
+SO-202504-0060,"Apr 11, 2025",WEST,Sofia Duarte,Task Light,Lighting,9,$55.59,0%,$500.31
+SO-202504-0061,"Apr 17, 2025",WEST,Avery Lindqvist,Wireless Keyboard, Peripherals  ,5,$57.13,0%,$285.65
+SO-202504-0062,"Apr 12, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,8,$72.07,10%,$518.90
+SO-202504-0063,"Apr 24, 2025",SOUTH,Kenji Mori,Filing Cabinet,Furniture,6,$143.26,15%,$730.63
+SO-202504-0064,"Apr 20, 2025",WEST,Elena Petrova,Webcam HD,Peripherals,10,$72.17,0%,$721.70
+SO-202504-0065,"Apr 19, 2025",WEST,Tariq Aziz,Ergonomic Chair,Furniture,9,$256.78,10%,"$2,079.92"
+SO-202504-0066,"Apr 19, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,11,$62.51,0%,$687.61
+SO-202504-0067,"Apr 13, 2025",NORTH,Noor Haddad,Bookshelf,Furniture,4,$115.33,0%,$461.32
+SO-202504-0068,"Apr 11, 2025",SOUTH,Noor Haddad,Laptop Stand,Accessories,4,$45.16,0%,$180.64
+SO-202504-0069,"Apr 10, 2025",EAST,Sofia Duarte,Bookshelf,Furniture,12,$121.78,0%,"$1,461.36"
+SO-202504-0070,"Apr 10, 2025",NORTH,Elena Petrova,Laptop Stand,Accessories,6,$44.68,15%,$227.87
+SO-202504-0071,"Apr 11, 2025",EAST,Mateo Ruiz,Filing Cabinet,Furniture,7,$142.54,15%,$848.11
+SO-202504-0072,"Apr 06, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,7,$60.62,5%,$403.12
+SO-202504-0073,"Apr 06, 2025",NORTH,Jonas Weber,Bookshelf,Furniture,1,$123.72,0%,$123.72
+SO-202504-0074,"Apr 16, 2025",SOUTH,Kenji Mori,Desk Lamp,Lighting,10,$40.52,0%,$405.20
+SO-202504-0075,"Apr 04, 2025",CENTRAL,Mateo Ruiz,Filing Cabinet,Furniture,9,$134.41,10%,"$1,088.72"
+SO-202504-0522,"Apr 06, 2025",WEST,Jonas Weber,Webcam HD,Peripherals,3,$76.00,15%,$193.80
+SO-202504-0076,"Apr 27, 2025",CENTRAL,Avery Lindqvist,Wireless Keyboard,Peripherals,7,$58.17,5%,$386.83
+SO-202504-0077,"Apr 19, 2025",EAST,Tariq Aziz,Monitor Arm,Accessories,2,$88.72,5%,$168.57
+SO-202504-0078,"Apr 05, 2025",SOUTH,Avery Lindqvist,Ergonomic Chair,Furniture,6,$257.92,0%,"$1,547.52"
+SO-202504-0079,"Apr 11, 2025",WEST,Elena Petrova,Ergonomic Chair,Furniture,8,$247.27,0%,"$1,978.16"
+SO-202504-0080,"Apr 21, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,4,$76.27,5%,$289.83
+SO-202504-0081,"Apr 09, 2025",NORTH,Imani Okafor,Filing Cabinet,Furniture,10,$144.00,10%,"$1,296.00"
+SO-202504-0082,"Apr 15, 2025",SOUTH,Kenji Mori,Webcam HD,Peripherals,6,$76.73,15%,$391.32
+SO-202504-0083,"Apr 30, 2025",EAST,Mateo Ruiz,Desk Lamp,Lighting,12,$38.95,5%,$444.03
+SO-202504-0084,"Apr 03, 2025",NORTH,Avery Lindqvist,Task Light,Lighting,7,$53.90,5%,$358.44
+SO-202504-0085,"Apr 25, 2025",WEST,Noor Haddad,Bookshelf,Furniture,1,$119.87,10%,$107.88
+SO-202504-0086,"Apr 05, 2025",NORTH,Noor Haddad,Filing Cabinet,Furniture,1,$138.24,5%,$131.33
+SO-202504-0087,"Apr 11, 2025",CENTRAL,Avery Lindqvist,Monitor Arm,Accessories,5,$86.29,15%,$366.73
+SO-202504-0088,"Apr 08, 2025",CENTRAL,Priya Raman,Ergonomic Chair,Furniture,9,$244.85,10%,"$1,983.29"
+SO-202504-0089,"Apr 24, 2025",NORTH,Jonas Weber,Wireless Keyboard,Peripherals,4,$59.74,15%,$203.12
+SO-202504-0090,"Apr 26, 2025",WEST,Avery Lindqvist,Desk Lamp,Lighting,5,$40.62,0%,$203.10
+SO-202504-0091,"Apr 26, 2025",EAST,Elena Petrova,Task Light,Lighting,4,$54.13,0%,$216.52
+SO-202504-0092,"Apr 14, 2025",CENTRAL,Imani Okafor,Wireless Keyboard,Peripherals,7,$60.45,15%,$359.68
+SO-202504-0093,"Apr 10, 2025",NORTH,Priya Raman,Task Light,Lighting,10,$53.01,15%,$450.59
+SO-202504-0094,"Apr 20, 2025",SOUTH,Sofia Duarte,Desk Lamp,Lighting,5,$39.80,15%,$169.15
+SO-202504-0095,"Apr 18, 2025",SOUTH,Elena Petrova,Filing Cabinet,Furniture,3,$143.91,5%,$410.14
+SO-202504-0096,"Apr 23, 2025",SOUTH,Avery Lindqvist,USB-C Hub,Peripherals,7,$64.41,10%,$405.78
+SO-202504-0097,"Apr 19, 2025",CENTRAL,Mateo Ruiz,Wireless Keyboard,Peripherals,2,$60.46,5%,$114.87
+SO-202504-0098,"Apr 01, 2025",CENTRAL,Tariq Aziz,Webcam HD,Peripherals,4,$74.16,0%,$296.64
+SO-202504-0099,"Apr 28, 2025",SOUTH,Avery Lindqvist,USB-C Hub,Peripherals,1,$64.39,5%,$61.17
+SO-202504-0100,"Apr 14, 2025",EAST,Tariq Aziz,Standing Desk,Furniture,8,$320.52,10%,"$2,307.74"
+SO-202504-0101,"Apr 30, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,5,$251.33,15%,"$1,068.15"
+SO-202504-0102,"Apr 07, 2025",NORTH,Kenji Mori,USB-C Hub,Peripherals,1,$65.88,0%,$65.88
+SO-202504-0103,"Apr 28, 2025",CENTRAL,Kenji Mori,Desk Lamp,Lighting,6,$41.38,15%,$211.04
+SO-202504-0104,"Apr 23, 2025",NORTH,Mateo Ruiz,Desk Lamp,Lighting,7,$39.86,0%,$279.02
+SO-202504-0105,"Apr 24, 2025",WEST,Kenji Mori,Filing Cabinet,Furniture,6,$134.04,5%,$764.03
+SO-202504-0106,"Apr 03, 2025",NORTH,Elena Petrova,Desk Lamp,Lighting,5,$40.72,10%,$183.24
+SO-202504-0107,"Apr 06, 2025",SOUTH,Noor Haddad,Filing Cabinet,Furniture,4,$136.63,10%,$491.87
+SO-202504-0354,"Apr 30, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,6,$119.31,5%,$680.07
+SO-202504-0108,"Apr 10, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,6,$135.07,15%,$688.86
+SO-202504-0109,"Apr 25, 2025",NORTH,Sofia Duarte,Monitor Arm,Accessories,12,$91.10,15%,$929.22
+SO-202504-0110,"Apr 21, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,11,$88.64,0%,$975.04
+SO-202504-0111,"Apr 24, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,7,$73.01,0%,$511.07
+SO-202504-0112,"Apr 10, 2025",SOUTH,Noor Haddad,Task Light,Lighting,8,$53.35,0%,$426.80
+SO-202504-0113,"Apr 24, 2025",SOUTH,Mateo Ruiz,Laptop Stand,Accessories,5,$44.53,0%,$222.65
+SO-202504-0114,"Apr 04, 2025",WEST,Tariq Aziz,Standing Desk,Furniture,11,$335.87,0%,"$3,694.57"
+SO-202504-0115,"Apr 10, 2025",WEST, Elena Petrova  ,Monitor Arm,Accessories,12,$91.35,10%,$986.58
+SO-202504-0116,"Apr 26, 2025",WEST,Kenji Mori,Bookshelf,Furniture,2,$119.43,0%,$238.86
+SO-202504-0117,"Apr 17, 2025",NORTH, Sofia Duarte  ,Webcam HD,Peripherals,11,$74.24,10%,$734.98
+SO-202504-0118,"Apr 20, 2025",CENTRAL,Sofia Duarte,Webcam HD,Peripherals,3,$75.87,0%,$227.61
+SO-202504-0119,"Apr 06, 2025",SOUTH,Tariq Aziz,Monitor Arm,Accessories,1,$85.96,0%,$85.96
+SO-202504-0120,"Apr 09, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,1,$59.36,0%,$59.36
+SO-202504-0121,"Apr 14, 2025",SOUTH,Priya Raman,Task Light,Lighting,3,$54.63,15%,$139.31
+SO-202504-0122,"Apr 24, 2025",CENTRAL,Imani Okafor,Ergonomic Chair,Furniture,5,$239.84,0%,"$1,199.20"
+SO-202504-0123,"Apr 24, 2025",NORTH,Elena Petrova,Webcam HD, Peripherals  ,12,$72.79,0%,$873.48
+,,,,,,,,,
+SO-202504-0124,"Apr 06, 2025",EAST,Kenji Mori,USB-C Hub,Peripherals,12,$64.74,10%,$699.19
+SO-202504-0125,"Apr 06, 2025",SOUTH,Kenji Mori,Webcam HD,Peripherals,11,$73.77,15%,$689.75
+SO-202504-0126,"Apr 09, 2025",NORTH,Sofia Duarte,Wireless Keyboard,Peripherals,10,$59.30,5%,$563.35
+SO-202504-0127,"Apr 18, 2025",EAST,Avery Lindqvist,Filing Cabinet,Furniture,6,$144.52,0%,$867.12
+SO-202504-0128,"Apr 22, 2025",EAST,Avery Lindqvist,Task Light,Lighting,11,$53.27,0%,$585.97
+SO-202504-0129,"Apr 29, 2025",EAST,Imani Okafor,Wireless Keyboard,Peripherals,6,$60.65,0%,$363.90
+SO-202504-0130,"Apr 06, 2025",SOUTH,Priya Raman,Task Light,Lighting,3,$55.39,15%,$141.24
+SO-202504-0131,"Apr 13, 2025",SOUTH,Noor Haddad,Monitor Arm,Accessories,6,$86.88,0%,$521.28
+SO-202504-0132,"Apr 05, 2025",WEST,Noor Haddad,Bookshelf,Furniture,11,$116.87,5%,"$1,221.29"
+SO-202504-0133,"Apr 11, 2025",EAST,Jonas Weber,Ergonomic Chair,Furniture,9,$246.21,0%,"$2,215.89"
+SO-202504-0134,"Apr 07, 2025",WEST,Sofia Duarte,Ergonomic Chair,Furniture,10,$239.20,0%,"$2,392.00"
+SO-202504-0135,"Apr 03, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,2,$54.07,0%,$108.14
+SO-202504-0136,"Apr 21, 2025",NORTH,Priya Raman,Webcam HD,Peripherals,7,$73.85,10%,$465.26
+SO-202504-0137,"Apr 04, 2025",SOUTH,Tariq Aziz,Webcam HD,Peripherals,11,$73.19,10%,$724.58
+SO-202504-0138,"Apr 09, 2025",EAST,Noor Haddad,Wireless Keyboard,Peripherals,5,$57.02,10%,$256.59
+SO-202504-0139,"Apr 06, 2025",EAST,Tariq Aziz,Filing Cabinet,Furniture,12,$142.78,0%,"$1,713.36"
+SO-202504-0140,"Apr 27, 2025",SOUTH,Kenji Mori,Laptop Stand,Accessories,11,$45.48,0%,$500.28
+SO-202504-0141,"Apr 19, 2025",WEST,Kenji Mori,Standing Desk,Furniture,5,$339.60,15%,"$1,443.30"
+SO-202504-0142,"Apr 29, 2025",EAST,Avery Lindqvist,Ergonomic Chair,Furniture,12,$241.24,0%,"$2,894.88"
+SO-202504-0143,"Apr 03, 2025",SOUTH,Avery Lindqvist,USB-C Hub,Peripherals,9,$66.26,5%,$566.52
+SO-202504-0144,"Apr 14, 2025",SOUTH,Mateo Ruiz,Standing Desk,Furniture,3,$320.15,5%,$912.43
+SO-202504-0145,"Apr 08, 2025",EAST,Imani Okafor,USB-C Hub,Peripherals,11,$62.49,0%,$687.39
+SO-202504-0146,"Apr 27, 2025",WEST,Kenji Mori,Bookshelf,Furniture,10,$118.08,10%,"$1,062.72"
+SO-202504-0147,"Apr 06, 2025",NORTH,Noor Haddad,Standing Desk,Furniture,12,$335.10,15%,"$3,418.02"
+SO-202504-0148,"Apr 20, 2025",EAST,Tariq Aziz,Standing Desk,Furniture,8,$329.20,5%,"$2,501.92"
+SO-202504-0149,"Apr 15, 2025",NORTH,Tariq Aziz,Desk Lamp,Lighting,9,$39.18,5%,$334.99
+SO-202504-0150,"Apr 07, 2025",NORTH,Jonas Weber,Bookshelf,Furniture,4,$121.17,15%,$411.98
+SO-202504-0151,"Apr 06, 2025",EAST,Sofia Duarte,Filing Cabinet,Furniture,1,$140.15,0%,$140.15
+SO-202504-0152,"Apr 05, 2025",NORTH,Elena Petrova,Desk Lamp,Lighting,3,$38.74,0%,$116.22
+SO-202504-0153,"Apr 08, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,10,$61.69,0%,$616.90
+SO-202504-0154,"Apr 28, 2025",NORTH,Imani Okafor,Ergonomic Chair,Furniture,12,$257.43,10%,"$2,780.24"
+SO-202504-0155,"Apr 07, 2025",NORTH,Noor Haddad,Webcam HD,Peripherals,12,$74.31,5%,$847.13
+SO-202504-0156,"Apr 03, 2025",CENTRAL,Sofia Duarte,Bookshelf,Furniture,12,$120.71,5%,"$1,376.09"
+SO-202504-0157,"Apr 10, 2025",NORTH,Elena Petrova,Webcam HD,Peripherals,11,$72.21,0%,$794.31
+SO-202504-0158,"Apr 18, 2025",CENTRAL,Avery Lindqvist,Cable Tray,Accessories,12,$20.07,5%,$228.80
+SO-202504-0159,"Apr 14, 2025",WEST,Priya Raman,Standing Desk,Furniture,2,$332.62,10%,$598.72
+SO-202504-0160,"Apr 30, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,9,$20.15,15%,$154.15
+SO-202504-0161,"Apr 12, 2025",SOUTH,Sofia Duarte,Webcam HD,Peripherals,8,$71.96,15%,$489.33
+SO-202504-0162,"Apr 07, 2025",EAST,Priya Raman,Laptop Stand,Accessories,6,$43.32,15%,$220.93
+SO-202504-0163,"Apr 13, 2025",CENTRAL,Avery Lindqvist,Wireless Keyboard,Peripherals,3,$60.02,0%,$180.06
+SO-202504-0164,"Apr 16, 2025",EAST,Noor Haddad,Ergonomic Chair,Furniture,7,$248.86,0%,"$1,742.02"
+SO-202504-0165,"Apr 21, 2025",CENTRAL,Sofia Duarte,Task Light,Lighting,6,$52.19,5%,$297.48
+SO-202504-0166,"Apr 02, 2025",SOUTH,Elena Petrova,Monitor Arm,Accessories,12,$88.54,0%,"$1,062.48"
+SO-202504-0167,"Apr 07, 2025",WEST,Sofia Duarte,Ergonomic Chair,Furniture,2,$245.27,10%,$441.49
+SO-202504-0168,"Apr 20, 2025",WEST,Tariq Aziz,Monitor Arm,Accessories,2,$87.95,10%,$158.31
+SO-202504-0169,"Apr 08, 2025",EAST,Jonas Weber,Webcam HD,Peripherals,11,$77.42,0%,$851.62
+SO-202504-0170,"Apr 11, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,1,$60.21,0%,$60.21
+SO-202504-0171,"Apr 02, 2025",NORTH,Priya Raman,Task Light,Lighting,8,$52.63,10%,$378.94
+SO-202504-0172,"Apr 07, 2025",NORTH,Noor Haddad,USB-C Hub,Peripherals,7,$62.20,0%,$435.40
+SO-202504-0173,"Apr 19, 2025",CENTRAL,Mateo Ruiz,Cable Tray,Accessories,3,$20.19,0%,$60.57
+SO-202504-0174,"Apr 09, 2025",EAST,Mateo Ruiz,USB-C Hub,Peripherals,5,$62.39,0%,$311.95
+SO-202504-0175,"Apr 10, 2025",CENTRAL,Imani Okafor,Cable Tray,Accessories,6,$20.04,15%,$102.20
+SO-202504-0176,"Apr 17, 2025",WEST,Kenji Mori,Filing Cabinet,Furniture,10,$134.50,10%,"$1,210.50"
+SO-202504-0177,"Apr 14, 2025",EAST,Mateo Ruiz,USB-C Hub,Peripherals,3,$62.91,0%,$188.73
+SO-202504-0178,"Apr 13, 2025",SOUTH,Avery Lindqvist,Filing Cabinet,Furniture,2,$139.80,0%,$279.60
+SO-202504-0179,"Apr 03, 2025",SOUTH,Tariq Aziz,Webcam HD,Peripherals,2,$75.55,0%,$151.10
+SO-202504-0180,"Apr 20, 2025",NORTH,Mateo Ruiz,USB-C Hub,Peripherals,6,$65.73,5%,$374.66
+SO-202504-0181,"Apr 08, 2025",WEST,Mateo Ruiz,Wireless Keyboard,Peripherals,11,$56.96,10%,$563.90
+SO-202504-0182,"Apr 10, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,8,$120.42,5%,$915.19
+SO-202504-0183,"Apr 13, 2025",WEST,Elena Petrova,Ergonomic Chair,Furniture,10,$256.73,0%,"$2,567.30"
+SO-202504-0184,"Apr 04, 2025",NORTH,Avery Lindqvist,Task Light,Lighting,10,$55.49,0%,$554.90
+SO-202504-0185,"Apr 30, 2025",WEST,Kenji Mori,Monitor Arm,Accessories,12,$85.90,5%,$979.26
+SO-202504-0186,"Apr 21, 2025",WEST,Kenji Mori,Cable Tray,Accessories,3,$20.02,15%,$51.05
+SO-202504-0187,"Apr 06, 2025",WEST,Kenji Mori,Desk Lamp,Lighting,11,$41.11,15%,$384.38
+SO-202504-0188,"Apr 25, 2025",CENTRAL,Noor Haddad,Desk Lamp,Lighting,1,$39.91,10%,$35.92
+SO-202504-0189,"Apr 30, 2025",NORTH,Avery Lindqvist,Ergonomic Chair,Furniture,11,$258.65,0%,"$2,845.15"
+SO-202504-0190,"Apr 06, 2025",SOUTH,Avery Lindqvist,Ergonomic Chair,Furniture,11,$250.77,10%,"$2,482.62"
+SO-202504-0191,"Apr 16, 2025",NORTH,Tariq Aziz,Laptop Stand,Accessories,5,$45.53,10%,$204.89
+SO-202504-0192,"Apr 27, 2025",SOUTH,Imani Okafor,Ergonomic Chair,Furniture,4,$252.20,10%,$907.92
+SO-202504-0193,"Apr 04, 2025",EAST,Jonas Weber,Wireless Keyboard,Peripherals,1,$58.28,0%,$58.28
+SO-202504-0194,"Apr 09, 2025",NORTH,Tariq Aziz,Task Light,Lighting,8,$53.04,0%,$424.32
+SO-202504-0195,"Apr 24, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,7,$19.98,15%,$118.88
+SO-202504-0196,"Apr 21, 2025",SOUTH,Priya Raman,Task Light,Lighting,6,$54.32,15%,$277.03
+SO-202504-0197,"Apr 15, 2025",CENTRAL,Avery Lindqvist,Task Light,Lighting,9,$55.69,0%,$501.21
+SO-202504-0198,"Apr 08, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,10,$73.04,0%,$730.40
+SO-202504-0199,"Apr 12, 2025",NORTH,Kenji Mori,Wireless Keyboard,Peripherals,7,$58.55,5%,$389.36
+SO-202504-0200,"Apr 22, 2025",WEST,Imani Okafor,Filing Cabinet,Furniture,11,$140.55,0%,"$1,546.05"
+SO-202504-0201,"Apr 04, 2025",SOUTH,Kenji Mori,Desk Lamp,Lighting,1,$41.12,0%,$41.12
+SO-202504-0202,"Apr 01, 2025",NORTH,Kenji Mori,Filing Cabinet,Furniture,7,$135.73,15%,$807.59
+SO-202504-0203,"Apr 06, 2025",EAST, Elena Petrova  ,Ergonomic Chair,Furniture,2,$254.18,10%,$457.52
+SO-202504-0204,"Apr 01, 2025",NORTH,Tariq Aziz,Wireless Keyboard,Peripherals,2,$60.64,0%,$121.28
+SO-202504-0205,"Apr 09, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,4,$85.86,15%,
+SO-202504-0206,"Apr 24, 2025",NORTH,Sofia Duarte,Laptop Stand,Accessories,9,$44.35,10%,$359.24
+SO-202504-0207,"Apr 08, 2025",SOUTH,Imani Okafor,Desk Lamp,Lighting,11,$40.39,10%,$399.86
+SO-202504-0208,"Apr 06, 2025",SOUTH,Elena Petrova,Task Light,Lighting,2,$53.41,5%,$101.48
+SO-202504-0209,"Apr 20, 2025",EAST,Jonas Weber,Desk Lamp,Lighting,9,$41.45,0%,$373.05
+SO-202504-0210,"Apr 17, 2025",WEST,Tariq Aziz,Cable Tray,Accessories,4,$19.10,15%,$64.94
+SO-202504-0211,"Apr 24, 2025",NORTH,Tariq Aziz,USB-C Hub,Peripherals,4,$62.40,0%,$249.60
+SO-202504-0212,"Apr 13, 2025",EAST,Elena Petrova,Bookshelf,Furniture,4,$118.23,0%,$472.92
+SO-202504-0213,"Apr 12, 2025",NORTH,Avery Lindqvist,Webcam HD,Peripherals,7,$75.44,0%,$528.08
+SO-202504-0214,"Apr 24, 2025",NORTH,Noor Haddad,Standing Desk,Furniture,1,$316.42,5%,$300.60
+SO-202504-0215,"Apr 26, 2025",SOUTH,Imani Okafor,Bookshelf,Furniture,12,$122.70,0%,"$1,472.40"
+SO-202504-0216,"Apr 29, 2025",SOUTH,Noor Haddad,Standing Desk,Furniture,6,$332.11,0%,"$1,992.66"
+SO-202504-0217,"Apr 13, 2025",NORTH,Tariq Aziz,USB-C Hub,Peripherals,12,$62.43,15%,$636.79
+SO-202504-0218,"Apr 08, 2025",WEST,Avery Lindqvist,Webcam HD,Peripherals,11,$72.38,10%,$716.56
+SO-202504-0219,"Apr 23, 2025",NORTH,Sofia Duarte,Webcam HD,Peripherals,3,$74.61,10%,$201.45
+SO-202504-0220,"Apr 19, 2025",SOUTH,Noor Haddad,Ergonomic Chair,Furniture,9,$255.20,0%,"$2,296.80"
+SO-202504-0221,"Apr 05, 2025",SOUTH,Avery Lindqvist,Wireless Keyboard,Peripherals,2,$56.92,5%,$108.15
+SO-202504-0222,"Apr 09, 2025",NORTH,Avery Lindqvist,Standing Desk,Furniture,9,$318.53,15%,"$2,436.75"
+SO-202504-0223,"Apr 12, 2025",EAST,Avery Lindqvist,Desk Lamp,Lighting,10,$38.84,5%,$368.98
+SO-202504-0224,"Apr 30, 2025",EAST,Noor Haddad,Bookshelf,Furniture,3,$117.99,5%,$336.27
+SO-202504-0225,"Apr 26, 2025",SOUTH,Imani Okafor,Desk Lamp,Lighting,5,$41.16,5%,$195.51
+SO-202504-0226,"Apr 19, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,12,$46.68,10%,$504.14
+SO-202504-0227,"Apr 10, 2025",WEST,Kenji Mori,Standing Desk,Furniture,2,$325.50,5%,$618.45
+SO-202504-0228,"Apr 07, 2025",EAST,Mateo Ruiz,Desk Lamp,Lighting,6,$39.72,0%,$238.32
+SO-202504-0229,"Apr 02, 2025",WEST,Mateo Ruiz,Desk Lamp,Lighting,2,$38.65,0%,$77.30
+SO-202504-0230,"Apr 19, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,9,$140.39,0%,"$1,263.51"
+SO-202504-0231,"Apr 21, 2025",WEST,Kenji Mori,Cable Tray,Accessories,2,$20.24,0%,$40.48
+SO-202504-0232,"Apr 30, 2025",WEST,Imani Okafor,USB-C Hub,Peripherals,2,$61.91,0%,
+SO-202504-0233,"Apr 11, 2025",WEST,Priya Raman,Task Light,Lighting,3,$52.26,5%,$148.94
+SO-202504-0234,"Apr 12, 2025",NORTH,Noor Haddad,Bookshelf,Furniture,6,$118.48,0%,$710.88
+SO-202504-0235,"Apr 26, 2025",NORTH,Tariq Aziz,Bookshelf,Furniture,6,$122.55,0%,$735.30
+SO-202504-0236,"Apr 24, 2025",NORTH,Priya Raman,Cable Tray,Accessories,7,$20.02,15%,$119.12
+SO-202504-0237,"Apr 27, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,8,$44.35,0%,$354.80
+SO-202504-0238,"Apr 06, 2025",WEST,Kenji Mori,Filing Cabinet, Furniture  ,8,$134.13,10%,$965.74
+SO-202504-0239,"Apr 28, 2025",SOUTH,Imani Okafor,Ergonomic Chair,Furniture,4,$253.81,5%,$964.48
+SO-202504-0240,"Apr 13, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,5,$46.29,10%,$208.31
+SO-202504-0241,"Apr 19, 2025",WEST,Priya Raman,Cable Tray,Accessories,1,$19.03,0%,$19.03
+SO-202504-0242,"Apr 27, 2025",CENTRAL,Sofia Duarte,Wireless Keyboard,Peripherals,2,$59.98,15%,$101.97
+SO-202504-0243,"Apr 12, 2025",EAST,Elena Petrova,Laptop Stand,Accessories,1,$43.31,0%,$43.31
+SO-202504-0244,"Apr 01, 2025",EAST,Kenji Mori,Wireless Keyboard,Peripherals,12,$57.73,0%,$692.76
+SO-202504-0245,"Apr 05, 2025",NORTH,Noor Haddad,Monitor Arm,Accessories,2,$91.81,0%,$183.62
+SO-202504-0246,"Apr 02, 2025",EAST,Jonas Weber,Task Light,Lighting,3,$54.72,0%,$164.16
+SO-202504-0247,"Apr 27, 2025",WEST,Imani Okafor,Standing Desk,Furniture,2,$340.08,0%,$680.16
+SO-202504-0248,"Apr 02, 2025",SOUTH,Noor Haddad,Bookshelf,Furniture,2,$120.85,15%,$205.45
+SO-202504-0249,"Apr 02, 2025",CENTRAL,Mateo Ruiz,Wireless Keyboard,Peripherals,3,$58.13,15%,$148.23
+SO-202504-0250,"Apr 30, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,12,$91.94,15%,$937.79
+SO-202504-0251,"Apr 24, 2025",EAST,Kenji Mori,Webcam HD,Peripherals,4,$74.70,0%,$298.80
+SO-202504-0252,"Apr 01, 2025",NORTH,Elena Petrova, Ergonomic Chair  ,Furniture,1,$243.49,0%,$243.49
+SO-202504-0253,"Apr 07, 2025",WEST,Elena Petrova,Monitor Arm,Accessories,6,$86.70,10%,$468.18
+SO-202504-0254,"Apr 25, 2025",SOUTH,Jonas Weber,Desk Lamp,Lighting,1,$41.47,15%,
+SO-202504-0255,"Apr 28, 2025",CENTRAL,Avery Lindqvist,Wireless Keyboard,Peripherals,2,$58.27,10%,$104.89
+SO-202504-0256,"Apr 01, 2025",NORTH,Kenji Mori,Webcam HD,Peripherals,11,$74.74,15%,$698.82
+SO-202504-0257,"Apr 21, 2025",CENTRAL,Mateo Ruiz,USB-C Hub,Peripherals,1,$64.09,10%,$57.68
+SO-202504-0258,"Apr 04, 2025",EAST,Kenji Mori,Task Light,Lighting,2,$55.17,5%,$104.82
+SO-202504-0259,"Apr 16, 2025",CENTRAL,Sofia Duarte,Filing Cabinet,Furniture,7,$142.94,10%,$900.52
+SO-202504-0260,"Apr 07, 2025",EAST,Elena Petrova,Webcam HD,Peripherals,1,$72.24,0%,$72.24
+SO-202504-0261,"Apr 24, 2025",NORTH,Elena Petrova,Filing Cabinet,Furniture,8,$143.62,10%,"$1,034.06"
+SO-202504-0262,"Apr 01, 2025",EAST,Priya Raman,Filing Cabinet,Furniture,11,$137.70,5%,"$1,438.97"
+SO-202504-0263,"Apr 10, 2025",NORTH,Elena Petrova,Wireless Keyboard,Peripherals,11,$60.06,10%,$594.59
+SO-202504-0264,"Apr 09, 2025",EAST,Noor Haddad,Ergonomic Chair,Furniture,5,$256.47,0%,"$1,282.35"
+SO-202504-0265,"Apr 05, 2025",CENTRAL,Avery Lindqvist,Laptop Stand,Accessories,7,$45.33,5%,$301.44
+SO-202504-0266,"Apr 05, 2025",CENTRAL,Noor Haddad,Monitor Arm,Accessories,5,$91.28,15%,$387.94
+SO-202504-0267,"Apr 02, 2025",WEST,Tariq Aziz,Wireless Keyboard,Peripherals,3,$60.70,10%,$163.89
+SO-202504-0268,"Apr 14, 2025",NORTH,Tariq Aziz,Ergonomic Chair,Furniture,9,$253.37,0%,"$2,280.33"
+SO-202504-0269,"Apr 22, 2025",EAST,Avery Lindqvist,Monitor Arm,Accessories,2,$89.10,5%,$169.29
+SO-202504-0270,"Apr 16, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,2,$135.64,5%,$257.72
+SO-202504-0271,"Apr 21, 2025",EAST,Elena Petrova,Standing Desk,Furniture,10,$321.87,10%,"$2,896.83"
+SO-202504-0272,"Apr 26, 2025",WEST,Tariq Aziz,Desk Lamp,Lighting,7,$38.70,10%,$243.81
+SO-202504-0273,"Apr 11, 2025",SOUTH,Jonas Weber,Webcam HD,Peripherals,11,$71.95,0%,$791.45
+SO-202504-0274,"Apr 06, 2025",EAST,Priya Raman,Filing Cabinet,Furniture,8,$141.03,15%,$959.00
+SO-202504-0275,"Apr 23, 2025",SOUTH,Priya Raman,Filing Cabinet,Furniture,2,$135.71,15%,$230.71
+SO-202504-0276,"Apr 16, 2025",WEST,Priya Raman,Cable Tray,Accessories,6,$19.89,0%,$119.34
+SO-202504-0277,"Apr 23, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,4,$136.71,10%,$492.16
+SO-202504-0278,"Apr 11, 2025",CENTRAL,Sofia Duarte,Desk Lamp,Lighting,9,$40.04,10%,$324.32
+SO-202504-0279,"Apr 11, 2025",CENTRAL,Tariq Aziz,Task Light,Lighting,6,$53.82,0%,$322.92
+SO-202504-0280,"Apr 26, 2025",WEST,Jonas Weber,Cable Tray,Accessories,11,$18.73,15%,$175.13
+SO-202504-0281,"Apr 27, 2025",SOUTH,Jonas Weber,USB-C Hub,Peripherals,5,$64.42,15%,$273.79
+SO-202504-0282,"Apr 29, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,7,$44.00,5%,$292.60
+SO-202504-0283,"Apr 10, 2025",SOUTH,Noor Haddad,Bookshelf,Furniture,4,$121.95,15%,$414.63
+SO-202504-0284,"Apr 04, 2025",SOUTH,Imani Okafor,Monitor Arm,Accessories,5,$85.97,0%,$429.85
+SO-202504-0285,"Apr 15, 2025",WEST,Priya Raman,Wireless Keyboard,Peripherals,2,$57.32,10%,$103.18
+SO-202504-0286,"Apr 27, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,2,$137.68,5%,$261.59
+SO-202504-0287,"Apr 15, 2025",WEST,Jonas Weber,Filing Cabinet,Furniture,9,$137.09,0%,"$1,233.81"
+SO-202504-0288,"Apr 25, 2025",NORTH,Priya Raman,Monitor Arm,Accessories,10,$91.38,15%,$776.73
+SO-202504-0289,"Apr 21, 2025",SOUTH,Tariq Aziz,Task Light,Lighting,9,$55.55,0%,$499.95
+SO-202504-0290,"Apr 20, 2025",NORTH,Mateo Ruiz,Cable Tray,Accessories,2,$18.96,10%,$34.13
+SO-202504-0291,"Apr 04, 2025",WEST,Elena Petrova,Monitor Arm,Accessories,2,$87.65,15%,$149.01
+SO-202504-0292,"Apr 11, 2025",SOUTH,Tariq Aziz,Laptop Stand,Accessories,1,$43.45,0%,$43.45
+SO-202504-0293,"Apr 29, 2025",SOUTH,Mateo Ruiz,Task Light,Lighting,5,$54.76,15%,$232.73
+SO-202504-0294,"Apr 15, 2025",EAST,Noor Haddad,Laptop Stand,Accessories,10,$43.91,0%,$439.10
+SO-202504-0295,"Apr 26, 2025",WEST,Noor Haddad,Laptop Stand,Accessories,11,$43.22,15%,$404.11
+SO-202504-0296,"Apr 24, 2025",SOUTH,Imani Okafor,Monitor Arm,Accessories,3,$88.89,0%,$266.67
+SO-202504-0297,"Apr 17, 2025",SOUTH,Avery Lindqvist,Monitor Arm,Accessories,12,$90.70,10%,$979.56
+SO-202504-0298,"Apr 23, 2025",WEST,Jonas Weber,Cable Tray,Accessories,10,$19.18,5%,$182.21
+SO-202504-0299,"Apr 01, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,10,$87.16,10%,$784.44
+SO-202504-0300,"Apr 01, 2025",WEST,Elena Petrova,Bookshelf,Furniture,9,$120.59,15%,$922.51
+SO-202504-0301,"Apr 05, 2025",SOUTH,Avery Lindqvist,Laptop Stand,Accessories,11,$44.89,0%,$493.79
+SO-202504-0302,"Apr 24, 2025",SOUTH,Kenji Mori,Wireless Keyboard,Peripherals,5,$58.88,0%,$294.40
+SO-202504-0303,"Apr 03, 2025",SOUTH,Tariq Aziz,Filing Cabinet,Furniture,5,$137.66,0%,$688.30
+SO-202504-0304,"Apr 24, 2025",WEST,Sofia Duarte,Task Light,Lighting,11,$55.62,15%,$520.05
+SO-202504-0305,"Apr 08, 2025",EAST,Kenji Mori,Monitor Arm,Accessories,3,$89.52,15%,$228.28
+SO-202504-0306,"Apr 28, 2025",SOUTH,Sofia Duarte,Ergonomic Chair,Furniture,8,$239.30,0%,"$1,914.40"
+SO-202504-0307,"Apr 14, 2025",NORTH,Priya Raman,Monitor Arm,Accessories,8,$86.89,5%,$660.36
+SO-202504-0308,"Apr 10, 2025",EAST,Tariq Aziz,Filing Cabinet,Furniture,11,$137.37,5%,"$1,435.52"
+SO-202504-0309,"Apr 24, 2025",CENTRAL,Tariq Aziz,Standing Desk,Furniture,10,$327.11,0%,"$3,271.10"
+SO-202504-0310,"Apr 17, 2025",NORTH,Imani Okafor,Ergonomic Chair,Furniture,11,$255.02,0%,"$2,805.22"
+SO-202504-0311,"Apr 14, 2025",CENTRAL,Imani Okafor,Task Light,Lighting,12,$56.00,15%,$571.20
+SO-202504-0312,"Apr 16, 2025",SOUTH,Kenji Mori,Wireless Keyboard,Peripherals,1,$57.90,15%,$49.22
+SO-202504-0313,"Apr 08, 2025",CENTRAL,Avery Lindqvist,Desk Lamp,Lighting,2,$38.80,0%,$77.60
+SO-202504-0314,"Apr 23, 2025",CENTRAL,Imani Okafor,Task Light,Lighting,1,$52.91,5%,$50.26
+SO-202504-0315,"Apr 15, 2025",EAST,Priya Raman,Wireless Keyboard,Peripherals,12,$60.56,0%,$726.72
+SO-202504-0316,"Apr 04, 2025",WEST,Jonas Weber,Desk Lamp,Lighting,12,$39.98,15%,$407.80
+SO-202504-0317,"Apr 14, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,8,$18.77,0%,$150.16
+SO-202504-0318,"Apr 06, 2025",WEST,Priya Raman,Task Light,Lighting,6,$54.86,15%,$279.79
+SO-202504-0319,"Apr 13, 2025",SOUTH,Priya Raman,Webcam HD,Peripherals,10,$75.53,5%,$717.54
+SO-202504-0320,"Apr 27, 2025",CENTRAL,Elena Petrova,Standing Desk,Furniture,2,$323.93,0%,$647.86
+SO-202504-0321,"Apr 07, 2025",NORTH,Jonas Weber,Bookshelf,Furniture,12,$117.14,0%,"$1,405.68"
+SO-202504-0322,"Apr 11, 2025",NORTH,Elena Petrova,Monitor Arm,Accessories,7,$89.15,0%,$624.05
+SO-202504-0323,"Apr 02, 2025",EAST,Avery Lindqvist,USB-C Hub,Peripherals,9,$63.36,5%,$541.73
+SO-202504-0324,"Apr 21, 2025",CENTRAL,Priya Raman,Wireless Keyboard,Peripherals,4,$57.82,0%,$231.28
+SO-202504-0325,"Apr 27, 2025",SOUTH,Avery Lindqvist,Standing Desk,Furniture,1,$328.87,5%,$312.43
+SO-202504-0326,"Apr 30, 2025",EAST,Avery Lindqvist,Ergonomic Chair,Furniture,10,$255.32,5%,"$2,425.54"
+SO-202504-0327,"Apr 12, 2025",NORTH,Avery Lindqvist,Laptop Stand,Accessories,5,$44.50,10%,$200.25
+SO-202504-0328,"Apr 28, 2025",NORTH,Jonas Weber,Ergonomic Chair,Furniture,12,$257.60,10%,"$2,782.08"
+SO-202504-0329,"Apr 29, 2025",NORTH,Kenji Mori,Monitor Arm,Accessories,4,$87.90,5%,$334.02
+SO-202504-0330,"Apr 11, 2025",WEST,Noor Haddad,USB-C Hub,Peripherals,4,$62.56,0%,$250.24
+SO-202504-0331,"Apr 04, 2025",CENTRAL,Jonas Weber,Ergonomic Chair,Furniture,2,$258.94,0%,$517.88
+SO-202504-0332,"Apr 15, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,2,$65.29,0%,$130.58
+SO-202504-0333,"Apr 01, 2025",WEST,Jonas Weber,Webcam HD,Peripherals,10,$73.21,5%,$695.50
+SO-202504-0334,"Apr 04, 2025",SOUTH,Elena Petrova,Filing Cabinet,Furniture,10,$137.05,5%,"$1,301.98"
+SO-202504-0335,"Apr 24, 2025",EAST,Imani Okafor,Cable Tray,Accessories,7,$19.81,5%,$131.74
+SO-202504-0336,"Apr 02, 2025",CENTRAL,Kenji Mori,Task Light,Lighting,7,$53.98,0%,$377.86
+SO-202504-0337,"Apr 25, 2025",WEST,Elena Petrova,Cable Tray,Accessories,4,$19.90,5%,$75.62
+SO-202504-0338,"Apr 06, 2025",EAST,Noor Haddad,Ergonomic Chair,Furniture,3,$240.66,10%,$649.78
+SO-202504-0339,"Apr 18, 2025",CENTRAL,Avery Lindqvist,Monitor Arm,Accessories,9,$91.94,5%,$786.09
+SO-202504-0340,"Apr 07, 2025",WEST,Sofia Duarte,Task Light,Lighting,1,$55.66,0%,$55.66
+SO-202504-0341,"Apr 24, 2025",SOUTH,Jonas Weber,Webcam HD,Peripherals,1,$75.58,0%,$75.58
+SO-202504-0342,"Apr 27, 2025",EAST,Imani Okafor,Laptop Stand,Accessories,12,$46.01,10%,$496.91
+SO-202504-0343,"Apr 20, 2025",NORTH,Kenji Mori,Desk Lamp,Lighting,1,$40.20,0%,$40.20
+SO-202504-0344,"Apr 02, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,3,$255.40,10%,$689.58
+SO-202504-0345,"Apr 03, 2025",EAST,Kenji Mori,Cable Tray,Accessories,9,$20.27,0%,$182.43
+SO-202504-0346,"Apr 11, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,8,$77.08,0%,$616.64
+SO-202504-0347,"Apr 11, 2025",NORTH,Jonas Weber,Wireless Keyboard,Peripherals,6,$60.96,10%,$329.18
+SO-202504-0348,"Apr 04, 2025",EAST,Imani Okafor,USB-C Hub,Peripherals,3,$65.47,5%,$186.59
+SO-202504-0349,"Apr 29, 2025",SOUTH,Priya Raman,Standing Desk,Furniture,8,$321.10,0%,"$2,568.80"
+SO-202504-0350,"Apr 18, 2025",CENTRAL,Elena Petrova,Laptop Stand,Accessories,3,$45.31,0%,$135.93
+SO-202504-0351,"Apr 15, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,7,$90.10,10%,$567.63
+SO-202504-0352,"Apr 05, 2025",WEST,Noor Haddad,Cable Tray,Accessories,6,$19.30,0%,$115.80
+SO-202504-0353,"Apr 07, 2025",NORTH,Sofia Duarte,Desk Lamp,Lighting,4,$40.25,5%,$152.95
+SO-202504-0354,"Apr 30, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,6,$119.31,5%,$680.07
+SO-202504-0355,"Apr 18, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,7,$20.18,0%,$141.26
+SO-202504-0356,"Apr 08, 2025",CENTRAL,Kenji Mori,Desk Lamp,Lighting,7,$38.82,10%,$244.57
+SO-202504-0357,"Apr 23, 2025",SOUTH,Elena Petrova,Monitor Arm,Accessories,2,$88.40,15%,$150.28
+SO-202504-0358,"Apr 03, 2025",CENTRAL,Elena Petrova,Wireless Keyboard,Peripherals,1,$59.38,5%,$56.41
+SO-202504-0359,"Apr 14, 2025",CENTRAL,Tariq Aziz,Laptop Stand,Accessories,7,$45.88,0%,$321.16
+SO-202504-0360,"Apr 11, 2025",WEST,Noor Haddad,USB-C Hub,Peripherals,10,$65.40,0%,$654.00
+SO-202504-0361,"Apr 26, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,11,$18.96,0%,$208.56
+SO-202504-0362,"Apr 21, 2025",EAST,Mateo Ruiz,Ergonomic Chair,Furniture,6,$245.45,5%,"$1,399.07"
+SO-202504-0363,"Apr 16, 2025",CENTRAL,Tariq Aziz,Monitor Arm,Accessories,4,$87.76,0%,$351.04
+SO-202504-0364,"Apr 26, 2025",NORTH,Kenji Mori,Desk Lamp,Lighting,1,$40.69,15%,$34.59
+SO-202504-0365,"Apr 25, 2025",CENTRAL,Jonas Weber,Laptop Stand,Accessories,6,$46.75,15%,$238.43
+SO-202504-0366,"Apr 26, 2025",WEST,Noor Haddad,Standing Desk,Furniture,1,$320.96,0%,$320.96
+SO-202504-0367,"Apr 19, 2025",WEST,Kenji Mori,Laptop Stand,Accessories,3,$45.77,5%,$130.44
+SO-202504-0368,"Apr 03, 2025",CENTRAL,Imani Okafor, Ergonomic Chair  ,Furniture,8,$251.58,10%,"$1,811.38"
+SO-202504-0369,"Apr 04, 2025",EAST,Jonas Weber,Cable Tray,Accessories,6,$19.95,0%,$119.70
+SO-202504-0370,"Apr 18, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,3,$91.95,5%,$262.06
+SO-202504-0371,"Apr 21, 2025",NORTH,Noor Haddad,Standing Desk,Furniture,5,$333.78,5%,"$1,585.46"
+SO-202504-0372,"Apr 17, 2025",SOUTH,Noor Haddad,Filing Cabinet,Furniture,3,$137.62,0%,$412.86
+SO-202504-0373,"Apr 21, 2025",CENTRAL,Avery Lindqvist,Wireless Keyboard,Peripherals,7,$58.35,10%,$367.61
+SO-202504-0374,"Apr 23, 2025",SOUTH,Priya Raman,USB-C Hub,Peripherals,7,$63.86,5%,$424.67
+,"Apr 06, 2025",SOUTH,Jonas Weber,Filing Cabinet,Furniture,11,$133.61,0%,"$1,469.71"
+SO-202504-0376,"Apr 14, 2025",SOUTH,Elena Petrova,Desk Lamp,Lighting,10,$39.10,15%,$332.35
+SO-202504-0377,"Apr 18, 2025",NORTH,Elena Petrova,Monitor Arm,Accessories,12,$86.88,15%,$886.18
+SO-202504-0378,"Apr 14, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,9,$19.62,15%,$150.09
+SO-202504-0379,"Apr 24, 2025",SOUTH,Tariq Aziz,Filing Cabinet,Furniture,6,$140.90,15%,$718.59
+SO-202504-0380,"Apr 16, 2025",WEST,Imani Okafor,Wireless Keyboard,Peripherals,11,$58.47,15%,$546.69
+SO-202504-0381,"Apr 13, 2025",EAST,Jonas Weber,Standing Desk,Furniture,8,$318.56,10%,"$2,293.63"
+SO-202504-0382,"Apr 24, 2025",CENTRAL,Priya Raman,Bookshelf,Furniture,4,$120.27,0%,$481.08
+SO-202504-0383,"Apr 24, 2025",NORTH,Elena Petrova,Monitor Arm,Accessories,9,$85.99,10%,$696.52
+SO-202504-0384,"Apr 20, 2025",SOUTH,Noor Haddad,Monitor Arm,Accessories,8,$90.67,5%,$689.09
+SO-202504-0385,"Apr 29, 2025",EAST,Tariq Aziz,Ergonomic Chair,Furniture,4,$257.62,0%,"$1,030.48"
+SO-202504-0386,"Apr 01, 2025",NORTH,Avery Lindqvist,Desk Lamp,Lighting,5,$41.17,5%,$195.56
+SO-202504-0387,"Apr 04, 2025",EAST,Imani Okafor,Webcam HD,Peripherals,7,$76.73,15%,$456.54
+SO-202504-0388,"Apr 27, 2025",CENTRAL,Tariq Aziz,Laptop Stand,Accessories,5,$45.17,0%,$225.85
+SO-202504-0389,"Apr 15, 2025",SOUTH,Tariq Aziz,Standing Desk, Furniture  ,10,$317.59,10%,"$2,858.31"
+SO-202504-0390,"Apr 04, 2025",EAST,Tariq Aziz,Laptop Stand,Accessories,10,$44.43,0%,$444.30
+SO-202504-0391,"Apr 16, 2025",WEST,Noor Haddad,Monitor Arm,Accessories,8,$87.21,0%,$697.68
+SO-202504-0392,"Apr 08, 2025",CENTRAL,Elena Petrova,Cable Tray,Accessories,2,$20.03,5%,$38.06
+SO-202504-0393,"Apr 07, 2025",NORTH,Mateo Ruiz,USB-C Hub,Peripherals,3,$63.92,0%,$191.76
+SO-202504-0394,"Apr 16, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair,Furniture,3,$240.95,0%,$722.85
+SO-202504-0395,"Apr 17, 2025",WEST,Jonas Weber,Webcam HD,Peripherals,6,$73.91,0%,$443.46
+SO-202504-0396,"Apr 08, 2025",EAST,Tariq Aziz,Ergonomic Chair,Furniture,12,$258.33,5%,"$2,944.96"
+SO-202504-0397,"Apr 21, 2025",SOUTH,Avery Lindqvist,Monitor Arm,Accessories,5,$91.79,10%,$413.06
+SO-202504-0398,"Apr 16, 2025",NORTH,Elena Petrova, Bookshelf  ,Furniture,4,$117.73,15%,$400.28
+SO-202504-0399,"Apr 16, 2025",NORTH,Priya Raman,Wireless Keyboard,Peripherals,6,$58.60,15%,$298.86
+SO-202504-0400,"Apr 02, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair, Furniture  ,12,$252.13,0%,"$3,025.56"
+SO-202504-0401,"Apr 24, 2025",SOUTH,Sofia Duarte,Filing Cabinet,Furniture,12,$133.81,0%,"$1,605.72"
+SO-202504-0402,"Apr 11, 2025",WEST,Tariq Aziz,Bookshelf,Furniture,6,$120.79,15%,$616.03
+SO-202504-0403,"Apr 01, 2025",WEST,Kenji Mori,Laptop Stand,Accessories,6,$44.77,0%,$268.62
+SO-202504-0404,"Apr 04, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,5,$87.53,10%,$393.89
+SO-202504-0405,"Apr 23, 2025",WEST,Elena Petrova,Bookshelf,Furniture,7,$115.73,10%,$729.10
+SO-202504-0406,"Apr 12, 2025",WEST,Elena Petrova,Task Light,Lighting,4,$54.02,0%,$216.08
+SO-202504-0407,"Apr 11, 2025",SOUTH,Jonas Weber,Ergonomic Chair,Furniture,12,$242.17,10%,"$2,615.44"
+SO-202504-0408,"Apr 30, 2025",NORTH,Elena Petrova,Task Light,Lighting,10,$54.29,0%,$542.90
+SO-202504-0409,"Apr 26, 2025",SOUTH,Imani Okafor,Filing Cabinet,Furniture,7,$137.92,0%,$965.44
+SO-202504-0410,"Apr 26, 2025",NORTH,Imani Okafor,Ergonomic Chair,Furniture,1,$252.16,0%,$252.16
+SO-202504-0411,"Apr 29, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,9,$19.64,15%,$150.25
+SO-202504-0412,"Apr 29, 2025",NORTH,Tariq Aziz,Monitor Arm,Accessories,3,$87.88,15%,$224.09
+SO-202504-0413,"Apr 12, 2025",WEST,Jonas Weber,Laptop Stand,Accessories,5,$45.45,5%,$215.89
+SO-202504-0414,"Apr 21, 2025",NORTH,Sofia Duarte,Cable Tray,Accessories,11,$19.44,5%,$203.15
+SO-202504-0415,"Apr 09, 2025",SOUTH,Avery Lindqvist,Bookshelf,Furniture,12,$118.12,0%,"$1,417.44"
+SO-202504-0416,"Apr 30, 2025",SOUTH,Tariq Aziz,Monitor Arm,Accessories,2,$91.17,0%,$182.34
+SO-202504-0417,"Apr 28, 2025",CENTRAL,Avery Lindqvist,Wireless Keyboard,Peripherals,9,$59.20,5%,$506.16
+SO-202504-0418,"Apr 25, 2025",EAST,Mateo Ruiz,Standing Desk,Furniture,1,$318.79,15%,$270.97
+SO-202504-0419,"Apr 04, 2025",CENTRAL,Imani Okafor,Filing Cabinet,Furniture,2,$138.26,5%,$262.69
+SO-202504-0420,"Apr 02, 2025",EAST,Elena Petrova,Task Light,Lighting,10,$53.24,0%,$532.40
+SO-202504-0421,"Apr 05, 2025",NORTH,Sofia Duarte,Desk Lamp,Lighting,7,$39.23,0%,$274.61
+SO-202504-0422,"Apr 23, 2025",WEST,Tariq Aziz,Task Light,Lighting,12,$55.99,0%,$671.88
+SO-202504-0423,"Apr 19, 2025",CENTRAL,Sofia Duarte,Desk Lamp,Lighting,2,$39.07,0%,$78.14
+SO-202504-0424,"Apr 20, 2025",SOUTH,Priya Raman,Task Light,Lighting,8,$54.36,0%,$434.88
+SO-202504-0425,"Apr 29, 2025",NORTH,Elena Petrova,Task Light,Lighting,7,$55.51,0%,$388.57
+SO-202504-0426,"Apr 19, 2025",SOUTH,Jonas Weber,Webcam HD,Peripherals,6,$73.92,0%,$443.52
+SO-202504-0427,"Apr 08, 2025",NORTH,Sofia Duarte,Filing Cabinet,Furniture,6,$141.41,10%,$763.61
+SO-202504-0428,"Apr 25, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,9,$249.51,10%,"$2,021.03"
+SO-202504-0429,"Apr 01, 2025",EAST,Sofia Duarte,Standing Desk,Furniture,11,$330.69,15%,"$3,091.95"
+SO-202504-0430,"Apr 28, 2025",EAST,Avery Lindqvist,Standing Desk,Furniture,10,$319.08,0%,"$3,190.80"
+SO-202504-0431,"Apr 28, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,6,$89.88,0%,$539.28
+SO-202504-0432,"Apr 17, 2025",EAST,Tariq Aziz,Filing Cabinet,Furniture,3,$136.96,15%,$349.25
+SO-202504-0433,"Apr 02, 2025",SOUTH,Imani Okafor,Bookshelf,Furniture,4,$123.05,10%,$442.98
+SO-202504-0434,"Apr 08, 2025",NORTH,Elena Petrova,Webcam HD,Peripherals,5,$73.49,0%,$367.45
+SO-202504-0435,"Apr 13, 2025",EAST,Tariq Aziz,Task Light,Lighting,4,$53.01,0%,$212.04
+SO-202504-0436,"Apr 25, 2025",WEST,Imani Okafor,Ergonomic Chair,Furniture,4,$257.18,5%,$977.28
+SO-202504-0437,"Apr 02, 2025",SOUTH,Priya Raman,Standing Desk,Furniture,5,$326.24,0%,"$1,631.20"
+SO-202504-0438,"Apr 10, 2025",EAST,Jonas Weber,USB-C Hub,Peripherals,6,$66.07,5%,$376.60
+SO-202504-0439,"Apr 24, 2025",SOUTH,Sofia Duarte,Cable Tray,Accessories,2,$19.61,15%,$33.34
+SO-202504-0440,"Apr 10, 2025",NORTH,Avery Lindqvist,Bookshelf,Furniture,7,$122.63,15%,$729.65
+SO-202504-0441,"Apr 12, 2025",WEST,Jonas Weber,Standing Desk,Furniture,8,$317.05,0%,"$2,536.40"
+SO-202504-0442,"Apr 19, 2025",EAST,Kenji Mori,Wireless Keyboard,Peripherals,3,$60.44,10%,$163.19
+SO-202504-0443,"Apr 27, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,1,$19.40,0%,$19.40
+SO-202504-0444,"Apr 18, 2025",NORTH,Noor Haddad,Wireless Keyboard,Peripherals,12,$59.15,5%,$674.31
+SO-202504-0445,"Apr 24, 2025",SOUTH,Kenji Mori,Webcam HD,Peripherals,1,$73.35,10%,$66.02
+SO-202504-0446,"Apr 08, 2025",NORTH,Avery Lindqvist, Filing Cabinet  ,Furniture,9,$136.62,0%,"$1,229.58"
+SO-202504-0447,"Apr 18, 2025",SOUTH,Imani Okafor,Wireless Keyboard,Peripherals,10,$58.08,10%,$522.72
+SO-202504-0448,"Apr 27, 2025",SOUTH,Tariq Aziz,Monitor Arm,Accessories,5,$91.32,10%,$410.94
+SO-202504-0449,"Apr 20, 2025",WEST,Avery Lindqvist,Task Light,Lighting,8,$54.02,0%,$432.16
+SO-202504-0450,"Apr 08, 2025",EAST,Mateo Ruiz,Bookshelf,Furniture,5,$119.24,0%,$596.20
+SO-202504-0451,"Apr 11, 2025",NORTH,Sofia Duarte,Task Light,Lighting,8,$55.98,15%,$380.66
+SO-202504-0452,"Apr 03, 2025",NORTH,Elena Petrova,Task Light,Lighting,12,$54.13,0%,$649.56
+SO-202504-0453,"Apr 18, 2025",NORTH,Noor Haddad,Task Light,Lighting,7,$53.60,0%,$375.20
+SO-202504-0454,"Apr 23, 2025",NORTH,Kenji Mori,Desk Lamp,Lighting,1,$40.15,15%,$34.13
+SO-202504-0455,"Apr 24, 2025",SOUTH,Tariq Aziz,Webcam HD,Peripherals,5,$77.10,0%,$385.50
+SO-202504-0456,"Apr 05, 2025",EAST,Imani Okafor,Standing Desk,Furniture,5,$326.16,0%,"$1,630.80"
+SO-202504-0457,"Apr 04, 2025",EAST,Sofia Duarte,Webcam HD,Peripherals,1,$75.60,10%,$68.04
+SO-202504-0458,"Apr 05, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,8,$253.16,15%,"$1,721.49"
+SO-202504-0459,"Apr 07, 2025",SOUTH,Kenji Mori,Filing Cabinet,Furniture,11,$137.30,0%,"$1,510.30"
+SO-202504-0460,"Apr 22, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,2,$245.77,5%,$466.96
+,,,,,,,,,
+SO-202504-0461,"Apr 04, 2025",CENTRAL,Kenji Mori,Monitor Arm,Accessories,7,$86.27,0%,$603.89
+SO-202504-0462,"Apr 20, 2025",WEST,Priya Raman,Wireless Keyboard,Peripherals,12,$56.69,5%,$646.27
+SO-202504-0463,"Apr 20, 2025",CENTRAL,Avery Lindqvist,Cable Tray,Accessories,2,$20.24,15%,$34.41
+SO-202504-0464,"Apr 08, 2025",CENTRAL,Avery Lindqvist,USB-C Hub,Peripherals,3,$64.69,0%,$194.07
+SO-202504-0465,"Apr 27, 2025",NORTH,Kenji Mori,Laptop Stand,Accessories,4,$43.24,10%,$155.66
+SO-202504-0466,"Apr 04, 2025",WEST,Priya Raman,Monitor Arm, Accessories  ,9,$86.54,10%,$700.97
+SO-202504-0467,"Apr 08, 2025",NORTH,Priya Raman,Filing Cabinet,Furniture,2,$135.51,0%,$271.02
+SO-202504-0468,"Apr 10, 2025",CENTRAL,Elena Petrova,Task Light,Lighting,8,$52.83,10%,$380.38
+SO-202504-0469,"Apr 23, 2025",SOUTH,Tariq Aziz,Desk Lamp,Lighting,7,$38.44,15%,$228.72
+SO-202504-0470,"Apr 30, 2025",SOUTH,Mateo Ruiz,Wireless Keyboard,Peripherals,1,$58.29,15%,$49.55
+SO-202504-0471,"Apr 23, 2025",EAST,Jonas Weber,Bookshelf,Furniture,11,$120.96,0%,"$1,330.56"
+SO-202504-0472,"Apr 18, 2025",EAST,Kenji Mori,Filing Cabinet,Furniture,4,$139.33,5%,$529.45
+SO-202504-0473,"Apr 15, 2025",NORTH,Avery Lindqvist,Cable Tray,Accessories,9,$18.80,0%,$169.20
+SO-202504-0474,"Apr 03, 2025",SOUTH,Avery Lindqvist,Cable Tray,Accessories,2,$19.75,0%,$39.50
+SO-202504-0475,"Apr 09, 2025",NORTH,Jonas Weber,Cable Tray,Accessories,1,$18.98,5%,$18.03
+SO-202504-0476,"Apr 03, 2025",EAST,Avery Lindqvist,Monitor Arm,Accessories,6,$86.41,0%,$518.46
+SO-202504-0477,"Apr 06, 2025",NORTH,Sofia Duarte,Laptop Stand,Accessories,4,$44.75,5%,$170.05
+SO-202504-0478,"Apr 13, 2025",NORTH,Tariq Aziz,Ergonomic Chair,Furniture,2,$242.49,10%,$436.48
+SO-202504-0479,"Apr 27, 2025",NORTH,Mateo Ruiz,Task Light,Lighting,6,$55.13,10%,$297.70
+SO-202504-0480,"Apr 26, 2025",EAST,Noor Haddad,Webcam HD,Peripherals,11,$76.87,0%,$845.57
+SO-202504-0481,"Apr 13, 2025",SOUTH,Mateo Ruiz,Ergonomic Chair,Furniture,7,$248.83,0%,"$1,741.81"
+SO-202504-0482,"Apr 21, 2025",SOUTH,Priya Raman,Task Light,Lighting,4,$56.09,0%,$224.36
+SO-202504-0483,"Apr 17, 2025",SOUTH,Tariq Aziz,USB-C Hub,Peripherals,4,$61.60,15%,$209.44
+SO-202504-0484,"Apr 30, 2025",CENTRAL,Sofia Duarte,Webcam HD,Peripherals,8,$72.86,0%,$582.88
+SO-202504-0485,"Apr 23, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,6,$64.25,0%,$385.50
+SO-202504-0486,"Apr 03, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,9,$63.83,5%,$545.75
+SO-202504-0487,"Apr 25, 2025",WEST,Priya Raman,Bookshelf,Furniture,7,$117.21,5%,$779.45
+SO-202504-0488,"Apr 11, 2025",NORTH,Tariq Aziz,Wireless Keyboard,Peripherals,2,$58.80,0%,$117.60
+SO-202504-0489,"Apr 09, 2025",EAST,Kenji Mori,USB-C Hub,Peripherals,3,$63.32,0%,$189.96
+SO-202504-0490,"Apr 19, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,5,$19.34,15%,$82.20
+SO-202504-0491,"Apr 20, 2025",SOUTH,Elena Petrova,Bookshelf,Furniture,9,$116.74,5%,$998.13
+SO-202504-0492,"Apr 25, 2025",SOUTH,Noor Haddad,Wireless Keyboard,Peripherals,5,$59.77,5%,$283.91
+SO-202504-0493,"Apr 11, 2025",SOUTH,Sofia Duarte,USB-C Hub,Peripherals,4,$61.73,5%,$234.57
+SO-202504-0494,"Apr 24, 2025",NORTH,Imani Okafor,Filing Cabinet,Furniture,1,$134.08,5%,$127.38
+SO-202504-0495,"Apr 09, 2025",SOUTH,Imani Okafor,Wireless Keyboard,Peripherals,3,$60.52,10%,$163.40
+SO-202504-0496,"Apr 17, 2025",WEST,Elena Petrova,Task Light,Lighting,12,$54.99,15%,$560.90
+SO-202504-0497,"Apr 23, 2025",WEST,Kenji Mori,Standing Desk,Furniture,12,$336.61,5%,"$3,837.35"
+SO-202504-0498,"Apr 21, 2025",SOUTH,Mateo Ruiz,Wireless Keyboard,Peripherals,8,$60.34,0%,$482.72
+SO-202504-0499,"Apr 10, 2025",SOUTH,Priya Raman,Webcam HD,Peripherals,10,$75.61,0%,
+SO-202504-0500,"Apr 14, 2025",EAST,Mateo Ruiz,Task Light,Lighting,12,$54.67,0%,$656.04
+SO-202504-0501,"Apr 09, 2025",SOUTH,Jonas Weber,Monitor Arm,Accessories,1,$85.97,5%,$81.67
+SO-202504-0502,"Apr 29, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,2,$253.27,5%,$481.21
+SO-202504-0503,"Apr 24, 2025",NORTH,Tariq Aziz,Cable Tray,Accessories,10,$19.52,10%,$175.68
+SO-202504-0504,"Apr 20, 2025",EAST,Jonas Weber,Bookshelf,Furniture,5,$116.30,15%,$494.28
+SO-202504-0505,"Apr 03, 2025",WEST,Jonas Weber,Webcam HD,Peripherals,6,$73.27,5%,$417.64
+SO-202504-0506,"Apr 07, 2025",NORTH,Noor Haddad,Wireless Keyboard,Peripherals,3,$59.19,0%,$177.57
+SO-202504-0507,"Apr 27, 2025",NORTH,Noor Haddad,Desk Lamp,Lighting,6,$39.09,15%,$199.36
+SO-202504-0508,"Apr 30, 2025",SOUTH,Elena Petrova,Ergonomic Chair,Furniture,9,$256.96,0%,"$2,312.64"
+SO-202504-0509,"Apr 16, 2025",EAST,Priya Raman,Webcam HD,Peripherals,3,$76.74,0%,$230.22
+SO-202504-0925,"Apr 13, 2025",EAST,Sofia Duarte,Laptop Stand,Accessories,5,$43.22,0%,$216.10
+SO-202504-0510,"Apr 20, 2025",EAST,Jonas Weber,Laptop Stand,Accessories,7,$45.00,10%,$283.50
+SO-202504-0511,"Apr 13, 2025",SOUTH,Elena Petrova,Ergonomic Chair,Furniture,11,$248.83,0%,"$2,737.13"
+SO-202504-0512,"Apr 14, 2025",EAST,Priya Raman,Desk Lamp,Lighting,10,$39.50,0%,$395.00
+SO-202504-0513,"Apr 22, 2025",SOUTH,Tariq Aziz,Webcam HD,Peripherals,2,$74.77,0%,$149.54
+SO-202504-0514,"Apr 14, 2025",EAST,Kenji Mori,Desk Lamp,Lighting,6,$38.74,0%,$232.44
+SO-202504-0515,"Apr 04, 2025",EAST,Imani Okafor,Standing Desk,Furniture,1,$339.71,5%,$322.72
+SO-202504-0516,"Apr 05, 2025",CENTRAL,Jonas Weber,Ergonomic Chair,Furniture,8,$242.94,0%,"$1,943.52"
+SO-202504-0517,"Apr 11, 2025",SOUTH,Elena Petrova,Desk Lamp,Lighting,12,$39.70,5%,$452.58
+SO-202504-0518,"Apr 09, 2025",NORTH,Mateo Ruiz,USB-C Hub,Peripherals,8,$61.90,0%,$495.20
+SO-202504-0519,"Apr 02, 2025",SOUTH,Sofia Duarte,Ergonomic Chair,Furniture,3,$252.49,0%,$757.47
+SO-202504-0520,"Apr 10, 2025",SOUTH, Elena Petrova  ,Desk Lamp,Lighting,4,$39.24,5%,$149.11
+SO-202504-0521,"Apr 30, 2025",CENTRAL,Mateo Ruiz,Filing Cabinet,Furniture,5,$138.72,5%,$658.92
+SO-202504-0522,"Apr 06, 2025",WEST,Jonas Weber,Webcam HD,Peripherals,3,$76.00,15%,$193.80
+,"Apr 06, 2025",CENTRAL,Priya Raman,Ergonomic Chair,Furniture,1,$255.36,15%,$217.06
+SO-202504-0524,"Apr 17, 2025",NORTH,Avery Lindqvist,Webcam HD,Peripherals,11,$71.54,5%,$747.59
+SO-202504-0525,"Apr 24, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,10,$244.89,0%,"$2,448.90"
+SO-202504-0526,"Apr 26, 2025",EAST,Sofia Duarte,Task Light,Lighting,6,$52.35,0%,$314.10
+SO-202504-0527,"Apr 05, 2025",NORTH,Mateo Ruiz,Task Light,Lighting,11,$52.24,0%,$574.64
+SO-202504-0528,"Apr 11, 2025",NORTH,Jonas Weber,Laptop Stand,Accessories,9,$45.04,0%,$405.36
+SO-202504-0529,"Apr 03, 2025",SOUTH,Noor Haddad,Desk Lamp,Lighting,6,$40.43,10%,$218.32
+SO-202504-0530,"Apr 26, 2025",SOUTH,Priya Raman,Webcam HD,Peripherals,3,$75.83,15%,$193.37
+SO-202504-0531,"Apr 18, 2025",EAST,Tariq Aziz,USB-C Hub,Peripherals,3,$63.76,5%,$181.72
+SO-202504-0532,"Apr 06, 2025",NORTH,Tariq Aziz,Ergonomic Chair,Furniture,6,$249.80,10%,"$1,348.92"
+SO-202504-0533,"Apr 08, 2025",CENTRAL,Noor Haddad,Task Light,Lighting,5,$54.42,0%,$272.10
+SO-202504-0534,"Apr 10, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,12,$244.66,10%,"$2,642.33"
+SO-202504-0535,"Apr 21, 2025",NORTH,Mateo Ruiz,Webcam HD,Peripherals,3,$76.96,0%,$230.88
+SO-202504-0536,"Apr 09, 2025",WEST,Sofia Duarte,Standing Desk,Furniture,2,$340.07,5%,$646.13
+SO-202504-0537,"Apr 24, 2025",SOUTH,Avery Lindqvist,Monitor Arm,Accessories,9,$91.09,0%,$819.81
+SO-202504-0538,"Apr 10, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,11,$120.67,15%,"$1,128.26"
+SO-202504-0539,"Apr 14, 2025",EAST,Imani Okafor,Standing Desk,Furniture,4,$330.22,0%,"$1,320.88"
+SO-202504-0540,"Apr 01, 2025",WEST,Imani Okafor,Cable Tray,Accessories,3,$18.95,15%,$48.32
+SO-202504-0541,"Apr 29, 2025",SOUTH,Mateo Ruiz,Monitor Arm,Accessories,8,$89.66,10%,$645.55
+SO-202504-0542,"Apr 09, 2025",SOUTH,Avery Lindqvist,Filing Cabinet,Furniture,6,$141.13,5%,$804.44
+SO-202504-0543,"Apr 20, 2025",WEST,Tariq Aziz,USB-C Hub,Peripherals,2,$62.13,5%,$118.05
+SO-202504-0544,"Apr 13, 2025",EAST,Kenji Mori,Cable Tray, Accessories  ,7,$19.23,15%,$114.42
+SO-202504-0545,"Apr 12, 2025",EAST,Noor Haddad,Wireless Keyboard,Peripherals,11,$58.90,10%,$583.11
+SO-202504-0546,"Apr 10, 2025",EAST,Priya Raman,Desk Lamp,Lighting,10,$38.66,15%,$328.61
+SO-202504-0547,"Apr 08, 2025",NORTH,Mateo Ruiz,Monitor Arm,Accessories,12,$91.76,10%,$991.01
+SO-202504-0548,"Apr 18, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,2,$119.09,15%,$202.45
+SO-202504-0549,"Apr 05, 2025",SOUTH,Mateo Ruiz,Desk Lamp,Lighting,9,$38.48,0%,$346.32
+SO-202504-0550,"Apr 13, 2025",NORTH,Priya Raman,Task Light,Lighting,2,$52.65,0%,$105.30
+SO-202504-0551,"Apr 28, 2025",NORTH,Jonas Weber,Webcam HD,Peripherals,1,$74.54,0%,$74.54
+SO-202504-0552,"Apr 04, 2025",NORTH,Elena Petrova,USB-C Hub,Peripherals,10,$64.35,10%,$579.15
+SO-202504-0553,"Apr 19, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,2,$257.08,0%,
+SO-202504-0554,"Apr 19, 2025",NORTH,Kenji Mori,Desk Lamp,Lighting,5,$40.65,0%,$203.25
+SO-202504-0555,"Apr 26, 2025",SOUTH,Kenji Mori,Bookshelf,Furniture,9,$123.35,5%,"$1,054.64"
+SO-202504-0556,"Apr 29, 2025",WEST,Priya Raman,Task Light, Lighting  ,2,$52.78,10%,$95.00
+SO-202504-0557,"Apr 19, 2025",SOUTH,Sofia Duarte,Task Light,Lighting,12,$55.47,0%,$665.64
+SO-202504-0558,"Apr 29, 2025",WEST,Priya Raman,Filing Cabinet,Furniture,3,$141.64,0%,$424.92
+SO-202504-0559,"Apr 18, 2025",SOUTH,Elena Petrova,Monitor Arm,Accessories,5,$86.17,15%,$366.22
+SO-202504-0560,"Apr 01, 2025",NORTH,Elena Petrova,Task Light,Lighting,8,$54.36,10%,$391.39
+SO-202504-0500,"Apr 14, 2025",EAST,Mateo Ruiz,Task Light,Lighting,12,$54.67,0%,$656.04
+SO-202504-0561,"Apr 23, 2025",EAST,Priya Raman,Bookshelf,Furniture,11,$118.81,0%,"$1,306.91"
+SO-202504-0562,"Apr 08, 2025",EAST,Mateo Ruiz,Bookshelf,Furniture,11,$119.08,5%,"$1,244.39"
+SO-202504-0563,"Apr 10, 2025",EAST,Kenji Mori,Standing Desk,Furniture,2,$322.34,5%,$612.45
+SO-202504-0564,"Apr 08, 2025",NORTH,Jonas Weber,Laptop Stand,Accessories,6,$45.52,10%,$245.81
+SO-202504-0565,"Apr 16, 2025",SOUTH,Kenji Mori,Standing Desk,Furniture,8,$331.75,5%,"$2,521.30"
+SO-202504-0566,"Apr 21, 2025",WEST,Jonas Weber,Bookshelf,Furniture,4,$118.44,5%,$450.07
+SO-202504-0567,"Apr 23, 2025",SOUTH,Priya Raman,Webcam HD,Peripherals,9,$73.45,10%,$594.95
+SO-202504-0568,"Apr 20, 2025",NORTH,Sofia Duarte,Wireless Keyboard,Peripherals,9,$60.00,15%,$459.00
+SO-202504-0569,"Apr 07, 2025",EAST,Jonas Weber,Standing Desk,Furniture,2,$332.00,5%,$630.80
+SO-202504-0570,"Apr 08, 2025",EAST,Sofia Duarte,Cable Tray,Accessories,9,$20.07,10%,$162.57
+SO-202504-0571,"Apr 15, 2025",EAST,Priya Raman,Desk Lamp,Lighting,8,$39.77,5%,$302.25
+SO-202504-0572,"Apr 19, 2025",SOUTH,Sofia Duarte,Ergonomic Chair,Furniture,8,$253.98,10%,"$1,828.66"
+SO-202504-0573,"Apr 07, 2025",NORTH,Priya Raman,Desk Lamp,Lighting,6,$39.91,0%,$239.46
+SO-202504-0574,"Apr 06, 2025",EAST,Tariq Aziz,Wireless Keyboard,Peripherals,6,$58.15,15%,$296.57
+SO-202504-0575,"Apr 23, 2025",NORTH,Mateo Ruiz,Standing Desk,Furniture,10,$321.57,0%,"$3,215.70"
+SO-202504-0576,"Apr 29, 2025",SOUTH,Kenji Mori,Cable Tray,Accessories,3,$18.80,10%,$50.76
+SO-202504-0577,"Apr 04, 2025",NORTH,Priya Raman,Task Light,Lighting,11,$53.75,0%,$591.25
+SO-202504-0578,"Apr 22, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,2,$91.35,10%,$164.43
+SO-202504-0579,"Apr 22, 2025",WEST,Noor Haddad,Monitor Arm,Accessories,11,$90.65,0%,$997.15
+SO-202504-0580,"Apr 02, 2025",SOUTH,Sofia Duarte,Monitor Arm,Accessories,6,$90.61,0%,$543.66
+SO-202504-0581,"Apr 18, 2025",NORTH, Jonas Weber  ,Wireless Keyboard,Peripherals,9,$58.41,15%,$446.84
+SO-202504-0582,"Apr 04, 2025",EAST,Imani Okafor,Bookshelf,Furniture,4,$122.87,10%,$442.33
+SO-202504-0583,"Apr 12, 2025",NORTH,Noor Haddad,USB-C Hub,Peripherals,12,$64.64,0%,$775.68
+SO-202504-0584,"Apr 16, 2025",NORTH,Elena Petrova,Webcam HD,Peripherals,1,$73.82,0%,$73.82
+SO-202504-0585,"Apr 20, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,3,$56.77,10%,$153.28
+SO-202504-0586,"Apr 05, 2025",EAST,Priya Raman,Ergonomic Chair,Furniture,4,$242.20,0%,$968.80
+SO-202504-0587,"Apr 02, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,2,$91.40,5%,$173.66
+SO-202504-0588,"Apr 21, 2025",WEST,Imani Okafor,Ergonomic Chair,Furniture,4,$241.18,15%,$820.01
+SO-202504-0589,"Apr 20, 2025",WEST,Imani Okafor,Desk Lamp,Lighting,8,$40.32,0%,$322.56
+SO-202504-0590,"Apr 17, 2025",NORTH,Imani Okafor,Wireless Keyboard,Peripherals,1,$58.58,0%,$58.58
+SO-202504-0591,"Apr 19, 2025",SOUTH,Mateo Ruiz,Cable Tray,Accessories,8,$19.74,0%,$157.92
+SO-202504-0592,"Apr 09, 2025",SOUTH,Noor Haddad,USB-C Hub,Peripherals,3,$63.10,15%,$160.91
+SO-202504-0593,"Apr 04, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,11,$89.05,10%,$881.60
+SO-202504-0594,"Apr 26, 2025",EAST,Priya Raman,Cable Tray,Accessories,10,$20.08,0%,$200.80
+SO-202504-0595,"Apr 02, 2025",SOUTH,Elena Petrova,Ergonomic Chair,Furniture,6,$240.27,15%,"$1,225.38"
+SO-202504-0596,"Apr 17, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,7,$60.00,5%,$399.00
+SO-202504-0597,"Apr 25, 2025",NORTH,Noor Haddad,Task Light,Lighting,7,$55.92,0%,$391.44
+SO-202504-0598,"Apr 19, 2025",NORTH,Sofia Duarte,Ergonomic Chair,Furniture,4,$253.58,0%,"$1,014.32"
+SO-202504-0599,"Apr 14, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,10,$59.04,0%,$590.40
+SO-202504-0600,"Apr 03, 2025",EAST,Avery Lindqvist,Bookshelf,Furniture,9,$121.00,0%,"$1,089.00"
+SO-202504-0601,"Apr 22, 2025",WEST,Kenji Mori,Filing Cabinet,Furniture,3,$136.35,15%,$347.69
+SO-202504-0602,"Apr 02, 2025",EAST,Kenji Mori,Monitor Arm,Accessories,3,$89.17,5%,$254.13
+SO-202504-0603,"Apr 29, 2025",EAST,Tariq Aziz,Bookshelf,Furniture,9,$122.24,0%,"$1,100.16"
+SO-202504-0604,"Apr 14, 2025",EAST,Avery Lindqvist,Wireless Keyboard,Peripherals,10,$56.89,15%,$483.57
+SO-202504-0605,"Apr 19, 2025",SOUTH,Mateo Ruiz,Laptop Stand,Accessories,7,$45.56,0%,$318.92
+SO-202504-0606,"Apr 28, 2025",EAST,Kenji Mori,Filing Cabinet,Furniture,8,$142.84,10%,"$1,028.45"
+SO-202504-0607,"Apr 10, 2025",WEST,Noor Haddad,Laptop Stand,Accessories,8,$45.65,15%,$310.42
+SO-202504-0608,"Apr 24, 2025",SOUTH,Jonas Weber,Wireless Keyboard,Peripherals,12,$60.07,15%,$612.71
+SO-202504-0609,"Apr 19, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,3,$243.49,0%,$730.47
+SO-202504-0610,"Apr 23, 2025",NORTH,Kenji Mori,Desk Lamp,Lighting,12,$40.94,15%,$417.59
+SO-202504-0611,"Apr 22, 2025",CENTRAL,Noor Haddad,Bookshelf,Furniture,12,$119.09,0%,"$1,429.08"
+SO-202504-0612,"Apr 15, 2025",NORTH,Priya Raman,Standing Desk,Furniture,4,$340.21,5%,"$1,292.80"
+SO-202504-0613,"Apr 19, 2025",WEST,Priya Raman,Cable Tray,Accessories,3,$19.49,10%,$52.62
+SO-202504-0614,"Apr 04, 2025",WEST,Tariq Aziz,Bookshelf,Furniture,9,$123.04,5%,"$1,051.99"
+SO-202504-0615,"Apr 21, 2025",CENTRAL,Priya Raman,USB-C Hub,Peripherals,12,$66.06,0%,$792.72
+SO-202504-0616,"Apr 09, 2025",EAST,Noor Haddad,Webcam HD,Peripherals,2,$74.73,10%,$134.51
+SO-202504-0617,"Apr 14, 2025",NORTH,Jonas Weber,Cable Tray,Accessories,2,$19.64,15%,$33.39
+SO-202504-0618,"Apr 13, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,9,$121.89,0%,"$1,097.01"
+SO-202504-0619,"Apr 10, 2025",WEST,Tariq Aziz, Laptop Stand  ,Accessories,8,$45.81,5%,$348.16
+SO-202504-0620,"Apr 06, 2025",WEST,Sofia Duarte,Bookshelf,Furniture,6,$115.57,0%,$693.42
+SO-202504-0621,"Apr 06, 2025",EAST,Avery Lindqvist,Webcam HD,Peripherals,11,$76.06,10%,$752.99
+SO-202504-0622,"Apr 01, 2025",WEST,Imani Okafor,Webcam HD,Peripherals,5,$76.70,5%,$364.33
+SO-202504-0623,"Apr 16, 2025",CENTRAL,Jonas Weber,Filing Cabinet,Furniture,6,$134.11,10%,$724.19
+SO-202504-0624,"Apr 24, 2025",WEST,Priya Raman,Monitor Arm,Accessories,10,$90.58,5%,$860.51
+SO-202504-0625,"Apr 15, 2025",CENTRAL,Imani Okafor,Webcam HD,Peripherals,8,$76.73,0%,$613.84
+SO-202504-0626,"Apr 10, 2025",CENTRAL,Noor Haddad,Webcam HD,Peripherals,9,$72.73,5%,
+SO-202504-0627,"Apr 04, 2025",EAST,Jonas Weber,USB-C Hub,Peripherals,11,$65.46,10%,$648.05
+SO-202504-0628,"Apr 18, 2025",EAST,Noor Haddad,Webcam HD,Peripherals,11,$73.67,0%,$810.37
+SO-202504-0629,"Apr 13, 2025",SOUTH,Elena Petrova,Filing Cabinet,Furniture,3,$137.49,0%,$412.47
+SO-202504-0636,"Apr 28, 2025",CENTRAL,Sofia Duarte,Standing Desk,Furniture,9,$329.74,10%,"$2,670.89"
+SO-202504-0630,"Apr 18, 2025",NORTH,Imani Okafor,Standing Desk,Furniture,11,$316.46,5%,"$3,307.01"
+SO-202504-0631,"Apr 22, 2025",SOUTH,Sofia Duarte,Task Light,Lighting,11,$53.92,0%,$593.12
+SO-202504-0632,"Apr 08, 2025",WEST,Jonas Weber,Cable Tray,Accessories,5,$20.08,5%,$95.38
+SO-202504-0633,"Apr 10, 2025",NORTH,Jonas Weber,Filing Cabinet,Furniture,2,$143.73,0%,$287.46
+SO-202504-0634,"Apr 17, 2025",WEST,Avery Lindqvist,Ergonomic Chair,Furniture,8,$248.79,15%,"$1,691.77"
+SO-202504-0635,"Apr 12, 2025",WEST,Mateo Ruiz,Task Light,Lighting,4,$54.68,0%,$218.72
+SO-202504-0636,"Apr 28, 2025",CENTRAL,Sofia Duarte,Standing Desk,Furniture,9,$329.74,10%,"$2,670.89"
+SO-202504-0637,"Apr 27, 2025",EAST,Kenji Mori,Desk Lamp,Lighting,11,$40.90,0%,$449.90
+SO-202504-0638,"Apr 06, 2025",WEST,Avery Lindqvist,Webcam HD,Peripherals,2,$72.20,5%,$137.18
+SO-202504-0639,"Apr 22, 2025",SOUTH,Tariq Aziz,Cable Tray,Accessories,4,$19.02,5%,$72.28
+SO-202504-0640,"Apr 26, 2025",NORTH, Elena Petrova  ,Wireless Keyboard,Peripherals,8,$58.02,0%,$464.16
+SO-202504-0641,"Apr 17, 2025",EAST,Mateo Ruiz,Laptop Stand,Accessories,11,$44.66,0%,$491.26
+SO-202504-0642,"Apr 17, 2025",CENTRAL,Tariq Aziz,Wireless Keyboard,Peripherals,12,$56.99,15%,$581.30
+SO-202504-0643,"Apr 27, 2025",NORTH,Sofia Duarte,Bookshelf,Furniture,8,$123.32,10%,$887.90
+SO-202504-0644,"Apr 03, 2025",CENTRAL,Elena Petrova,Monitor Arm,Accessories,1,$87.07,0%,$87.07
+SO-202504-0645,"Apr 15, 2025",EAST,Elena Petrova,Webcam HD,Peripherals,8,$74.57,0%,$596.56
+SO-202504-0646,"Apr 17, 2025",EAST,Sofia Duarte,Ergonomic Chair,Furniture,11,$254.65,15%,"$2,380.98"
+SO-202504-0647,"Apr 17, 2025",WEST,Jonas Weber,Task Light,Lighting,8,$56.09,10%,$403.85
+SO-202504-0648,"Apr 29, 2025",SOUTH,Priya Raman,Webcam HD,Peripherals,7,$75.94,15%,$451.84
+SO-202504-0649,"Apr 01, 2025",NORTH,Tariq Aziz,Filing Cabinet,Furniture,12,$143.42,5%,"$1,634.99"
+SO-202504-0650,"Apr 10, 2025",NORTH,Tariq Aziz,Laptop Stand,Accessories,12,$46.53,5%,$530.44
+SO-202504-0651,"Apr 28, 2025",SOUTH,Kenji Mori, Task Light  ,Lighting,6,$53.70,0%,$322.20
+SO-202504-0652,"Apr 05, 2025",WEST,Jonas Weber,Task Light,Lighting,8,$53.28,5%,$404.93
+SO-202504-0653,"Apr 22, 2025",EAST,Kenji Mori,Webcam HD,Peripherals,12,$71.61,10%,$773.39
+SO-202504-0654,"Apr 19, 2025",SOUTH,Tariq Aziz,Wireless Keyboard,Peripherals,12,$60.71,15%,$619.24
+SO-202504-0655,"Apr 02, 2025",SOUTH,Noor Haddad,Webcam HD,Peripherals,4,$73.39,5%,$278.88
+SO-202504-0656,"Apr 15, 2025",SOUTH,Noor Haddad,Standing Desk,Furniture,7,$320.11,0%,"$2,240.77"
+SO-202504-0657,"Apr 01, 2025",EAST,Kenji Mori,Ergonomic Chair,Furniture,11,$256.47,15%,"$2,397.99"
+SO-202504-0658,"Apr 26, 2025",WEST,Elena Petrova,Webcam HD,Peripherals,8,$75.34,10%,$542.45
+SO-202504-0659,"Apr 10, 2025",EAST,Jonas Weber,Ergonomic Chair,Furniture,5,$249.12,0%,"$1,245.60"
+SO-202504-0660,"Apr 05, 2025",SOUTH,Imani Okafor,Desk Lamp,Lighting,3,$38.53,0%,$115.59
+SO-202504-0661,"Apr 11, 2025",CENTRAL,Sofia Duarte,Task Light,Lighting,8,$53.73,0%,$429.84
+SO-202504-0662,"Apr 12, 2025",SOUTH,Elena Petrova,Laptop Stand,Accessories,6,$43.63,0%,$261.78
+SO-202504-0663,"Apr 15, 2025",SOUTH,Imani Okafor,USB-C Hub,Peripherals,11,$65.48,5%,$684.27
+SO-202504-0664,"Apr 05, 2025",NORTH,Tariq Aziz,Cable Tray,Accessories,9,$18.72,0%,$168.48
+SO-202504-0665,"Apr 12, 2025",SOUTH,Imani Okafor,USB-C Hub,Peripherals,2,$61.72,0%,$123.44
+SO-202504-0666,"Apr 18, 2025",EAST,Priya Raman,Webcam HD,Peripherals,3,$75.58,15%,$192.73
+SO-202504-0667,"Apr 06, 2025",SOUTH, Tariq Aziz  ,Ergonomic Chair,Furniture,12,$245.60,5%,"$2,799.84"
+SO-202504-0668,"Apr 11, 2025",EAST,Kenji Mori,USB-C Hub,Peripherals,12,$65.60,15%,$669.12
+SO-202504-0669,"Apr 09, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,11,$119.29,15%,"$1,115.36"
+SO-202504-0670,"Apr 24, 2025",NORTH,Sofia Duarte,Wireless Keyboard,Peripherals,1,$59.47,15%,$50.55
+SO-202504-0671,"Apr 07, 2025",SOUTH,Imani Okafor,Cable Tray,Accessories,12,$20.11,15%,$205.12
+SO-202504-0672,"Apr 28, 2025",WEST,Noor Haddad,Webcam HD,Peripherals,8,$75.85,15%,$515.78
+SO-202504-0709,"Apr 05, 2025",SOUTH,Avery Lindqvist,Bookshelf,Furniture,10,$114.69,0%,"$1,146.90"
+SO-202504-0673,"Apr 28, 2025",EAST,Elena Petrova,Wireless Keyboard, Peripherals  ,11,$57.18,0%,$628.98
+SO-202504-0674,"Apr 14, 2025",SOUTH,Sofia Duarte,Monitor Arm,Accessories,2,$91.49,0%,$182.98
+SO-202504-0675,"Apr 17, 2025",WEST,Jonas Weber,Desk Lamp,Lighting,3,$39.03,0%,$117.09
+SO-202504-0676,"Apr 16, 2025",EAST,Sofia Duarte,Webcam HD,Peripherals,8,$73.38,15%,$498.98
+SO-202504-0677,"Apr 03, 2025",WEST,Tariq Aziz,Task Light,Lighting,1,$52.32,15%,$44.47
+SO-202504-0678,"Apr 30, 2025",EAST,Elena Petrova,Webcam HD,Peripherals,3,$72.35,0%,$217.05
+SO-202504-0599,"Apr 14, 2025",SOUTH,Elena Petrova,Wireless Keyboard,Peripherals,10,$59.04,0%,$590.40
+SO-202504-0679,"Apr 27, 2025",CENTRAL,Jonas Weber,Wireless Keyboard,Peripherals,2,$59.18,5%,$112.44
+SO-202504-0680,"Apr 05, 2025",SOUTH,Mateo Ruiz,Bookshelf,Furniture,9,$121.80,5%,"$1,041.39"
+SO-202504-0681,"Apr 15, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,10,$19.12,10%,$172.08
+SO-202504-0682,"Apr 29, 2025",EAST,Sofia Duarte,USB-C Hub,Peripherals,11,$62.33,0%,$685.63
+SO-202504-0683,"Apr 05, 2025",SOUTH,Elena Petrova,Monitor Arm,Accessories,7,$86.11,0%,$602.77
+SO-202504-0684,"Apr 18, 2025",NORTH,Noor Haddad,Ergonomic Chair,Furniture,3,$257.47,0%,$772.41
+SO-202504-0685,"Apr 04, 2025",NORTH,Noor Haddad,Filing Cabinet,Furniture,6,$134.15,5%,$764.66
+SO-202504-0686,"Apr 18, 2025",SOUTH,Priya Raman,Cable Tray,Accessories,5,$19.22,0%,$96.10
+SO-202504-0687,"Apr 24, 2025",SOUTH,Tariq Aziz,Standing Desk,Furniture,7,$325.35,5%,"$2,163.58"
+SO-202504-0688,"Apr 22, 2025",NORTH,Kenji Mori,USB-C Hub,Peripherals,6,$64.73,15%,$330.12
+SO-202504-0689,"Apr 30, 2025",SOUTH,Jonas Weber,Cable Tray,Accessories,2,$18.80,0%,$37.60
+SO-202504-0690,"Apr 10, 2025",WEST,Mateo Ruiz,Standing Desk,Furniture,10,$322.71,10%,"$2,904.39"
+SO-202504-0691,"Apr 07, 2025",CENTRAL,Kenji Mori,Desk Lamp,Lighting,3,$40.21,0%,$120.63
+SO-202504-0692,"Apr 14, 2025",CENTRAL,Priya Raman,Standing Desk,Furniture,4,$339.37,5%,"$1,289.61"
+SO-202504-0693,"Apr 21, 2025",SOUTH,Imani Okafor,Webcam HD,Peripherals,4,$73.58,0%,$294.32
+SO-202504-0694,"Apr 12, 2025",NORTH,Kenji Mori,Filing Cabinet,Furniture,4,$136.10,0%,$544.40
+SO-202504-0695,"Apr 27, 2025",NORTH,Tariq Aziz,USB-C Hub, Peripherals  ,2,$64.03,0%,$128.06
+SO-202504-0696,"Apr 05, 2025",SOUTH,Mateo Ruiz,USB-C Hub,Peripherals,3,$62.81,0%,$188.43
+SO-202504-0697,"Apr 18, 2025",EAST,Tariq Aziz,USB-C Hub,Peripherals,9,$62.87,5%,$537.54
+SO-202504-0698,"Apr 12, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,1,$141.11,5%,$134.05
+SO-202504-0699,"Apr 21, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,7,$44.94,0%,$314.58
+SO-202504-0700,"Apr 30, 2025",NORTH,Mateo Ruiz,Bookshelf,Furniture,1,$123.20,5%,$117.04
+SO-202504-0701,"Apr 08, 2025",SOUTH,Sofia Duarte,Task Light,Lighting,2,$51.85,10%,$93.33
+SO-202504-0702,"Apr 29, 2025",NORTH,Elena Petrova,Wireless Keyboard,Peripherals,4,$60.98,10%,$219.53
+SO-202504-0703,"Apr 01, 2025",WEST,Mateo Ruiz,Webcam HD,Peripherals,5,$73.25,0%,$366.25
+SO-202504-0704,"Apr 11, 2025",WEST,Imani Okafor,Task Light,Lighting,6,$53.50,0%,$321.00
+SO-202504-0705,"Apr 25, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,7,$66.45,0%,$465.15
+SO-202504-0706,"Apr 04, 2025",NORTH,Kenji Mori,Filing Cabinet,Furniture,5,$141.26,0%,$706.30
+SO-202504-0707,"Apr 11, 2025",NORTH,Mateo Ruiz,Standing Desk,Furniture,1,$320.90,10%,$288.81
+SO-202504-0708,"Apr 12, 2025",SOUTH,Tariq Aziz,Desk Lamp,Lighting,7,$40.73,0%,$285.11
+SO-202504-0709,"Apr 05, 2025",SOUTH,Avery Lindqvist,Bookshelf,Furniture,10,$114.69,0%,"$1,146.90"
+SO-202504-0710,"Apr 06, 2025",CENTRAL,Avery Lindqvist,Monitor Arm,Accessories,8,$86.13,5%,$654.59
+SO-202504-0711,"Apr 17, 2025",EAST,Elena Petrova,Desk Lamp,Lighting,11,$41.13,0%,$452.43
+SO-202504-0712,"Apr 08, 2025",SOUTH,Priya Raman,Standing Desk,Furniture,3,$316.89,10%,$855.60
+SO-202504-0713,"Apr 01, 2025",NORTH,Mateo Ruiz,Desk Lamp,Lighting,11,$39.41,10%,$390.16
+SO-202504-0714,"Apr 11, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,8,$76.54,15%,$520.47
+SO-202504-0715,"Apr 17, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,8,$316.53,0%,"$2,532.24"
+SO-202504-0716,"Apr 11, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,4,$318.87,15%,"$1,084.16"
+SO-202504-0717,"Apr 28, 2025",CENTRAL,Tariq Aziz,Wireless Keyboard,Peripherals,12,$60.64,0%,$727.68
+SO-202504-0718,"Apr 03, 2025",CENTRAL,Priya Raman,Wireless Keyboard,Peripherals,9,$60.24,0%,$542.16
+SO-202504-0719,"Apr 09, 2025",NORTH,Sofia Duarte,USB-C Hub,Peripherals,5,$64.54,0%,$322.70
+SO-202504-0720,"Apr 14, 2025",NORTH,Priya Raman,Laptop Stand,Accessories,9,$45.73,0%,$411.57
+SO-202504-0721,"Apr 25, 2025",NORTH,Jonas Weber,Standing Desk,Furniture,12,$331.00,5%,"$3,773.40"
+SO-202504-0722,"Apr 30, 2025",WEST,Noor Haddad,Task Light,Lighting,10,$54.92,0%,$549.20
+SO-202504-0723,"Apr 30, 2025",NORTH,Kenji Mori,Ergonomic Chair,Furniture,8,$254.41,0%,"$2,035.28"
+SO-202504-0724,"Apr 26, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,4,$88.53,0%,$354.12
+SO-202504-0725,"Apr 22, 2025",CENTRAL,Elena Petrova,Task Light,Lighting,1,$52.88,0%,$52.88
+SO-202504-0726,"Apr 30, 2025",WEST,Noor Haddad,Filing Cabinet,Furniture,1,$139.45,15%,$118.53
+SO-202504-0727,"Apr 23, 2025",NORTH,Noor Haddad,Bookshelf,Furniture,10,$118.63,0%,"$1,186.30"
+SO-202504-0728,"Apr 09, 2025",WEST,Noor Haddad,Desk Lamp,Lighting,11,$39.56,0%,$435.16
+SO-202504-0729,"Apr 29, 2025",SOUTH,Priya Raman,USB-C Hub,Peripherals,2,$65.18,5%,$123.84
+SO-202504-0730,"Apr 24, 2025",CENTRAL,Tariq Aziz,Ergonomic Chair,Furniture,11,$250.45,0%,"$2,754.95"
+SO-202504-0731,"Apr 09, 2025",EAST,Kenji Mori,Webcam HD,Peripherals,11,$72.69,0%,$799.59
+SO-202504-0732,"Apr 29, 2025",WEST,Jonas Weber,USB-C Hub,Peripherals,3,$65.39,0%,$196.17
+SO-202504-0733,"Apr 16, 2025",WEST,Noor Haddad,Filing Cabinet,Furniture,3,$139.33,15%,$355.29
+SO-202504-0734,"Apr 09, 2025",EAST,Avery Lindqvist,Ergonomic Chair,Furniture,2,$254.74,10%,$458.53
+SO-202504-0735,"Apr 17, 2025",WEST,Imani Okafor,Filing Cabinet,Furniture,9,$138.86,15%,"$1,062.28"
+SO-202504-0736,"Apr 08, 2025",EAST,Imani Okafor,Wireless Keyboard,Peripherals,6,$60.55,10%,$326.97
+SO-202504-0737,"Apr 06, 2025",SOUTH,Priya Raman,Standing Desk,Furniture,2,$330.50,5%,$627.95
+SO-202504-0738,"Apr 12, 2025",EAST,Imani Okafor,Laptop Stand,Accessories,11,$43.37,15%,$405.51
+SO-202504-0739,"Apr 11, 2025",WEST,Avery Lindqvist,Cable Tray,Accessories,1,$19.72,10%,$17.75
+SO-202504-0740,"Apr 22, 2025",EAST,Imani Okafor,Filing Cabinet,Furniture,8,$139.28,10%,"$1,002.82"
+SO-202504-0741,"Apr 22, 2025",EAST,Priya Raman,Ergonomic Chair,Furniture,5,$239.65,5%,"$1,138.34"
+SO-202504-0742,"Apr 13, 2025",SOUTH,Kenji Mori,Laptop Stand,Accessories,9,$45.65,0%,$410.85
+SO-202504-0743,"Apr 20, 2025",WEST,Sofia Duarte,Wireless Keyboard,Peripherals,11,$57.97,5%,$605.79
+SO-202504-0744,"Apr 27, 2025",SOUTH,Jonas Weber,USB-C Hub,Peripherals,10,$64.39,10%,$579.51
+SO-202504-0745,"Apr 18, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,4,$63.30,5%,$240.54
+SO-202504-0746,"Apr 27, 2025",SOUTH,Kenji Mori,Webcam HD,Peripherals,5,$75.56,10%,$340.02
+SO-202504-0747,"Apr 20, 2025",EAST,Sofia Duarte,Webcam HD,Peripherals,9,$77.36,10%,$626.62
+SO-202504-0748,"Apr 08, 2025",SOUTH,Jonas Weber,Task Light,Lighting,7,$52.27,15%,$311.01
+SO-202504-0749,"Apr 23, 2025",SOUTH,Elena Petrova,Laptop Stand,Accessories,11,$46.42,10%,$459.56
+SO-202504-0750,"Apr 23, 2025",WEST,Kenji Mori,USB-C Hub,Peripherals,3,$62.08,10%,$167.62
+SO-202504-0751,"Apr 26, 2025",SOUTH,Kenji Mori,USB-C Hub,Peripherals,6,$62.82,5%,$358.07
+SO-202504-0752,"Apr 23, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair,Furniture,5,$239.81,0%,"$1,199.05"
+SO-202504-0753,"Apr 18, 2025",NORTH,Sofia Duarte,Ergonomic Chair,Furniture,1,$241.89,0%,$241.89
+SO-202504-0754,"Apr 22, 2025",SOUTH,Elena Petrova,Task Light,Lighting,1,$53.68,5%,$51.00
+SO-202504-0755,"Apr 24, 2025",NORTH,Imani Okafor,Cable Tray,Accessories,11,$19.92,0%,$219.12
+SO-202504-0154,"Apr 28, 2025",NORTH,Imani Okafor,Ergonomic Chair,Furniture,12,$257.43,10%,"$2,780.24"
+SO-202504-0756,"Apr 08, 2025",EAST,Avery Lindqvist,Desk Lamp,Lighting,7,$41.10,10%,$258.93
+SO-202504-0757,"Apr 24, 2025",SOUTH,Avery Lindqvist,Desk Lamp,Lighting,6,$38.88,15%,$198.29
+SO-202504-0758,"Apr 30, 2025",NORTH,Tariq Aziz,Task Light,Lighting,5,$55.36,10%,$249.12
+SO-202504-0759,"Apr 17, 2025",EAST,Sofia Duarte,Desk Lamp,Lighting,8,$39.79,0%,$318.32
+SO-202504-0760,"Apr 17, 2025",NORTH,Imani Okafor,Monitor Arm,Accessories,1,$89.35,15%,$75.95
+SO-202504-0761,"Apr 29, 2025",EAST,Imani Okafor,Standing Desk,Furniture,4,$336.98,0%,"$1,347.92"
+SO-202504-0762,"Apr 21, 2025",WEST,Avery Lindqvist,Filing Cabinet,Furniture,5,$140.41,5%,$666.95
+SO-202504-0763,"Apr 11, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,3,$62.14,0%,$186.42
+SO-202504-0764,"Apr 16, 2025",NORTH,Elena Petrova,Standing Desk,Furniture,11,$324.15,0%,"$3,565.65"
+SO-202504-0765,"Apr 27, 2025",WEST,Avery Lindqvist,Laptop Stand,Accessories,8,$46.46,0%,$371.68
+SO-202504-0766,"Apr 29, 2025",WEST,Mateo Ruiz,Monitor Arm,Accessories,3,$85.90,10%,$231.93
+SO-202504-0767,"Apr 15, 2025",SOUTH,Mateo Ruiz,Filing Cabinet,Furniture,7,$135.25,15%,$804.74
+SO-202504-0768,"Apr 29, 2025",CENTRAL,Sofia Duarte,USB-C Hub,Peripherals,10,$63.17,0%,$631.70
+SO-202504-0769,"Apr 27, 2025",WEST,Tariq Aziz,USB-C Hub,Peripherals,1,$64.42,15%,$54.76
+SO-202504-0770,"Apr 18, 2025",NORTH,Elena Petrova, Bookshelf  ,Furniture,4,$117.15,10%,$421.74
+SO-202504-0771,"Apr 30, 2025",NORTH,Sofia Duarte,Bookshelf,Furniture,8,$117.98,15%,$802.26
+SO-202504-0772,"Apr 20, 2025",NORTH,Jonas Weber,Monitor Arm,Accessories,12,$88.67,0%,"$1,064.04"
+SO-202504-0773,"Apr 23, 2025",EAST,Tariq Aziz,Filing Cabinet,Furniture,10,$140.64,5%,"$1,336.08"
+SO-202504-0774,"Apr 27, 2025",SOUTH,Elena Petrova,Bookshelf,Furniture,3,$120.33,15%,$306.84
+SO-202504-0775,"Apr 30, 2025",EAST,Kenji Mori,Wireless Keyboard,Peripherals,3,$56.73,0%,$170.19
+SO-202504-0776,"Apr 08, 2025",SOUTH,Avery Lindqvist,Laptop Stand,Accessories,6,$46.79,5%,$266.70
+SO-202504-0777,"Apr 26, 2025",EAST,Avery Lindqvist,USB-C Hub,Peripherals,9,$64.91,0%,$584.19
+SO-202504-0778,"Apr 24, 2025",WEST,Avery Lindqvist,Standing Desk,Furniture,3,$323.47,5%,$921.89
+SO-202504-0779,"Apr 13, 2025",SOUTH,Noor Haddad,Wireless Keyboard,Peripherals,12,$58.41,0%,$700.92
+SO-202504-0780,"Apr 18, 2025",NORTH,Imani Okafor,Desk Lamp,Lighting,2,$38.96,5%,$74.02
+SO-202504-0781,"Apr 25, 2025",WEST,Mateo Ruiz,Monitor Arm,Accessories,11,$91.17,10%,$902.58
+SO-202504-0782,"Apr 02, 2025",WEST,Sofia Duarte,Cable Tray,Accessories,1,$19.87,0%,$19.87
+SO-202504-0783,"Apr 01, 2025",CENTRAL, Sofia Duarte  ,Monitor Arm,Accessories,11,$92.16,15%,$861.70
+SO-202504-0784,"Apr 25, 2025",SOUTH,Kenji Mori,Laptop Stand,Accessories,4,$44.01,10%,$158.44
+,,,,,,,,,
+SO-202504-0785,"Apr 02, 2025",NORTH,Kenji Mori,Cable Tray,Accessories,7,$19.70,5%,$131.01
+SO-202504-0786,"Apr 26, 2025",EAST,Sofia Duarte,Cable Tray,Accessories,12,$19.51,0%,$234.12
+SO-202504-0787,"Apr 15, 2025",EAST,Kenji Mori,Laptop Stand,Accessories,1,$44.04,15%,$37.43
+SO-202504-0788,"Apr 17, 2025",CENTRAL,Avery Lindqvist,Monitor Arm,Accessories,3,$92.39,0%,$277.17
+SO-202504-0789,"Apr 20, 2025",CENTRAL,Elena Petrova,USB-C Hub,Peripherals,4,$62.51,0%,$250.04
+SO-202504-0790,"Apr 04, 2025",EAST,Mateo Ruiz,Bookshelf,Furniture,9,$114.50,5%,$978.98
+SO-202504-0791,"Apr 09, 2025",EAST,Elena Petrova,Desk Lamp,Lighting,2,$39.49,0%,$78.98
+SO-202504-0792,"Apr 16, 2025",NORTH,Jonas Weber,Webcam HD,Peripherals,5,$72.73,5%,$345.47
+SO-202504-0793,"Apr 04, 2025",NORTH,Mateo Ruiz,USB-C Hub,Peripherals,3,$64.51,0%,$193.53
+SO-202504-0794,"Apr 14, 2025",WEST,Noor Haddad,Ergonomic Chair,Furniture,2,$248.34,10%,$447.01
+SO-202504-0795,"Apr 14, 2025",WEST,Avery Lindqvist,USB-C Hub,Peripherals,4,$66.54,0%,$266.16
+SO-202504-0796,"Apr 02, 2025",EAST,Jonas Weber,USB-C Hub,Peripherals,6,$65.65,0%,$393.90
+SO-202504-0797,"Apr 10, 2025",SOUTH,Elena Petrova,Filing Cabinet,Furniture,4,$136.08,5%,$517.10
+SO-202504-0798,"Apr 29, 2025",CENTRAL,Tariq Aziz,Webcam HD,Peripherals,4,$73.64,10%,$265.10
+SO-202504-0799,"Apr 11, 2025",NORTH,Sofia Duarte,Standing Desk,Furniture,1,$319.72,10%,$287.75
+SO-202504-0800,"Apr 29, 2025",EAST,Kenji Mori,USB-C Hub,Peripherals,8,$65.07,0%,$520.56
+SO-202504-0801,"Apr 22, 2025",SOUTH,Noor Haddad,Cable Tray,Accessories,2,$19.12,0%,$38.24
+SO-202504-0802,"Apr 19, 2025",WEST,Jonas Weber,Bookshelf,Furniture,9,$121.82,10%,$986.74
+SO-202504-0803,"Apr 04, 2025",EAST,Elena Petrova,Laptop Stand,Accessories,3,$43.47,10%,$117.37
+SO-202504-0804,"Apr 29, 2025",NORTH,Avery Lindqvist,Standing Desk,Furniture,9,$339.39,15%,"$2,596.33"
+SO-202504-0805,"Apr 12, 2025",NORTH,Elena Petrova,Standing Desk,Furniture,8,$339.20,15%,"$2,306.56"
+SO-202504-0806,"Apr 02, 2025",EAST,Tariq Aziz,Wireless Keyboard,Peripherals,12,$58.59,5%,$667.93
+SO-202504-0807,"Apr 19, 2025",EAST,Priya Raman,Cable Tray,Accessories,7,$19.78,15%,$117.69
+SO-202504-0808,"Apr 02, 2025",NORTH,Priya Raman,Filing Cabinet,Furniture,12,$141.39,5%,"$1,611.85"
+SO-202504-0809,"Apr 15, 2025",WEST,Tariq Aziz,Ergonomic Chair,Furniture,12,$251.67,10%,"$2,718.04"
+SO-202504-0810,"Apr 02, 2025",NORTH,Jonas Weber,Bookshelf,Furniture,8,$123.04,0%,$984.32
+SO-202504-0811,"Apr 04, 2025",WEST,Jonas Weber,Task Light,Lighting,4,$55.88,15%,$189.99
+SO-202504-0812,"Apr 22, 2025",NORTH,Tariq Aziz,Desk Lamp,Lighting,2,$38.67,10%,$69.61
+SO-202504-0813,"Apr 26, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,8,$43.36,15%,$294.85
+SO-202504-0814,"Apr 07, 2025",CENTRAL,Sofia Duarte,Desk Lamp,Lighting,1,$40.95,5%,$38.90
+SO-202504-0815,"Apr 14, 2025",WEST,Avery Lindqvist,Desk Lamp,Lighting,4,$39.34,0%,$157.36
+SO-202504-0816,"Apr 01, 2025",SOUTH,Sofia Duarte,Standing Desk,Furniture,4,$334.77,5%,"$1,272.13"
+SO-202504-0817,"Apr 07, 2025",SOUTH,Mateo Ruiz,Desk Lamp,Lighting,6,$40.24,10%,$217.30
+SO-202504-0818,"Apr 25, 2025",EAST,Sofia Duarte,USB-C Hub,Peripherals,6,$66.31,10%,$358.07
+SO-202504-0819,"Apr 19, 2025",WEST,Avery Lindqvist,Filing Cabinet,Furniture,11,$138.02,5%,"$1,442.31"
+SO-202504-0820,"Apr 03, 2025",WEST,Sofia Duarte,Desk Lamp,Lighting,9,$39.43,0%,$354.87
+SO-202504-0821,"Apr 24, 2025",SOUTH,Mateo Ruiz,Standing Desk,Furniture,11,$338.07,0%,"$3,718.77"
+SO-202504-0822,"Apr 23, 2025",WEST,Sofia Duarte,Desk Lamp,Lighting,1,$39.44,10%,$35.50
+SO-202504-0823,"Apr 01, 2025",WEST,Imani Okafor,Standing Desk,Furniture,7,$331.71,0%,"$2,321.97"
+SO-202504-0824,"Apr 06, 2025",CENTRAL,Tariq Aziz,Cable Tray,Accessories,11,$20.12,10%,$199.19
+SO-202504-0825,"Apr 30, 2025",WEST,Elena Petrova,Bookshelf,Furniture,8,$116.75,15%,$793.90
+SO-202504-0826,"Apr 01, 2025",EAST,Mateo Ruiz,Cable Tray,Accessories,1,$19.06,0%,$19.06
+SO-202504-0827,"Apr 22, 2025",NORTH,Tariq Aziz,Monitor Arm,Accessories,5,$86.66,15%,$368.31
+SO-202504-0828,"Apr 20, 2025",CENTRAL,Elena Petrova,Wireless Keyboard,Peripherals,5,$57.45,5%,$272.89
+SO-202504-0829,"Apr 16, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,7,$119.55,5%,$795.01
+SO-202504-0830,"Apr 07, 2025",CENTRAL,Avery Lindqvist,Task Light,Lighting,12,$52.98,10%,$572.18
+SO-202504-0831,"Apr 02, 2025",CENTRAL,Avery Lindqvist,Bookshelf,Furniture,8,$115.63,0%,$925.04
+SO-202504-0832,"Apr 14, 2025",NORTH,Mateo Ruiz,Monitor Arm,Accessories,10,$87.21,0%,$872.10
+SO-202504-0833,"Apr 03, 2025",SOUTH,Mateo Ruiz,Webcam HD,Peripherals,9,$71.55,0%,$643.95
+SO-202504-0834,"Apr 10, 2025",NORTH,Priya Raman,Desk Lamp,Lighting,2,$39.02,15%,$66.33
+SO-202504-0835,"Apr 11, 2025",NORTH,Priya Raman,Webcam HD,Peripherals,8,$76.56,15%,$520.61
+SO-202504-0836,"Apr 06, 2025",WEST,Elena Petrova,Filing Cabinet,Furniture,7,$144.56,10%,$910.73
+SO-202504-0837,"Apr 29, 2025",EAST,Avery Lindqvist,Filing Cabinet,Furniture,4,$142.18,15%,$483.41
+SO-202504-0838,"Apr 10, 2025",NORTH,Imani Okafor,Laptop Stand,Accessories,9,$44.76,5%,$382.70
+SO-202504-0839,"Apr 08, 2025",NORTH,Imani Okafor,Webcam HD,Peripherals,8,$77.08,0%,$616.64
+SO-202504-0840,"Apr 13, 2025",NORTH,Sofia Duarte,Laptop Stand,Accessories,3,$43.54,0%,$130.62
+SO-202504-0841,"Apr 27, 2025",EAST,Elena Petrova,Filing Cabinet,Furniture,10,$138.15,10%,"$1,243.35"
+SO-202504-0842,"Apr 24, 2025",NORTH,Mateo Ruiz,Laptop Stand,Accessories,12,$43.67,0%,$524.04
+SO-202504-0843,"Apr 09, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,6,$114.49,0%,$686.94
+SO-202504-0844,"Apr 06, 2025",WEST,Jonas Weber,Laptop Stand,Accessories,4,$43.98,0%,$175.92
+SO-202504-0845,"Apr 17, 2025",EAST,Elena Petrova,Ergonomic Chair,Furniture,1,$247.55,15%,$210.42
+SO-202504-0846,"Apr 02, 2025",NORTH,Avery Lindqvist,Task Light,Lighting,11,$55.62,0%,$611.82
+SO-202504-0847,"Apr 29, 2025",EAST,Priya Raman,Standing Desk,Furniture,10,$337.76,15%,"$2,870.96"
+SO-202504-0848,"Apr 18, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,7,$62.62,10%,$394.51
+SO-202504-0849,"Apr 26, 2025",SOUTH,Noor Haddad,Monitor Arm,Accessories,4,$89.16,15%,$303.14
+SO-202504-0850,"Apr 23, 2025",EAST,Jonas Weber,Monitor Arm,Accessories,9,$86.09,10%,$697.33
+SO-202504-0851,"Apr 10, 2025",SOUTH,Priya Raman,USB-C Hub,Peripherals,6,$62.69,0%,$376.14
+SO-202504-0852,"Apr 27, 2025",EAST,Tariq Aziz,Filing Cabinet,Furniture,4,$142.08,15%,$483.07
+SO-202504-0853,"Apr 23, 2025",NORTH,Avery Lindqvist,Ergonomic Chair,Furniture,5,$251.59,15%,"$1,069.26"
+SO-202504-0854,"Apr 01, 2025",SOUTH,Priya Raman,Bookshelf,Furniture,11,$115.22,0%,"$1,267.42"
+SO-202504-0855,"Apr 18, 2025",EAST,Elena Petrova,USB-C Hub,Peripherals,1,$63.71,15%,$54.15
+SO-202504-0856,"Apr 27, 2025",NORTH,Avery Lindqvist,Wireless Keyboard,Peripherals,2,$57.65,5%,$109.54
+SO-202504-0857,"Apr 05, 2025",NORTH,Kenji Mori,Wireless Keyboard,Peripherals,8,$59.72,15%,$406.10
+SO-202504-0858,"Apr 09, 2025",WEST,Avery Lindqvist,Filing Cabinet,Furniture,1,$136.58,0%,$136.58
+SO-202504-0859,"Apr 02, 2025",CENTRAL,Elena Petrova,Standing Desk,Furniture,10,$322.06,0%,"$3,220.60"
+SO-202504-0860,"Apr 06, 2025",NORTH,Elena Petrova,Cable Tray,Accessories,10,$19.14,0%,$191.40
+SO-202504-0861,"Apr 07, 2025",CENTRAL,Noor Haddad,Wireless Keyboard,Peripherals,7,$58.72,0%,$411.04
+SO-202504-0862,"Apr 01, 2025",EAST,Tariq Aziz,Laptop Stand,Accessories,12,$43.88,0%,$526.56
+SO-202504-0863,"Apr 10, 2025",SOUTH,Noor Haddad,Standing Desk,Furniture,8,$330.10,0%,"$2,640.80"
+SO-202504-0864,"Apr 12, 2025",NORTH,Noor Haddad,Laptop Stand,Accessories,2,$43.38,15%,$73.75
+SO-202504-0865,"Apr 05, 2025",NORTH,Jonas Weber,Desk Lamp,Lighting,3,$39.64,15%,$101.08
+SO-202504-0866,"Apr 19, 2025",EAST,Sofia Duarte,Standing Desk,Furniture,9,$326.35,5%,"$2,790.29"
+SO-202504-0867,"Apr 10, 2025",CENTRAL,Jonas Weber,Webcam HD,Peripherals,10,$75.76,10%,$681.84
+SO-202504-0868,"Apr 14, 2025",NORTH,Tariq Aziz,USB-C Hub,Peripherals,1,$63.66,10%,$57.29
+SO-202504-0869,"Apr 18, 2025",SOUTH,Mateo Ruiz,Bookshelf,Furniture,9,$117.33,15%,$897.57
+SO-202504-0870,"Apr 07, 2025",NORTH,Sofia Duarte,Laptop Stand,Accessories,6,$43.45,10%,$234.63
+SO-202504-0871,"Apr 29, 2025",EAST,Mateo Ruiz,USB-C Hub,Peripherals,9,$65.46,15%,$500.77
+SO-202504-0872,"Apr 09, 2025",SOUTH,Elena Petrova,USB-C Hub,Peripherals,3,$65.71,0%,$197.13
+SO-202504-0873,"Apr 16, 2025",WEST,Tariq Aziz,Filing Cabinet,Furniture,3,$134.51,5%,$383.35
+SO-202504-0874,"Apr 14, 2025",WEST,Mateo Ruiz,Filing Cabinet,Furniture,7,$137.54,0%,$962.78
+SO-202504-0875,"Apr 26, 2025",SOUTH,Kenji Mori,Laptop Stand,Accessories,11,$46.24,15%,$432.34
+SO-202504-0876,"Apr 10, 2025",SOUTH,Jonas Weber,USB-C Hub,Peripherals,10,$64.72,15%,$550.12
+SO-202504-0877,"Apr 30, 2025",SOUTH,Mateo Ruiz,Cable Tray,Accessories,7,$19.76,0%,$138.32
+SO-202504-0878,"Apr 29, 2025",CENTRAL,Elena Petrova,Bookshelf,Furniture,4,$121.09,10%,$435.92
+SO-202504-0879,"Apr 14, 2025",WEST,Jonas Weber,USB-C Hub,Peripherals,1,$62.40,10%,$56.16
+SO-202504-0880,"Apr 02, 2025",SOUTH,Mateo Ruiz, Webcam HD  ,Peripherals,3,$75.87,0%,$227.61
+SO-202504-0881,"Apr 09, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,10,$64.09,5%,$608.86
+SO-202504-0882,"Apr 26, 2025",SOUTH,Noor Haddad,Webcam HD,Peripherals,10,$72.16,15%,$613.36
+SO-202504-0883,"Apr 10, 2025",SOUTH,Mateo Ruiz,Wireless Keyboard,Peripherals,10,$58.00,10%,$522.00
+SO-202504-0884,"Apr 08, 2025",NORTH,Jonas Weber,Standing Desk,Furniture,3,$323.10,5%,$920.84
+SO-202504-0885,"Apr 25, 2025",EAST,Tariq Aziz,Laptop Stand,Accessories,8,$45.37,0%,$362.96
+SO-202504-0886,"Apr 07, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,9,$91.05,0%,$819.45
+SO-202504-0930,"Apr 01, 2025",CENTRAL,Sofia Duarte,Standing Desk,Furniture,6,$330.27,0%,"$1,981.62"
+SO-202504-0887,"Apr 28, 2025",EAST,Mateo Ruiz,Task Light,Lighting,11,$54.63,15%,$510.79
+SO-202504-0888,"Apr 25, 2025",EAST,Sofia Duarte,Desk Lamp,Lighting,3,$38.91,0%,$116.73
+SO-202504-0930,"Apr 01, 2025",CENTRAL,Sofia Duarte,Standing Desk,Furniture,6,$330.27,0%,"$1,981.62"
+SO-202504-0889,"Apr 11, 2025",CENTRAL,Priya Raman,Standing Desk,Furniture,12,$317.11,15%,"$3,234.52"
+SO-202504-0890,"Apr 21, 2025",NORTH,Kenji Mori,Wireless Keyboard,Peripherals,4,$58.99,0%,$235.96
+SO-202504-0891,"Apr 04, 2025",CENTRAL,Imani Okafor,Wireless Keyboard,Peripherals,12,$58.23,0%,$698.76
+SO-202504-0892,"Apr 16, 2025",NORTH,Jonas Weber,USB-C Hub,Peripherals,7,$64.97,0%,$454.79
+SO-202504-0893,"Apr 28, 2025",EAST,Imani Okafor,Desk Lamp,Lighting,6,$40.99,5%,$233.64
+SO-202504-0894,"Apr 12, 2025",EAST,Elena Petrova,Filing Cabinet,Furniture,2,$143.71,0%,$287.42
+SO-202504-0895,"Apr 15, 2025",NORTH,Imani Okafor,Desk Lamp,Lighting,12,$40.96,0%,$491.52
+SO-202504-0896,"Apr 29, 2025",SOUTH,Noor Haddad,Wireless Keyboard,Peripherals,3,$58.93,0%,$176.79
+SO-202504-0897,"Apr 26, 2025",WEST,Sofia Duarte,Webcam HD,Peripherals,6,$73.17,5%,$417.07
+SO-202504-0898,"Apr 29, 2025",SOUTH,Sofia Duarte,Bookshelf,Furniture,8,$121.51,0%,$972.08
+SO-202504-0899,"Apr 07, 2025",SOUTH,Avery Lindqvist,Desk Lamp,Lighting,12,$38.66,5%,$440.72
+SO-202504-0900,"Apr 07, 2025",NORTH,Priya Raman,Standing Desk,Furniture,6,$330.54,5%,"$1,884.08"
+SO-202504-0901,"Apr 09, 2025",WEST,Jonas Weber,Wireless Keyboard,Peripherals,12,$57.13,15%,$582.73
+SO-202504-0902,"Apr 26, 2025",EAST,Jonas Weber,USB-C Hub,Peripherals,7,$66.29,0%,$464.03
+SO-202504-0903,"Apr 08, 2025",CENTRAL,Tariq Aziz,Webcam HD,Peripherals,4,$72.84,10%,$262.22
+SO-202504-0904,"Apr 14, 2025",EAST,Tariq Aziz,USB-C Hub,Peripherals,11,$63.65,5%,$665.14
+SO-202504-0905,"Apr 13, 2025",CENTRAL,Tariq Aziz,Cable Tray,Accessories,10,$19.45,0%,$194.50
+SO-202504-0906,"Apr 13, 2025",SOUTH,Sofia Duarte,Cable Tray,Accessories,1,$18.91,10%,$17.02
+SO-202504-0907,"Apr 07, 2025",NORTH,Avery Lindqvist,Filing Cabinet,Furniture,10,$135.77,15%,"$1,154.05"
+SO-202504-0908,"Apr 17, 2025",SOUTH,Kenji Mori,Ergonomic Chair,Furniture,8,$242.95,0%,"$1,943.60"
+SO-202504-0909,"Apr 14, 2025",SOUTH,Tariq Aziz,Bookshelf,Furniture,4,$123.35,0%,$493.40
+SO-202504-0910,"Apr 27, 2025",NORTH,Kenji Mori,USB-C Hub,Peripherals,7,$63.73,15%,$379.19
+SO-202504-0911,"Apr 11, 2025",CENTRAL,Jonas Weber,Wireless Keyboard,Peripherals,11,$58.44,0%,$642.84
+SO-202504-0912,"Apr 06, 2025",CENTRAL,Elena Petrova,Bookshelf,Furniture,3,$118.35,0%,$355.05
+SO-202504-0913,"Apr 17, 2025",SOUTH,Avery Lindqvist,Monitor Arm,Accessories,12,$92.49,10%,$998.89
+SO-202504-0914,"Apr 15, 2025",WEST,Elena Petrova,Ergonomic Chair,Furniture,4,$257.38,5%,$978.04
+SO-202504-0915,"Apr 27, 2025",NORTH,Tariq Aziz,Task Light,Lighting,9,$54.29,10%,
+SO-202504-0916,"Apr 26, 2025",SOUTH,Priya Raman,Ergonomic Chair,Furniture,12,$245.15,0%,"$2,941.80"
+SO-202504-0917,"Apr 03, 2025",SOUTH,Mateo Ruiz,Ergonomic Chair,Furniture,12,$250.03,0%,"$3,000.36"
+SO-202504-0918,"Apr 02, 2025",NORTH,Elena Petrova,Desk Lamp,Lighting,5,$41.32,5%,$196.27
+SO-202504-0919,"Apr 04, 2025",EAST,Kenji Mori,Ergonomic Chair,Furniture,12,$244.91,5%,"$2,791.97"
+SO-202504-0920,"Apr 05, 2025",SOUTH,Elena Petrova,USB-C Hub,Peripherals,6,$65.29,15%,$332.98
+SO-202504-0921,"Apr 18, 2025",CENTRAL,Jonas Weber,Monitor Arm,Accessories,12,$88.48,15%,$902.50
+SO-202504-0922,"Apr 13, 2025",NORTH,Elena Petrova,Webcam HD,Peripherals,12,$72.42,5%,$825.59
+SO-202504-0923,"Apr 16, 2025",WEST,Kenji Mori,Webcam HD,Peripherals,6,$75.10,0%,$450.60
+SO-202504-0924,"Apr 27, 2025",CENTRAL,Noor Haddad,Ergonomic Chair,Furniture,1,$257.97,15%,$219.27
+SO-202504-0925,"Apr 13, 2025",EAST,Sofia Duarte,Laptop Stand,Accessories,5,$43.22,0%,$216.10
+SO-202504-0926,"Apr 11, 2025",WEST,Sofia Duarte,Ergonomic Chair,Furniture,11,$257.15,5%,"$2,687.22"
+SO-202504-0927,"Apr 08, 2025",EAST,Elena Petrova,USB-C Hub,Peripherals,2,$66.35,10%,$119.43
+SO-202504-0928,"Apr 19, 2025",NORTH,Kenji Mori,Bookshelf,Furniture,6,$118.03,0%,$708.18
+SO-202504-0929,"Apr 24, 2025",CENTRAL,Sofia Duarte,Monitor Arm,Accessories,11,$88.24,15%,$825.04
+SO-202504-0930,"Apr 01, 2025",CENTRAL,Sofia Duarte,Standing Desk,Furniture,6,$330.27,0%,"$1,981.62"
+SO-202504-0931,"Apr 12, 2025",EAST,Mateo Ruiz,Laptop Stand,Accessories,3,$45.05,10%,$121.64
+SO-202504-0932,"Apr 16, 2025",CENTRAL,Priya Raman,Filing Cabinet,Furniture,3,$140.05,5%,$399.14
+SO-202504-0933,"Apr 02, 2025",NORTH,Kenji Mori,USB-C Hub,Peripherals,8,$65.43,0%,$523.44
+SO-202504-0934,"Apr 10, 2025",EAST,Avery Lindqvist,Standing Desk,Furniture,3,$328.70,0%,$986.10
+SO-202504-0935,"Apr 28, 2025",NORTH,Imani Okafor,Cable Tray,Accessories,3,$19.79,10%,$53.43
+SO-202504-0936,"Apr 27, 2025",SOUTH,Elena Petrova,Cable Tray,Accessories,2,$19.83,15%,$33.71
+SO-202504-0937,"Apr 06, 2025",CENTRAL,Elena Petrova,Standing Desk,Furniture,6,$320.82,0%,"$1,924.92"
+SO-202504-0938,"Apr 21, 2025",NORTH,Sofia Duarte,Bookshelf,Furniture,10,$116.93,0%,"$1,169.30"
+SO-202504-0939,"Apr 11, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,3,$61.94,0%,$185.82
+SO-202504-0940,"Apr 08, 2025",NORTH,Avery Lindqvist,USB-C Hub,Peripherals,8,$64.98,10%,$467.86
+SO-202504-0941,"Apr 01, 2025",NORTH,Priya Raman,Desk Lamp,Lighting,4,$39.59,0%,$158.36
+SO-202504-0942,"Apr 10, 2025",NORTH,Avery Lindqvist,Standing Desk,Furniture,10,$323.79,0%,"$3,237.90"
+SO-202504-0943,"Apr 13, 2025",WEST,Tariq Aziz,Task Light,Lighting,3,$54.92,10%,$148.28
+SO-202504-0944,"Apr 09, 2025",NORTH,Jonas Weber,Filing Cabinet,Furniture,2,$133.90,0%,$267.80
+SO-202504-0945,"Apr 20, 2025",CENTRAL,Avery Lindqvist,Ergonomic Chair,Furniture,3,$248.13,15%,$632.73
+SO-202504-0946,"Apr 03, 2025",NORTH,Elena Petrova,Ergonomic Chair,Furniture,10,$252.94,15%,"$2,149.99"
+SO-202504-0947,"Apr 03, 2025",SOUTH,Mateo Ruiz,Laptop Stand,Accessories,12,$44.64,15%,$455.33
+SO-202504-0948,"Apr 06, 2025",NORTH,Imani Okafor,USB-C Hub,Peripherals,6,$62.65,0%,$375.90
+SO-202504-0589,"Apr 20, 2025",WEST,Imani Okafor,Desk Lamp,Lighting,8,$40.32,0%,$322.56
+SO-202504-0949,"Apr 06, 2025",EAST,Avery Lindqvist,Filing Cabinet,Furniture,3,$139.97,15%,$356.92
+SO-202504-0950,"Apr 20, 2025",CENTRAL,Tariq Aziz,Cable Tray,Accessories,5,$19.56,5%,$92.91
+SO-202504-0951,"Apr 03, 2025",NORTH,Avery Lindqvist,Desk Lamp,Lighting,7,$41.17,10%,$259.37
+SO-202504-0952,"Apr 15, 2025",NORTH,Sofia Duarte,Laptop Stand,Accessories,5,$45.07,0%,$225.35
+SO-202504-0953,"Apr 25, 2025",EAST,Mateo Ruiz,Ergonomic Chair,Furniture,9,$244.01,0%,"$2,196.09"
+SO-202504-0954,"Apr 15, 2025",WEST,Kenji Mori,Ergonomic Chair,Furniture,9,$253.59,15%,"$1,939.96"
+SO-202504-0955,"Apr 17, 2025",NORTH,Kenji Mori,USB-C Hub,Peripherals,12,$64.40,0%,$772.80
+SO-202504-0956,"Apr 27, 2025",NORTH,Elena Petrova,USB-C Hub,Peripherals,5,$65.26,0%,$326.30
+Total,,,,,,,,,"$627,491.67"

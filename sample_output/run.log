@@ -1,0 +1,11 @@
+23:33:58 [INFO] Raw exports: 12 files (8 CSV, 4 XLSX), 3 header spellings, 4 date styles, comma and semicolon delimiters
+23:33:59 [INFO] Cleaning: 11,716 raw rows read, 11,442 orders kept in 0.7s
+23:33:59 [INFO] Fixed: 71 blank rows, 5 footer rows, 160 duplicates, 89 missing amounts recomputed, 38 rows rejected (no order ID)
+23:33:59 [INFO] Normalised: 6,765 dates, 7,614 region labels, 14,228 text numbers, 2,140 padded cells
+23:33:59 [INFO] Cleaning log equals the injected problems in 12/12 files
+23:33:59 [INFO] Ground truth: 11,442 of 11,442 orders recovered, 0 with a wrong field, revenue matches: True
+23:33:59 [INFO] Report built in 1.0s: 0.64 MB, 5 sheets
+23:34:14 [INFO] LibreOffice recalculation (2.4s): 149 formulas, 0 mismatches, 0 errors, max deviation 4.5e-13
+23:34:14 [INFO] Verifier self-test: a planted wrong value was caught (1 mismatch found)
+23:34:24 [INFO] Refresh: next month's export added (13 files, 13 months), report rebuilt in 2.1s, 1,019 new orders
+23:34:24 [INFO] Refresh check: 157 formulas, 0 mismatches, 0 errors, 0 orders with a wrong field

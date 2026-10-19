@@ -1,0 +1,13 @@
+file,rows_read,blank_rows,footer_rows,missing_id_rejected,duplicates_removed,amounts_recomputed,text_numbers_converted,dates_normalized,region_labels_standardized,cells_trimmed,rows_kept,ambiguous_dates,amount_mismatches
+APR-sales-report.csv,974,4,1,2,13,7,2855,954,954,29,954,0,0
+Aug-2025-orders.csv,1001,7,0,5,14,4,2921,0,975,29,975,0,0
+Feb_2025_branch_export.csv,1034,3,1,4,14,8,0,1012,1012,20,1012,0,0
+June sales (final).xlsx,870,3,0,1,12,11,2551,854,854,880,854,0,0
+OCT_export.csv,1037,9,0,4,14,4,3026,1010,0,30,1010,0,0
+branch_export_mar.xlsx,854,8,0,3,11,8,0,0,0,27,832,0,0
+dec2025_orders.xlsx,982,4,0,4,14,5,2875,0,960,995,960,0,0
+export_2025_07.csv,964,8,1,4,13,8,0,938,0,22,938,0,0
+sales_2025-01.csv,1072,6,0,3,15,6,0,0,0,29,1048,0,0
+sales_may_2025.csv,981,9,0,5,14,13,0,953,953,14,953,0,0
+sales_nov_2025.csv,1066,4,1,2,15,7,0,1044,1044,33,1044,0,0
+september_branch.xlsx,881,6,1,1,11,8,0,0,862,32,862,0,0
